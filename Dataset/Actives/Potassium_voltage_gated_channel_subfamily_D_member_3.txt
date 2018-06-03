@@ -1,5 +1,0 @@
-NC(N)=N	guanidine
-NC1=CC=NC=C1	fampridine
-NC1=CC=NC=C1N	amifampridine
-COCC1=C([C@@H](c2cc3ccccc3n2C)n4nc(cc4N1)C(F)(F)F)C(=O)N5CCC[C@H]5c6onc(C)c6	CHEMBL2042163	pIC50=5.24
-COc1ccc(CCN2[C@@H](CN(NS(=O)(=O)C)C2=O)c3ccc(OC)cc3)cc1	CHEMBL569185	pIC50=5.41

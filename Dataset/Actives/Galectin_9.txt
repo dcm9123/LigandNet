@@ -1,4 +1,0 @@
-CNC(=O)c1cn(nn1)[C@H]2[C@@H](O)[C@@H](CO)O[C@@H](S[C@@H]3O[C@H](CO)[C@H](O)[C@@H]([C@H]3O)n4cc(nn4)C(=O)NC)[C@@H]2O	CHEMBL1253923	pKd=6.04
-OC[C@H]1O[C@@H](S[C@@H]2O[C@H](CO)[C@H](O)[C@@H]([C@H]2O)n3cc(nn3)C(=O)NCC=C)[C@H](O)[C@H]([C@H]1O)n4cc(nn4)C(=O)NCC=C	CHEMBL1253187	pKd=6.13
-OC[C@H]1O[C@@H](S[C@@H]2O[C@H](CO)[C@H](O)[C@H](NC(=O)c3ccc4ccccc4c3)[C@H]2O)[C@H](O)[C@@H](NC(=O)c5ccc6ccccc6c5)[C@H]1O	CHEMBL444662	pKd=6.14
-OC[C@H]1O[C@@H](S[C@@H]2O[C@H](CO)[C@H](O)[C@@H]([C@H]2O)n3cc(nn3)C(=O)NCc4ccccc4)[C@H](O)[C@H]([C@H]1O)n5cc(nn5)C(=O)NCc6ccccc6	CHEMBL1253743	pKd=6.28

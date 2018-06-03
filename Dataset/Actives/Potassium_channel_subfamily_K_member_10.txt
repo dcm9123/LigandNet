@@ -1,6 +1,0 @@
-FC(F)OC(F)C(F)(F)F	desflurane
-FC(F)OC(Cl)C(F)(F)F	isoflurane
-FC(F)OC(F)(F)C(F)Cl	enflurane
-FC(F)(F)C(Cl)Br	halothane
-FCOC(C(F)(F)F)C(F)(F)F	sevoflurane
-COc1ccccc1OCCNCC(O)COc2cccc3[nH]c4ccccc4c23	carvedilol	pIC50=5.12

@@ -1,7 +1,0 @@
-C[C@H]1C[C@H](C)CN(C1)c2cc(Nc3ccccc3C(=O)O)c4C(=O)c5ccccc5c6onc2c46	CHEMBL3621951	pKd=6.51
-NC1=Nc2ccccc2NC1=O	CHEMBL1652555	pKi=7.68
-O=C1NC2=Nc3ccccc3NC2=Nc4ccccc14	CHEMBL2206682	pKi=8.88
-O=C(CC(C#N)C#N)c1ccccc1	CHEMBL2206686	pKi=9.53
-Nc1c(cc(c2ccccc2)n1c3ccccn3)C#N	CHEMBL2206687	pKi=10.48
-Nc1c(cc(c2ccccc2)n1c3cccc(Br)c3)c4nc5ccccc5[nH]4	CHEMBL2206697	pKi=10.92
-Nc1c(cc(c2ccccc2)n1c3ccc(Br)cc3)c4nc5ccccc5[nH]4	CHEMBL2206698	pKi=10.96

@@ -1,2 +1,0 @@
-Fc1ccccc1C(=O)Nc2ccc3c(c2)C(=O)C(=O)c4ccccc34	CHEMBL50878	pIC50=6.22
-CCCNC(=O)COc1ccc(cc1)c2oc3cc(O)c(cc3c2C#Cc4cccc(Cl)c4)C(=O)O	CHEMBL2396718	pIC50=6.41

@@ -1,9 +1,0 @@
-CNS(=O)(=O)CCC1=CC=C2NC=C(C3CCN(C)CC3)C2=C1	naratriptan	pKi=7.69999981	pKi=7.69999981	pKi=7.69999981
-[H][C@@]12CC3=CNC4=CC=CC(=C34)C1=C[C@H](CN2C)C(=O)N[C@@H](CC)CO	methylergometrine	pKi=7.1	pKi=7.1	pKi=7.1
-CN1CCC[C@@H]1CC1=CNC2=C1C=C(CCS(=O)(=O)C1=CC=CC=C1)C=C2	eletriptan	pKi=7.2	pKi=7.2	pKi=7.2
-[H][C@@]12CC3=CNC4=CC=CC(=C34)C1=C[C@H](CN2C)C(=O)N(CC)CC	lysergide	pKi=7.03	pKi=7.03	pKi=7.03
-[H]C12CN(C)CC1([H])C1=C(OC3=C2C=CC=C3)C=CC(Cl)=C1	asenapine	pKi=8.0	pKi=8.0	pKi=8.0
-NC(=O)c1ccc2[nH]cc(C3=CCC(CC3)NCCCCCCCNC4CCC(=CC4)c5c[nH]c6ccc(cc56)C(=O)N)c2c1	CHEMBL22744	pIC50=7.0
-CCN(CC)C(=O)[C@H]1CN(C)[C@@H]2Cc3c[nH]c4cccc(C2=C1)c34	CHEMBL263881	pKi=7.03
-NCCc1c[nH]c2ccc(O)cc12	CHEMBL39	pKi=7.96
-Oc1ccc2[nH]cc(C3CCN(CCCCCNC(=O)\C=C\c4ccc(Cl)c(Cl)c4)CC3)c2c1	CHEMBL432713	pKi=8.2

@@ -1,3 +1,0 @@
-CNC(=O)C1=CC(OC2=CC=C(NC(=O)NC3=CC=C(Cl)C(=C3)C(F)(F)F)C=C2)=CC=N1	sorafenib	pKd=8.57	pKd=8.57	pKd=8.57	pKd=8.48
-CCN1CCN(Cc2ccc(NC(=O)Nc3ccc(Oc4cc(NC)ncn4)cc3)cc2C(F)(F)F)CC1	CHEMBL574738	pKd=8.41
-COc1cc2c(Oc3ccc(NC(=O)C4(CC4)C(=O)Nc5ccc(F)cc5)cc3F)ccnc2cc1OCCCN6CCOCC6	CHEMBL1230609	pKd=9.29

@@ -1,3 +1,0 @@
-Clc1ccccc1\N=C/2\NC(=O)\C(=C\c3ccc4ncccc4c3)\S2	CHEMBL3730504	pIC50=8.0
-Brc1ccccc1\N=C/2\NC(=O)\C(=C\c3ccc4ncccc4c3)\S2	CHEMBL3728543	pIC50=9.0
-Nc1ccc(Cl)c(NC2=NC(=O)\C(=C\c3ccc4ncccc4c3)\S2)c1	CHEMBL3728359	pIC50=9.0

@@ -1,6 +1,0 @@
-OC(=O)c1ccc(NC(=O)CCCCCn2cc(CN(CC(=O)N(Cc3ccc(cc3)C4CCCCC4)c5ccc(C(=O)O)c(O)c5)S(=O)(=O)c6cccc7cccnc67)nn2)cc1O	CHEMBL3633139	pIC50=6.05
-Oc1cc2OC(=CC(=O)c2c(O)c1O)c3cocc3	CHEMBL3740878	pIC50=6.05
-Oc1cc2OC(=CC(=O)c2c(O)c1O)c3occc3	CHEMBL3739950	pIC50=6.1
-OC(=O)c1ccc(NC(=O)CCCCn2cc(CN(CC(=O)N(Cc3ccc(cc3)C4CCCCC4)c5ccc(C(=O)O)c(O)c5)S(=O)(=O)c6cccc7cccnc67)nn2)cc1O	CHEMBL3633138	pIC50=6.22
-Oc1ccc(cc1)C2=CC(=O)c3c(O)c(O)c(O)cc3O2	CHEMBL55415	pIC50=6.22
-Oc1cc2OC=C(C(=O)c2c(O)c1O)c3cc(O)c(O)c(O)c3	CHEMBL1438439	pIC50=6.3

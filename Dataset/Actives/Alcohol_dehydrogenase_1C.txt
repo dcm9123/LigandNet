@@ -1,2 +1,0 @@
-CC1=CNN=C1	fomepizole
-CCCCCCC(C)NC=O	CHEMBL48122	pKi=6.39

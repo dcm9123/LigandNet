@@ -1,3 +1,0 @@
-NC(CC(O)c1cccc(O)c1)C(=O)O	CHEMBL120534	pKi=7.0
-NC(CS(=O)(=O)c1ccccc1N)C(=O)O	CHEMBL280572	pKi=7.16
-N[C@H](CS(=O)(=O)c1ccccc1N)C(=O)O	CHEMBL88626	pKi=7.16

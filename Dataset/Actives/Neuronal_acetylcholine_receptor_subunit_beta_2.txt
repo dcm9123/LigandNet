@@ -1,2 +1,0 @@
-[H][C@]12C[C@]([H])(CNC1)C1=C2C=C2N=CC=NC2=C1	varenicline	pKi=9.3979	pKi=9.3979	pKi=9.3979
-CN1CCC[C@H]1C1=CC=CN=C1	nicotine	pKi=8.56	pKi=8.56	pKi=8.56

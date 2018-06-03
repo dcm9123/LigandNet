@@ -1,3 +1,0 @@
-CC[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)c2ccc(Br)cc2)C(=O)N[C@@H](Cc3ccc(O)cc3)C(=O)N[C@@H](CCCC[N+](C)(C)C)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCCNC(=S)Nc4ccc(C5=C6C=CC(=O)C=C6Oc7cc(O)ccc57)c(c4)C(=O)O)C(=O)N	CHEMBL3780712	pKd=6.0
-C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)c2ccc(Br)cc2)C(=O)N[C@@H](Cc3ccc(O)cc3)C(=O)N[C@@H](CCCC[N+](C)(C)C)C(=O)N[C@@H](CO)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCCNC(=S)Nc4ccc(C5=C6C=CC(=O)C=C6Oc7cc(O)ccc57)c(c4)C(=O)O)C(=O)N	CHEMBL3780251	pKd=6.0
-C[C@H](NC(=O)[C@H](Cc1ccccc1)NC(=O)c2ccc(Br)cc2)C(=O)N[C@@H](C3CCCC3)C(=O)N[C@@H](CCCC[N+](C)(C)C)C(=O)NCCN	CHEMBL3559502	pKd=6.32

@@ -1,6 +1,0 @@
-Oc1cc(O)c2C[C@@H](OC(=O)c3cc(O)c(O)c(O)c3)[C@H](Oc2c1)c4cc(O)c(O)c(O)c4	CHEMBL297453	pIC50=6.14
-CC(=O)O[C@H](COP(=O)(O)O)[C@@H](OC(=O)C)C(=O)NO	CHEMBL114269	pKi=6.44
-Oc1cc(O)c2C[C@@H](OC(=O)c3cc(O)c(O)c(O)c3)[C@H](Oc2c1)c4ccc(O)c(O)c4	CHEMBL36327	pIC50=6.68
-O[C@H](COP(=O)(O)O)[C@@H](O)C(=O)O	CHEMBL1160945	pKi=6.89
-CC1(C)O[C@H](COP(=O)(O)O)[C@@H](O1)C(=O)NO	CHEMBL324609	pKi=7.46
-ONC(=O)[C@H](O)[C@H](O)COP(=O)(O)O	CHEMBL116018	pKi=8.0

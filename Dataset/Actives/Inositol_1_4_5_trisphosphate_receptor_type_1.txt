@@ -1,7 +1,0 @@
-O[C@@H]1[C@H](O)[C@@H](OP(=O)(O)O)[C@H](OP(=O)(O)O)[C@@H](O)[C@@H]1OP(=O)(O)OCCCNC(=O)c2cccc3ccccc23	CHEMBL169923	pKd=5.08
-CN(C)c1ccc(cc1)C(c2ccc(cc2)N(C)C)c3ccc(cc3)C(=O)NCCCOP(=O)(O)O[C@@H]4[C@H](O)[C@H](O)[C@@H](OP(=O)(O)O)[C@H](OP(=O)(O)O)[C@H]4O	CHEMBL352326	pKd=5.5
-O[C@@H]1[C@H](O)[C@@H](OP(=O)(O)O)[C@H](OP(=O)(O)O)[C@@H](O)[C@@H]1OP(=O)(O)OCCCNC(=O)CCCc2ccc3ccc4cccc5ccc2c3c45	CHEMBL434103	pKd=5.59
-NCCCOP(=O)(O)O[C@@H]1[C@H](O)[C@H](O)[C@@H](OP(=O)(O)O)[C@H](OP(=O)(O)O)[C@H]1O	CHEMBL297235	pKd=5.82
-CN(C)c1ccc2C(=C3C=CC(=[N+](C)C)C=C3Oc2c1)c4ccc(cc4C(=O)[O-])C(=O)NCCCOP(=O)(O)O[C@@H]5[C@H](O)[C@H](O)[C@@H](OP(=O)(O)O)[C@H](OP(=O)(O)O)[C@H]5O	CHEMBL369479	pKd=6.21
-O[C@@H]1[C@H](O)[C@@H](OP(=O)(O)O)[C@H](OP(=O)(O)O)[C@@H](O)[C@@H]1OP(=O)(O)O	CHEMBL279107	pIC50=6.52
-CN(C)c1ccc(cc1)C(=C2C=CC(=[N+](C)C)C=C2)c3ccc(cc3)C(=O)NCCCOP(=O)(O)O[C@@H]4[C@H](O)[C@H](O)[C@@H](OP(=O)(O)O)[C@H](OP(=O)(O)O)[C@H]4O	CHEMBL172534	pKd=8.93

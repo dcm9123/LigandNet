@@ -1,5 +1,0 @@
-OC(=O)c1ccc(CN2C(=O)S\C(=C/c3ccc(Oc4ccccc4)cc3)\C2=O)cc1	CHEMBL393606	pIC50=6.05
-OC(=O)c1ccc(cc1O)c2ccc(CC3=C(Oc4ccccc4C3=O)c5ccc(O)cc5)cc2	CHEMBL494537	pIC50=6.16
-OC(=O)c1ccc(COc2cccc(\C=C\3/S\C(=N/c4ccccc4)\N(Cc5ccc(cc5)C(=O)O)C3=O)c2)cc1	CHEMBL1765349	pIC50=6.3
-CCCNC(=O)COc1ccc(cc1)c2oc3cc(O)c(cc3c2C#Cc4cccc(Cl)c4)C(=O)O	CHEMBL2396718	pIC50=6.47
-Oc1ccc(cc1)C2=C(Cc3ccc(cc3)c4ccccc4)C(=O)c5cc(O)c(O)cc5O2	CHEMBL515146	pKi=6.47

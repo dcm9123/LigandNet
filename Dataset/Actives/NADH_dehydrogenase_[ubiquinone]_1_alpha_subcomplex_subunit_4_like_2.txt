@@ -1,2 +1,0 @@
-CN(C)C(=N)NC(N)=N	metformin
-Cc1[nH]c(\C=C\2/C(=O)Nc3ccc(F)cc23)c(C)c1C(=O)NC[C@H](O)CN4CCOCC4	CHEMBL1721885	pKd=6.7

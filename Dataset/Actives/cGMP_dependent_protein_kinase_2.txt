@@ -1,5 +1,0 @@
-C[C@]12O[C@H](C[C@]1(O)CO)n3c4ccccc4c5c6C(=O)NCc6c7c8ccccc8n2c7c35	CHEMBL603469	pKd=7.6
-Clc1ccc(cc1)[C@@H]2CNC[C@H]2C(=O)Nc3cc4C=CNC(=O)c4cc3Cl	CHEMBL1082821	pIC50=7.62
-Cc1n[nH]c2ccc(cc12)c3cncc(OC[C@@H](N)Cc4ccccc4)c3	CHEMBL379218	pKd=7.72
-CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n3c4ccccc4c5c6CNC(=O)c6c7c8ccccc8n2c7c35	CHEMBL388978	pKd=7.8
-CCn1c(nc2c(ncc(OC[C@H]3CCCNC3)c12)C#CC(C)(C)O)c4nonc4N	CHEMBL494089	pKd=8.51

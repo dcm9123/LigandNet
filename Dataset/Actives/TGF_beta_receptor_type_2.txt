@@ -1,4 +1,0 @@
-C1CN(CCO1)c2ccc(cc2)c3cnc4c(cnn4c3)c5ccnc6ccccc56	CHEMBL2385582	pIC50=7.59
-COc1ccc(cc1)c2cnc3c(cnn3c2)c4cn[nH]c4	CHEMBL2385600	pIC50=7.8
-CN1CCN(CC1)c2ccc(cc2)c3cnc4c(cnn4c3)c5ccnc6ccccc56	CHEMBL2385596	pIC50=7.82
-C1CN(CCO1)c2ccc(cc2)c3cnc4c(cnn4c3)c5cn[nH]c5	CHEMBL2385579	pIC50=8.86

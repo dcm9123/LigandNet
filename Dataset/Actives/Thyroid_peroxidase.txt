@@ -1,3 +1,0 @@
-CCCC1=CC(=O)NC(=S)N1	propylthiouracil	pIC50=5.06	pIC50=5.06	pIC50=5.06
-CN1C=CNC1=S	thiamazole	pIC50=5.57	pIC50=5.57	pIC50=5.57
-CCOC(=O)N1C=CN(C)C1=S	carbimazole

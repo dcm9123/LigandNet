@@ -1,4 +1,0 @@
-CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1	dasatinib	pKd=7.74	pKd=7.74	pKd=7.74	pKd=7.75
-COc1cc(Nc2c(cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)C#N)c(Cl)cc1Cl	bosutinib	pKd=9.11	pKd=9.11	pKd=9.11	pKd=9.11
-CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)\C=C\CN(C)C	CHEMBL180022	pKd=8.11
-CNC(=O)CN1CCC(CC1)Oc2cc3c(Nc4cccc(Cl)c4F)ncnc3cc2OC	CHEMBL2408045	pIC50=8.4

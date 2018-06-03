@@ -1,3 +1,0 @@
-CC1=N[C@@H]2[C@@H](O)[C@H](O[C@@H]3O[C@H](CO[C@H]4O[C@H](CO[C@H]5O[C@H](CO[C@H]6O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]6O)[C@@H](O)[C@H](O)[C@@H]5O)[C@@H](O)[C@H](O[C@@H]7O[C@H](CO)[C@@H](O)[C@H](O[C@@H]8O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]8O)[C@@H]7O)[C@@H]4O)[C@@H](O)[C@H](O[C@@H]9O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]9O[C@@H]%10O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]%10O[C@@H]%11O[C@H](CO)[C@@H](O)[C@H](O)[C@@H]%11O)[C@@H]3O)[C@@H](CO)O[C@H]2S1	CHEMBL259756	pIC50=6.38
-CC(=O)NC[C@H]1[C@H](O)[C@H](O)[C@@H]2[C@H](O)C[C@@H](CO)N12	CHEMBL593689	pIC50=8.62
-CC(=O)N[C@@H]1[C@@H](O)[C@@H](O)[C@@H](CO)n2cc(CC(=O)O)nc12	CHEMBL596543	pIC50=8.74

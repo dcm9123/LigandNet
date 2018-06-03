@@ -1,4 +1,0 @@
-[Na+].[Na+].CO[C@H]1[C@H](O)[C@@H](N)[C@@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)CNc3cccc(NC(=O)CCCCC4CCSS4)c3)O[C@@H]2C(=O)[O-])O[C@@H]1COS(=O)(=O)[O-]	CHEMBL441895	pKd=7.48
-[Na+].[Na+].[Na+].CO[C@H]1[C@H](O)[C@@H](NS(=O)(=O)[O-])[C@@H](O[C@H]2[C@H](O)[C@@H](OS(=O)(=O)[O-])[C@H](OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)CNc3cccc(NC(=O)CCCCC4CCSS4)c3)O[C@H]2C(=O)[O-])O[C@@H]1CO	CHEMBL256614	pKd=7.52
-[Na+].[Na+].[Na+].CO[C@H]1[C@H](O)[C@@H](NS(=O)(=O)[O-])[C@@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)CNc3cccc(NC(=O)CCCCC4CCSS4)c3)O[C@@H]2C(=O)[O-])O[C@@H]1COS(=O)(=O)[O-]	CHEMBL404103	pKd=8.19
-[Na+].[Na+].[Na+].[Na+].CO[C@H]1[C@H](O)[C@@H](NS(=O)(=O)[O-])[C@@H](O[C@H]2[C@H](O)[C@@H](OS(=O)(=O)[O-])[C@H](OC[C@@H](O)[C@@H](O)[C@H](O)[C@@H](O)CNc3cccc(NC(=O)CCCCC4CCSS4)c3)O[C@H]2C(=O)[O-])O[C@@H]1COS(=O)(=O)[O-]	CHEMBL404104	pKd=8.26

@@ -1,2 +1,0 @@
-S=C1N=CNC2=C1NC=N2	mercaptopurine
-CCCCC\C=C/C[C@@H](O)\C=C\C=C\C=C/[C@@H](O)CCCC(=O)O	CHEMBL65061	pKi=8.54

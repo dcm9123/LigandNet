@@ -1,7 +1,0 @@
-OC1(CCN(CCCC(=O)c2ccc(F)cc2)CC1)c3ccc(Cl)cc3	haloperidol	pKi=6.11
-Clc1cccc(N2CCN(CCCCOc3ccc4CCC(=O)Nc4c3)CC2)c1Cl	aripiprazole	pKi=7.55
-Clc1cc2NC(=O)Cc2cc1CCN3CCN(CC3)c4nsc5ccccc45	ziprasidone	pKi=7.82
-CC1=C(CCN2CCC(CC2)c3noc4cc(F)ccc34)C(=O)N5CCCCC5=N1	risperidone	pKi=7.85
-OCCOCCN1CCN(CC1)C2=Nc3ccccc3Sc4ccccc24	quetiapine	pKi=8.0
-CN1CCN(CC1)C2=Nc3ccccc3Nc4sc(C)cc24	olanzapine	pKi=8.7
-CN1CCN(CC1)C2=Nc3cc(Cl)ccc3Nc4ccccc24	clozapine	pKi=9.0

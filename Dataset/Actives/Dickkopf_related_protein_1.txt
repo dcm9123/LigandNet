@@ -1,3 +1,0 @@
-NC1CCN(CC1)c2nccc(n2)c3ccc4ccccc4c3	CHEMBL570666	pEC50=6.0
-NS(=O)(=O)c1ccc(Nc2nccc(n2)c3ccc4ccccc4c3)cc1	CHEMBL569046	pEC50=6.0
-NCC1CCN(CC1)c2nccc(n2)c3ccc4ccccc4c3	CHEMBL570667	pEC50=6.2

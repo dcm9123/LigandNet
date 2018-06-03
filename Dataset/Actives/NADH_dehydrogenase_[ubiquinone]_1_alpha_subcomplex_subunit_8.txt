@@ -1,2 +1,0 @@
-CN(C)C(=N)NC(N)=N	metformin
-CC1=C(CCNCC2=CC=C(\C=C\C(=O)NO)C=C2)C2=CC=CC=C2N1	panobinostat	pIC50=6.43

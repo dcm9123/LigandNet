@@ -1,3 +1,0 @@
-N[C@@H](Cc1ccc(cc1)c2cc(OC(c3ccccc3c4occc4)C(F)(F)F)nc(N)n2)C(=O)O	CHEMBL471564	pEC50=6.1
-N[C@@H](Cc1ccc(cc1)c2cc(OC(c3ccccc3n4ccc(n4)C(F)(F)F)C(F)(F)F)nc(N)n2)C(=O)O	CHEMBL479924	pEC50=6.13
-Cc1cccc(c1)c2ccccc2C(Oc3cc(nc(N)n3)c4ccc(C[C@H](N)C(=O)O)cc4)C(F)(F)F	CHEMBL471380	pEC50=6.25

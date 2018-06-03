@@ -1,2 +1,0 @@
-[O-][N+](=O)C1=CC=C(C=C1)C1=CC=C(O1)\C=N\N1CC(=O)NC1=O	dantrolene
-CC1(C)c2cc(ccc2C(=O)c3c1[nH]c4cc(ccc34)C#N)C5CCN(CC6CCOCC6)CC5	CHEMBL3735648	pIC50=6.77

@@ -1,6 +1,0 @@
-Cl.OP(=O)(O)[C@H](NCc1ccccc1)c2ccccc2	CHEMBL453954	pIC50=6.7
-Cl.C[C@@H](N[C@H](c1ccccc1)P(=O)(O)O)c2ccccc2	CHEMBL501717	pIC50=7.59
-Cl.COc1ccc(cc1)[C@@H](N[C@H](C)c2ccccc2)P(=O)(O)O	CHEMBL507996	pIC50=7.74
-OP(=O)(O)C(NCc1ccccc1)c2cccc3ccccc23	CHEMBL68858	pIC50=8.07
-Cl.OP(=O)(O)[C@@H](NCc1ccccc1)c2ccccc2	CHEMBL454997	pIC50=8.3
-OP(=O)(O)C(NCc1ccccc1)c2ccccc2	CHEMBL498632	pIC50=8.4

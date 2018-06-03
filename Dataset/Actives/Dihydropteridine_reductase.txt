@@ -1,3 +1,0 @@
-[Br-].C[n+]1ccc(cc1)c2ccc(O)c(O)c2	CHEMBL109090	pIC50=6.2
-Oc1ccc(cc1O)c2ccncc2	CHEMBL110377	pIC50=6.42
-CC(=O)N1CCC(=CC1)c2ccc(O)c(O)c2	CHEMBL324880	pIC50=6.55

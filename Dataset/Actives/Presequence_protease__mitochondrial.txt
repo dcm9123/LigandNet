@@ -1,2 +1,0 @@
-Oc1ccc(Br)cc1Cn2c(nc3ccc(cc23)[N+](=O)[O-])c4cc(Br)ccc4O	CHEMBL3127264	pEC50=6.15
-Oc1ccc(Br)cc1CN2C(N(Cc3cc(Br)ccc3O)c4cc(ccc24)[N+](=O)[O-])c5cc(Br)ccc5O	CHEMBL3127263	pEC50=6.22

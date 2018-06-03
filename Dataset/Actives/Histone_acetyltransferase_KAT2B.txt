@@ -1,3 +1,0 @@
-[O-][N+](=O)c1cnc2SN(C(=O)c2c1)c3ccc(Br)cc3	CHEMBL1795605	pIC50=6.07
-Fc1ccc(cc1)N2Sc3ncccc3C2=O	CHEMBL106011	pIC50=6.14
-CNC(=O)[C@H](C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@@H](NC(=O)[C@H](CCCCN)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](CCCNC(=N)N)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CO)NC(=O)[C@@H](NC(=O)CNC(=O)CNC(=O)N[C@@H](CCCCNC(=O)CSCCNC(=O)CCNC(=O)[C@H](O)C(C)(C)COP(=O)(O)OP(=O)(O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1OP(=O)(O)O)n2cnc3c(N)ncnc23)C(=O)N[C@@H](C)C(=O)N4CCC[C@H]4C(=O)N[C@@H](CCCNC(=N)N)C(=O)N[C@@H](CCCCN)C(=O)N[C@@H](CCC(=O)N)C(=O)N[C@@H](CC(C)C)C(=O)O)[C@@H](C)O)[C@@H](C)O)[C@@H](C)O	CHEMBL3775229	pIC50=6.52

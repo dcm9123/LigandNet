@@ -1,4 +1,0 @@
-CC(C)(C)c1cc(CN(C(=O)CN(Cc2ccc(Cl)cc2)S(=O)(=O)c3c(F)c(F)c(F)c(F)c3F)c4ccc(C(=O)O)c(O)c4)cc(c1)C(C)(C)C	CHEMBL3358611	pKi=6.84
-C[C@H](Nc1nc(Nc2cc(C)[nH]n2)c(C)nc1C#N)c3ncc(F)cn3	CHEMBL569720	pEC50=7.4
-C[C@H](Nc1nc(Nc2cc(C)[nH]n2)cnc1C#N)c3ncc(F)cn3	CHEMBL570002	pEC50=7.4
-C[C@H](Nc1nc(Nc2cc(C)[nH]n2)c(C)nc1C#N)c3ccc(F)cn3	CHEMBL578201	pEC50=7.7

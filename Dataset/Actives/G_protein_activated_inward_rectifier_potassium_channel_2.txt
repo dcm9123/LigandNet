@@ -1,2 +1,0 @@
-Fc1ccc(cc1)C(CCCN2CCC(CC2)N3C(=O)Nc4ccccc34)c5ccc(F)cc5	pimozide	pEC50=5.53000021	pEC50=5.53000021	pEC50=5.53000021
-CS(=O)(=O)C1=CC(Cl)=C(C=C1)C(=O)NC1=CC=C(Cl)C(=C1)C1=CC=CC=N1	vismodegib	pIC50=8.29

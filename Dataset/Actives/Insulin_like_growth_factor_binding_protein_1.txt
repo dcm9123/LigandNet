@@ -1,2 +1,0 @@
-Oc1cc2cc(O)c(O)cc2c(n1)C(=O)c3ccc(O)c(O)c3	CHEMBL130994	pKi=7.47
-OC(=O)c1cc2cc(O)c(O)cc2c(n1)C(=O)c3ccc(O)c(O)c3	CHEMBL292700	pKi=8.3

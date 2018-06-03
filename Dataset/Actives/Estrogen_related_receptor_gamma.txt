@@ -1,5 +1,0 @@
-CN(C)CCOc1ccc(cc1)\C(=C(\CCCO)/c2ccccc2)\c3ccc(O)cc3	CHEMBL201013	pIC50=7.1
-CC\C(=C(/c1ccc(O)cc1)\c2ccc(OCCN(C)C)cc2)\c3ccccc3	CHEMBL489	pIC50=7.89
-CN(C)CCOc1ccc(cc1)\C(=C(\CCCl)/c2ccccc2)\c3ccc(O)cc3	CHEMBL1402	pIC50=7.89
-CC(C)(c1ccc(O)cc1)c2ccc(O)cc2	CHEMBL418971	pKd=8.26
-CN(C)CCOc1ccc(cc1)\C(=C(\CCN=[N+]=[N-])/c2ccccc2)\c3ccc(O)cc3	CHEMBL203472	pIC50=8.3

@@ -1,6 +1,0 @@
-NC(=O)NO	hydroxycarbamide
-NC1=NC(=O)N(C=C1)[C@@H]1O[C@H](CO)[C@@H](O)C1(F)F	gemcitabine
-NC1=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@@H]3F)C2=NC(Cl)=N1	clofarabine	pIC50=8.30000019	pIC50=8.30000019	pIC50=8.30000019
-CCNc1ccc(\C=N\N=C(\N)/S)nc1	CHEMBL86188	pIC50=6.0
-CNc1cccnc1\C=N\N=C(\N)/S	CHEMBL87471	pIC50=6.0
-N\C(=N\Nc1ccc(N)c(C=O)n1)\S	CHEMBL315999	pIC50=6.09

@@ -1,4 +1,0 @@
-CN1CCN(CC2=CC=C(NC(=O)C3=CC=C(C)C(=C3)C#CC3=CN=C4C=CC=NN34)C=C2C(F)(F)F)CC1	ponatinib
-Cc1ccc(NC(=O)Nc2cccc(Cl)c2)cc1Nc3nccc(n3)c4cccnc4	CHEMBL186652	pIC50=6.0
-Cc1ccc(NC(=O)Nc2cccc(c2)N3CCCC3)cc1Nc4nccc(n4)c5cccnc5	CHEMBL184742	pIC50=6.14
-CN(C)c1cccc(NC(=O)Nc2ccc(C)c(Nc3nccc(n3)c4cccnc4)c2)c1	CHEMBL434335	pIC50=6.24

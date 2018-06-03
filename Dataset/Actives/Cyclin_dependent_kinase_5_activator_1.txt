@@ -1,3 +1,0 @@
-Oc1[nH]c2ccccc2c1c3[nH]c4ccccc4c3N=O	CHEMBL126077	pIC50=7.0
-Oc1[nH]c2ccc(I)cc2c1c3[nH]c4ccccc4c3N=O	CHEMBL337300	pIC50=7.7
-O\N=C/1\C(=C/2\C(=O)Nc3ccc(cc23)S(=O)(=O)O)\Nc4ccccc14	CHEMBL440411	pIC50=8.16

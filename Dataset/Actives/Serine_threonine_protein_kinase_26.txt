@@ -1,2 +1,0 @@
-CNc1ncc2C=C(C(=O)N(C[C@@H]3OC[C@@H](N)CO3)c2n1)c4ccc(cc4Cl)c5cccc(C)n5	CHEMBL3770443	pIC50=7.7
-CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)\C=C\CN(C)C	CHEMBL180022	pKd=8.13

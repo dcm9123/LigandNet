@@ -1,3 +1,0 @@
-NCC(CC(O)=O)C1=CC=C(Cl)C=C1	baclofen	pIC50=7.46	pIC50=7.46	pIC50=7.46
-NCC(CC(O)=O)C1=CC=CC=C1	phenibut
-[Na+].OCCCC([O-])=O	sodium oxybate

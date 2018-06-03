@@ -1,9 +1,0 @@
-CCOC(=O)C1=CC=C(N)C=C1	benzocaine
-CCN1C(=O)NC(C1=O)C1=CC=CC=C1	ethotoin
-NC1=NC(N)=C(C=C1)\N=N\C1=CC=CC=C1	phenazopyridine
-CCC1(NC(=O)N(C)C1=O)C1=CC=CC=C1	mephenytoin
-NC(=O)C1=CN(CC2=C(F)C=CC=C2F)N=N1	rufinamide
-CC(=O)O[C@H]1CC2=C(C=CC=C2)N(C(N)=O)C2=CC=CC=C12	eslicarbazepine acetate
-CCN(CC)CCNC(=O)C1=CC=C(N)C=C1	procainamide
-CC(N)C(=O)NC1=C(C)C=CC=C1C	tocainide
-Clc1ccc(cc1)c2cnn3C(=O)C=C(Cc4ccccc4)Nc23	CHEMBL505210	pIC50=5.41

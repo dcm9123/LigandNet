@@ -1,2 +1,0 @@
-NNC1=NN=CC2=CC=CC=C12	hydralazine
-[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3	estradiol	pIC50=8.52

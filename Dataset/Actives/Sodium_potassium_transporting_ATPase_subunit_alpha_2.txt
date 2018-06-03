@@ -1,4 +1,0 @@
-[H][C@@]1(C[C@H](O)[C@H](O[C@@]2([H])C[C@H](O)[C@H](O[C@@]3([H])C[C@H](O)[C@H](O)[C@@H](C)O3)[C@@H](C)O2)[C@@H](C)O1)O[C@H]1CC[C@@]2(C)[C@]([H])(CC[C@]3([H])[C@]2([H])C[C@@H](O)[C@]2(C)[C@H](CC[C@]32O)C2=CC(=O)OC2)C1	digoxin	pIC50=6.4	pIC50=6.4	pIC50=6.4
-[H][C@@]1(C[C@H](O)[C@H](O[C@@]2([H])C[C@H](O)[C@H](O[C@@]3([H])C[C@H](OC(C)=O)[C@H](O)[C@@H](C)O3)[C@@H](C)O2)[C@@H](C)O1)O[C@H]1CC[C@@]2(C)[C@]([H])(CC[C@]3([H])[C@]2([H])CC[C@]2(C)[C@H](CC[C@]32O)C2=CC(=O)OC2)C1	acetyldigitoxin
-[H][C@@]1(C[C@H](O)[C@H](O[C@@]2([H])C[C@H](O)[C@H](O[C@@]3([H])C[C@H](O)[C@H](O[C@]4([H])O[C@H](CO)[C@@H](O)[C@H](O)[C@H]4O)[C@@H](C)O3)[C@@H](C)O2)[C@@H](C)O1)O[C@H]1CC[C@@]2(C)[C@]([H])(CC[C@]3([H])[C@]2([H])C[C@@H](O)[C@]2(C)[C@H](CC[C@]32O)C2=CC(=O)OC2)C1	deslanoside
-CN1C(=O)c2c(Nc3ccccc3)n(Cc4ccc(cc4)c5cccc(F)n5)nc2N6[C@H]7CCC[C@H]7N=C16.OP(=O)(O)O	CHEMBL3770459	pKi=6.44

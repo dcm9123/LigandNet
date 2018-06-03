@@ -1,9 +1,0 @@
-CN(C)CCN(Cc1ccc(Cl)c(Cl)c1)C(=O)c2cc3scc(C#N)c3n2c4ccc(F)cc4	CHEMBL2413145	pIC50=6.27
-CN(C)CCN(Cc1ccc(Cl)c(Cl)c1)C(=O)c2cc3scc(C)c3n2c4ccc(F)cc4	CHEMBL2413141	pIC50=6.43
-CN(C)CCCN1C(=O)c2cscc2C(=C1C(=O)N(C)Cc3ccc(Cl)c(Cl)c3)c4ccc(F)cc4	CHEMBL2413136	pIC50=6.52
-CN(C)CCN(Cc1ccc(Cl)c(Cl)c1)C(=O)c2cc3scc(c3n2c4ccc(F)cc4)C(F)(F)F	CHEMBL2413144	pIC50=6.85
-CN(C)CCN(Cc1ccc(Cl)c(Cl)c1)C(=O)C2=C(c3ccc(F)cc3)c4cscc4C(=O)N2C	CHEMBL2413137	pIC50=7.0
-CN(C)CCN1C(=O)c2cscc2C(=C1C(=O)N(C)Cc3ccc(Cl)c(Cl)c3)c4ccc(F)cc4	CHEMBL2413135	pIC50=7.14
-CN(C)CCN(Cc1ccc(Cl)c(Cl)c1)C(=O)c2nc3cccc(Br)n3c2c4ccc(F)cc4	CHEMBL2413146	pIC50=7.3
-CN(C)CCN(Cc1ccc(Cl)c(Cl)c1)C(=O)c2cc3scc(Cl)c3n2c4ccc(F)cc4	CHEMBL2413143	pIC50=7.46
-CN(C)CCN(Cc1ccc(Cl)c(Cl)c1)C(=O)c2cc3scc(Br)c3n2c4ccc(F)cc4	CHEMBL2413142	pIC50=7.5

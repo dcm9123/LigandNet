@@ -1,3 +1,0 @@
-[H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	progesterone	pEC50=8.055	pEC50=8.055	pEC50=8.055
-CCCCC[C@H](O)\C=C\[C@H]1[C@H](O)CC(=O)[C@@H]1CCCCCCC(O)=O	alprostadil	pEC50=6.3
-CCCCC[C@H](O)\C=C\[C@H]1[C@H](O)CC(=O)[C@@H]1C\C=C/CCCC(O)=O	dinoprostone	pEC50=6.3

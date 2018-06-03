@@ -1,2 +1,0 @@
-N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(O)=O)C(O)=O	glutathione	pIC50=7.7	pIC50=7.7	pIC50=7.7
-N[C@@H](CCC(=O)N[C@@H](CS)C(=O)NCC(=O)O)C(=O)O	CHEMBL1543	pIC50=7.7

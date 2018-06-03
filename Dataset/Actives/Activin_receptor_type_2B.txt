@@ -1,3 +1,0 @@
-CC(C)c1nc(c2ccc(F)c(NS(=O)(=O)c3c(F)cccc3F)c2)c(s1)c4ccnc(Nc5ccc(nc5)N6CCOCC6)n4	CHEMBL1808264	pIC50=8.0
-CSc1cccc(Nc2ncc3C=C(C(=O)N(C)c3n2)c4c(Cl)cccc4Cl)c1	CHEMBL386051	pKd=8.04
-CC(C)n1nc(c2cc3cc(O)ccc3[nH]2)c4c(N)ncnc14	CHEMBL1241674	pKd=8.12

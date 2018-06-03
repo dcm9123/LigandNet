@@ -1,3 +1,0 @@
-CC(C)C[C@H](NC(=O)c1ccc(cc1)C2=CC(=O)c3cc(c(N[C@H](C)C4CCCCC4)cc3O2)[N+](=O)[O-])C(=O)N	CHEMBL1802973	pKd=7.24
-CC(C)CNc1nc2cc3C(=O)C=C(Oc3cc2n1Cc4ccccc4)c5ccc(cc5)C(=O)N[C@@H](Cc6ccccc6)C(=O)N	CHEMBL1802815	pKd=8.09
-COc1ccc(Nc2nc3cc4C(=O)C=C(Oc4cc3n2[C@H](C)C5CCCCC5)c6ccc(cc6)C(=O)N[C@@H](CC(C)C)C(=O)N)cc1	CHEMBL1802814	pKd=8.43

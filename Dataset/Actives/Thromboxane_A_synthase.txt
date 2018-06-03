@@ -1,1 +1,0 @@
-OC(=O)\C=C\C1=CC=C(CN2C=CN=C2)C=C1	ozagrel	pIC50=7.96	pIC50=7.96	pIC50=7.96

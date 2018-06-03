@@ -1,8 +1,0 @@
-OC(=O)c1cc(Cc2ccc(O)c(O)c2)c3cc(O)c(Cl)cc3n1	CHEMBL299912	pKi=6.62
-OC(=O)c1cc(Cc2ccc(O)c(O)c2)c3cc(O)c(cc3n1)C(=O)O	CHEMBL292347	pKi=6.96
-Nc1cc2nc(cc(Cc3ccc(O)c(O)c3)c2cc1O)C(=O)O	CHEMBL299259	pKi=7.28
-OC(=O)c1cc(Cc2ccc(O)c(O)c2)c3cc(O)c(F)cc3n1	CHEMBL60797	pKi=7.28
-Oc1cc2cc(O)c(O)cc2c(n1)C(=O)c3ccc(O)c(O)c3	CHEMBL130994	pKi=7.68
-OC(=O)c1cc(Cc2ccc(O)c(O)c2)c3cc(O)c(O)cc3n1	CHEMBL56978	pKi=7.89
-OC(=O)c1cc2cc(O)c(O)cc2c(Cc3ccc(O)c(O)c3)n1	CHEMBL58396	pKi=8.14
-OC(=O)c1cc2cc(O)c(O)cc2c(n1)C(=O)c3ccc(O)c(O)c3	CHEMBL292700	pKi=8.25

@@ -1,2 +1,0 @@
-O[C@@H]1c2ccccc2[C@@H]3OC(=O)[C@H]4[C@H]([C@@H](O[C@@]134)c5ccccc5)C(=O)Nc6ccc(Cl)c(Cl)c6	CHEMBL284654	pIC50=6.29
-O[C@H]1c2ccccc2[C@@H]3OC(=O)[C@H]4[C@H]([C@@H](O[C@@]134)c5ccccc5)C(=O)Nc6ccc(Cl)c(Cl)c6	CHEMBL281860	pIC50=6.59

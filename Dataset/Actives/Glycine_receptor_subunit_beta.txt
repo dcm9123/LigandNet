@@ -1,4 +1,0 @@
-FC(F)OC(F)C(F)(F)F	desflurane
-FC(F)OC(Cl)C(F)(F)F	isoflurane
-FC(F)(F)C(Cl)Br	halothane
-CNc1nc(Nc2ccc(C)c(N)c2)ncc1C(=O)Nc3cc(NC(=O)c4cccc(c4)C(F)(F)F)ccc3C	CHEMBL3780219	pIC50=6.34

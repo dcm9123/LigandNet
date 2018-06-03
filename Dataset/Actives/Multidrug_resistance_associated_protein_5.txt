@@ -1,2 +1,0 @@
-CCOc1ccc(cc1C2=Nc3c(C(=O)N2)n(C)nc3C(C)(C)C)S(=O)(=O)Nc4ccc(O)c(c4)C(=O)O	CHEMBL2047880	pKi=7.12
-CCCc1nn(C)c2c(O)nc(nc12)c3cc(ccc3OCC)S(=O)(=O)Nc4ccc(O)c(c4)C(=O)O	CHEMBL1338248	pKi=7.19

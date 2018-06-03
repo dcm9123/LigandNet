@@ -1,2 +1,0 @@
-CC(C)c1cc(Cl)cc(C(C)C)c1NC(=O)NS(=O)(=O)c2cccc(c2)C(C)(C)O	CHEMBL3781583	pIC50=6.59
-CC(C)c1cc(Cl)cc(C(C)C)c1NC(=O)NS(=O)(=O)c2cccc(c2)C(C)O	CHEMBL3781001	pIC50=6.68

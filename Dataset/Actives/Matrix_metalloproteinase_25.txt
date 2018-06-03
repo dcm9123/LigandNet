@@ -1,8 +1,0 @@
-CCCCc1ccc(cc1)C#Cc2ccc(s2)S(=O)(=O)N[C@H](Cc3ccc(cc3)C(=O)c4ccccc4)C(=O)NO	CHEMBL1795858	pIC50=6.47
-CCCCc1ccc(cc1)C#Cc2ccc(s2)S(=O)(=O)N[C@H](Cc3csc4ccccc34)C(=O)NO	CHEMBL1795860	pIC50=6.66
-CCCCc1ccc(cc1)C#Cc2ccc(s2)S(=O)(=O)N3CSC[C@H]3C(=O)NO	CHEMBL1795861	pIC50=6.77
-CCCCc1ccc(cc1)C#Cc2ccc(s2)S(=O)(=O)N[C@H](Cc3c[nH]c4ccccc34)C(=O)NO	CHEMBL1795859	pIC50=7.12
-CCCCc1ccc(cc1)C#Cc2ccc(s2)S(=O)(=O)N[C@H](Cc3ccc(OCc4ccccc4)cc3)C(=O)NO	CHEMBL1795857	pIC50=7.42
-CCCCc1ccc(cc1)C#Cc2ccc(s2)S(=O)(=O)NCC(=O)NO	CHEMBL1795351	pIC50=7.47
-CCCCc1ccc(cc1)C#Cc2ccc(s2)S(=O)(=O)N3Cc4ccccc4C[C@@H]3C(=O)NO	CHEMBL1795862	pIC50=8.47
-Cl.COc1ccc(cc1)S(=O)(=O)N(Cc2cccnc2)[C@H](C(C)C)C(=O)NO	CHEMBL514138	pIC50=8.82

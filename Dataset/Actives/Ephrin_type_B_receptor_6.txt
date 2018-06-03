@@ -1,6 +1,0 @@
-CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1	dasatinib	pKd=10.41	pKd=10.41	pKd=10.41	pKd=10.41
-[H][C@](C)(OC1=C(N)N=CC(=C1)C1=CN(N=C1)C1CCNCC1)C1=C(Cl)C=CC(F)=C1Cl	crizotinib	pKd=8.22	pKd=8.22	pKd=8.22	pKd=8.22
-CN1CCN(CC1)c2cc(Nc3cc(C)[nH]n3)nc(Sc4ccc(NC(=O)C5CC5)cc4)n2	CHEMBL572878	pKd=7.55
-COc1cc(Oc2ccnc3cc(OC)c(OC)cc23)ccc1NC(=O)NC(C)c4nccs4	CHEMBL1908396	pKd=8.3
-CSc1cccc(Nc2ncc3C=C(C(=O)N(C)c3n2)c4c(Cl)cccc4Cl)c1	CHEMBL386051	pKd=8.7
-COc1cc2c(Oc3ccc(NC(=O)C4(CC4)C(=O)Nc5ccc(F)cc5)cc3F)ccnc2cc1OCCCN6CCOCC6	CHEMBL1230609	pKd=8.89

@@ -1,2 +1,0 @@
-Cc1cc(COc2ccc(cc2)C(=O)NC3(CC(=O)NO)CCNCC3)c4ccccc4n1	CHEMBL208009	pKi=6.11
-C[C@@]1(O)CCCN([C@H]1C(=O)NO)S(=O)(=O)c2ccc(OCc3ccc(F)cc3Cl)cc2	CHEMBL187092	pIC50=7.1

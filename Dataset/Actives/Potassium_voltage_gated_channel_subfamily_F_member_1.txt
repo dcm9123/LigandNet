@@ -1,4 +1,0 @@
-NC(N)=N	guanidine
-NC1=CC=NC=C1	fampridine
-NC1=CC=NC=C1N	amifampridine
-CCCCCCCCc1ccc(CCC(N)(CO)COP(=O)(O)O)cc1	CHEMBL114606	pEC50=9.42

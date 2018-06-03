@@ -1,5 +1,0 @@
-CC(C)NC(=O)NS(=O)(=O)C1=CN=CC=C1NC1=CC(C)=CC=C1	torsemide	pIC50=6.4	pIC50=6.4	pIC50=6.4
-NS(=O)(=O)C1=CC(C(O)=O)=C(NCC2=CC=CO2)C=C1Cl	furosemide	pIC50=6.2	pIC50=6.2	pIC50=6.2
-CCC(=C)C(=O)C1=C(Cl)C(Cl)=C(OCC(O)=O)C=C1	ethacrynic acid
-CCCCNC1=C(OC2=CC=CC=C2)C(=CC(=C1)C(O)=O)S(N)(=O)=O	bumetanide	pKi=7.6	pKi=7.6	pKi=7.6
-NS(=O)(=O)C1=CC(=CC(N2CCCC2)=C1OC1=CC=CC=C1)C(O)=O	piretanide	pKd=8.3	pKd=8.3	pKd=8.3

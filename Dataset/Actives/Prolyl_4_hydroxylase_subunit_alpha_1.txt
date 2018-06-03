@@ -1,2 +1,0 @@
-OC(=O)c1ccc(nc1)c2ccc(cn2)C(=O)O	CHEMBL332005	pIC50=6.08
-OC(=O)c1ccc(nc1)c2cc(ccn2)C(=O)O	CHEMBL3586252	pKi=6.7

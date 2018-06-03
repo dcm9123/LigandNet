@@ -1,7 +1,0 @@
-CCN1CCN(Cc2ccc(NC(=O)Nc3ccc(Oc4cc(NC)ncn4)cc3)cc2C(F)(F)F)CC1	CHEMBL574738	pKd=7.54
-CNS(=O)(=O)Cc1ccc(cc1)n2nc(cc2NC(=O)Nc3ccc(Oc4ccnc5NC(=O)C=Nc45)c6ccccc36)C(C)(C)C	CHEMBL3695574	pIC50=7.54
-CN1C(=O)Nc2nccc(Oc3ccc(NC(=O)Nc4cc(nn4c5ccc(C)cc5)C(C)(C)C)c6ccccc36)c12	CHEMBL1090979	pIC50=7.62
-COc1cc(ccc1CO)n2nc(cc2NC(=O)Nc3ccc(Oc4ccnc5NC(=O)C=Nc45)c6ccccc36)C(C)(C)C	CHEMBL3695590	pIC50=7.62
-COc1ccc(cc1)n2nc(cc2NC(=O)Nc3ccc(Oc4ccnc5NC(=O)N(C)c45)c(Cl)c3Cl)C(C)(C)C	CHEMBL3695586	pIC50=7.64
-Cc1ccc(cc1)n2nc(cc2NC(=O)Nc3ccc(OCCN4CCOCC4)c5ccccc35)C(C)(C)C	CHEMBL103667	pKd=7.72
-Cc1ccc(cc1)n2nc(cc2NC(=O)Nc3ccc(Oc4ccnc5NC(=O)C=Nc45)c6ccccc36)C7(C)CC7	CHEMBL3695577	pIC50=7.72

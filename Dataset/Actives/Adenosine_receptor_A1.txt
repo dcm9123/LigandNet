@@ -1,4 +1,0 @@
-Nc1ncnc2c1ncn2[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O	adenosine	pEC50=6.5086	pEC50=6.5086	pEC50=6.5086	pIC50=8.63
-CN1C(=O)N(C)c2ncn(C)c2C1=O	caffeine	pKi=4.9000001	pKi=4.9000001	pKi=4.9000001
-CN1C2=C(N=CN2)C(=O)N(C)C1=O	theophylline	pKi=9.22	pKi=9.22	pKi=9.22	pKi=9.22
-C[N+](C)(C)CCO.CN1C2=C(N=C[N-]2)C(=O)N(C)C1=O	choline theophyllinate	pKi=9.22	pKi=9.22	pKi=9.22

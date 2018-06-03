@@ -1,8 +1,0 @@
-CC\C(=C/C(=O)C[C@H](C)C[C@@H](C)CC[C@H](O)[C@H](C)C(=O)C[C@@H](O)[C@H](C)[C@@H](C)OC(=O)C[C@@H](O)C1=C(C)C(=O)OC1=O)\C=C\C(=O)O	CHEMBL3715079	pIC50=6.04
-CC\C(=C/[C@H](O)C[C@H](C)C[C@@H](C)CC[C@H](O)[C@H](C)C(=O)C[C@@H](O)[C@H](C)[C@@H](C)OC(=O)C[C@@H](O)C1=C(C)C(=O)OC1=O)\C=C\C(=O)O	CHEMBL3719114	pIC50=6.1
-CC\C(=C/CC[C@H](C)C[C@@H](C)CC[C@H](O)[C@H](C)C(=O)C[C@@H](O)[C@H](C)[C@@H](C)OC(=O)C[C@@H](O)C1=C(C)C(=O)OC1=O)\C(O)CC(=O)O	CHEMBL3716789	pIC50=6.19
-CC\C(=C/CC[C@H](C)C[C@@H](C)CC[C@H](O)[C@H](C)C(=O)C[C@@H](O)[C@H](C)[C@@H](C)OC(=O)C[C@@H](O)C1=C(C)C(=O)OC1=O)\C=C\C(=O)O	CHEMBL3718369	pIC50=6.28
-CC\C(=C/C(=O)C[C@H](C)C[C@@H](C)CC[C@H](O)[C@H](C)C(=O)C[C@@H](O)[C@H](C)[C@@H](C)OC(=O)C[C@@H](O)C1=C(C)C(=O)OC1=O)\C=C	CHEMBL1366322	pIC50=6.4
-C[C@H](\C=C\[C@H]1CC[C@@]2(CC[C@H]3O[C@H](CO)C(=C)[C@@H](O)[C@@H]3O2)O1)[C@@H]4CC(=C[C@@]5(O[C@H](C[C@@](C)(O)C(=O)O)CC[C@H]5O)O4)C	CHEMBL2368224	pIC50=6.52
-CO[C@@H]([C@H](O)CC(=O)[C@@H](C)[C@@H](O)CC[C@@H](C)[C@@H]1O[C@]2(CC[C@@H](C)[C@H](CC[C@H](C)C(=O)C)O2)CC[C@@H]1C)[C@H](OC(=O)C[C@@H](O)C3=C(C)C(=O)OC3=O)C(C)C	CHEMBL17130	pIC50=7.66
-C[C@@H](C[C@H](O)[C@H]1O[C@@H]2CC[C@@]3(CC[C@@H](O3)\C=C\[C@@H](C)[C@@H]4CC(=C[C@@]5(O[C@H](C[C@@](C)(O)C(=O)O)CC[C@H]5O)O4)C)O[C@H]2[C@H](O)C1=C)[C@H]6O[C@@]7(CCCCO7)CC[C@H]6C	CHEMBL280487	pIC50=8.16

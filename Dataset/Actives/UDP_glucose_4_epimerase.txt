@@ -1,2 +1,0 @@
-Clc1cc(Cl)c(OCC#CI)cc1Cl	haloprogin	pIC50=6.3	pIC50=6.3	pIC50=6.3	pIC50=6.3
-O=C1N([Se]c2ccccc12)c3ccccc3	CHEMBL51085	pIC50=7.85

@@ -1,1 +1,0 @@
-[H][C@@]12C[C@@]3(O)[C@@H]4[C@@H]([C@@H](OC4=O)[C@H]4OC(=O)[C@]1(O2)[C@@]34C)C(C)(C)O	picrotin	pIC50=5.22	pIC50=5.22	pIC50=5.22

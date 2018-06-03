@@ -1,2 +1,0 @@
-OC(=O)CC(Cc1ccccc1)C(=O)O	CHEMBL151284	pKi=6.35
-OC(=O)[C@@H](CS)Cc1ccccc1	CHEMBL90403	pKi=8.11

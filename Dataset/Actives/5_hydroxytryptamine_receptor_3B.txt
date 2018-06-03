@@ -1,7 +1,0 @@
-CN1[C@H]2CC[C@@H]1C[C@@H](C2)OC(=O)C1=CNC2=C1C=CC=C2	tropisetron	pKi=8.8	pKi=8.8	pKi=8.8
-CN1C2=C(C3=CC=CC=C13)C(=O)C(CN1C=CN=C1C)CC2	ondansetron	pKi=8.3	pKi=8.3	pKi=8.3
-[H][C@@]12CCCC3=CC=CC(C(=O)N(C1)[C@]1([H])CN4CCC1CC4)=C23	palonosetron	pKd=9.74	pKd=9.74	pKd=9.74
-CN1C2CCCC1CC(C2)NC(=O)c3nn(C)c4ccccc34	granisetron	pKi=8.8	pKi=8.8	pKi=8.8
-[H]C1(CCN(CCCOC2=CC=C(F)C=C2)CC1([H])OC)NC(=O)C1=C(OC)C=C(N)C(Cl)=C1	cisapride	pKi=6.82	pKi=6.82	pKi=6.82
-CCN(CC)CCNC(=O)C1=C(OC)C=C(N)C(Cl)=C1	metoclopramide	pKd=7.30000019	pKd=7.30000019	pKd=7.30000019
-CC(C)(C)S(=O)(=O)c1ccc2nccc(Nc3n[nH]c4ccc(F)cc34)c2c1	CHEMBL3823499	pIC50=5.29

@@ -1,2 +1,0 @@
-Oc1ccc(CCNc2ncnc3ccc(Cl)cc23)cc1	CHEMBL493153	pIC50=6.15
-Cn1nnnc1Sc2ncnc3scc(c4ccc(N)cc4)c23	CHEMBL1397580	pAC50=6.6

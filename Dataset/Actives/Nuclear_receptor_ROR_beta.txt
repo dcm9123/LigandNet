@@ -1,2 +1,0 @@
-CCS(=O)(=O)c1ccc(CC(=O)Nc2nc(c3cccc(Cl)c3)c(s2)C(=O)c4ccccc4Cl)cc1	CHEMBL3105681	pIC50=7.1
-C\C(=C/C=C/C(=C/C(=O)O)/C)\C=C\C1=C(C)CCCC1(C)C	tretinoin	pIC50=9.82

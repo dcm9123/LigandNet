@@ -1,7 +1,0 @@
-CCNC(=O)OCC[C@@H]1OCC[C@@]2([C@H]1COc3c(F)ccc(F)c23)S(=O)(=O)c4ccc(Cl)cc4	CHEMBL2159690	pIC50=7.7
-Fc1ccc(F)c2c1OC[C@H]3[C@H](CCC#N)OCC[C@@]23S(=O)(=O)c4ccc(Cl)cc4	CHEMBL2159691	pIC50=7.8
-CC(C)S(=O)(=O)CC[C@@H]1OCC[C@@]2([C@H]1COc3c(F)ccc(F)c23)S(=O)(=O)c4ccc(Cl)cc4	CHEMBL2159509	pIC50=8.0
-OCC[C@@H]1OCC[C@@]2([C@H]1COc3c(F)ccc(F)c23)S(=O)(=O)c4ccc(Cl)cc4	CHEMBL2159687	pIC50=8.1
-CNC(=O)OCC[C@@H]1OCC[C@@]2([C@H]1COc3c(F)ccc(F)c23)S(=O)(=O)c4ccc(Cl)cc4	CHEMBL2159689	pIC50=8.22
-CCS(=O)(=O)CC[C@@H]1OCC[C@@]2([C@H]1COc3c(F)ccc(F)c23)S(=O)(=O)c4ccc(Cl)cc4	CHEMBL2159510	pIC50=8.7
-CS(=O)(=O)CC[C@@H]1OCC[C@@]2([C@H]1COc3c(F)ccc(F)c23)S(=O)(=O)c4ccc(Cl)cc4	CHEMBL2159511	pIC50=9.0

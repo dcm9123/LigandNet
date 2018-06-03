@@ -1,2 +1,0 @@
-OC(=O)c1ccccc1Nc2cccc(c2)C(F)(F)F	flufenamic acid	pEC50=8.85000038
-OC(=O)c1cccnc1Nc2cccc(c2)C(F)(F)F	niflumic acid	pEC50=8.68000031
