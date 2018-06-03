@@ -1,0 +1,16 @@
+C[C@@H](O)[C@H](N)C(=O)NCc1cccc(c1)c2ccc3c(N)nc(Cl)nc3c2	CHEMBL2316962	pKi=6.03
+CC(C)[C@@H](O)[C@H](N)C(=O)NS(=O)(=O)\C=C\c1cccc(c1)c2cc(N)ncn2	CHEMBL2316967	pKi=6.22
+C[C@@H](O)[C@H](N)C(=O)NS(=O)(=O)c1cccc(c1)c2ccc3c(N)nc(Cl)cc3c2	CHEMBL2311922	pKi=6.33
+C[C@@H](O)[C@H](N)C(=O)NNc1cccc(c1)c2ccc3c(N)nc(Cl)nc3c2	CHEMBL2316963	pKi=6.4
+C[C@@H](O)[C@H](N)C(=O)NS(=O)(=O)c1cccc(c1)c2ccc3C(=O)NCc3c2	CHEMBL2311928	pKi=7.04
+C[C@@H](O)[C@H](N)C(=O)NS(=O)(=O)c1cccc(c1)c2ccc3c(N)nc(C)nc3c2	CHEMBL2311921	pKi=7.14
+CC[C@@H](O)[C@H](N)C(=O)NS(=O)(=O)\C=C\c1cccc(c1)c2cc(N)ncn2	CHEMBL2316966	pKi=7.5
+C[C@@H](O)[C@H](N)C(=O)NS(=O)(=O)OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n2cnc3c(N)ncnc23	CHEMBL1163068	pIC50=7.82
+C[C@@H](O)[C@H](N)C(=O)NS(=O)(=O)OC[C@@H]1O[C@@H]([C@@H](O)[C@H]1O)n2cnc3c(N)ncnc23	CHEMBL2311917	pKi=7.87
+C[C@@H](O)[C@H](N)C(=O)NS(=O)(=O)c1cccc(c1)c2ccc3c(N)nc(N)nc3c2	CHEMBL2311919	pKi=8.0
+C[C@@H](O)[C@H](N)C(=O)NS(=O)(=O)N1CCc2ccc(cc2C1)c3ncnc4[nH]ccc34	CHEMBL2311927	pKi=8.28
+C[C@@H](O)[C@H](N)C(=O)NS(=O)(=O)\C=C\c1cccc(c1)c2cc(N)ncn2	CHEMBL2311925	pKi=8.39
+C[C@@H](O)[C@H](N)C(=O)NS(=O)(=O)c1cccc(c1)c2ccc3c(N)ncnc3c2	CHEMBL2311918	pKi=8.48
+C[C@@H](O)[C@H](N)C(=O)NS(=O)(=O)c1ccc2ccc(cc2c1)c3cc(N)ncn3	CHEMBL2311924	pKi=8.52
+C[C@@H](O)[C@H](N)C(=O)NS(=O)(=O)c1ccc2ccc(cc2c1)c3ncnc4[nH]ccc34	CHEMBL2311926	pKi=8.75
+C[C@@H](O)[C@H](N)C(=O)NS(=O)(=O)c1cccc(c1)c2ccc3c(N)nc(Cl)nc3c2	CHEMBL2311920	pKi=8.92

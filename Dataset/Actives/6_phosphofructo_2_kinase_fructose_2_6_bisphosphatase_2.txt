@@ -1,0 +1,2 @@
+Cc1onc(C)c1Cn2nc(C#N)c3cc(Oc4ccc(NC(=O)[C@@H]5CCCN5)cc4)ccc23	CHEMBL3422678	pIC50=7.6
+CC(C)Cn1nc(C#N)c2cc(Oc3ccc(NC(=O)[C@@H]4CCCN4)cc3)ccc12	CHEMBL3422677	pIC50=7.82

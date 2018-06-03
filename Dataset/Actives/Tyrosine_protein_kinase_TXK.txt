@@ -1,0 +1,6 @@
+CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1	dasatinib	pKd=8.68	pKd=8.68	pKd=8.68	pKd=8.68
+Cc1ccc2[nH]ncc2c1Nc3ccnc(Nc4cccc(c4)C(=O)N)n3	CHEMBL398422	pIC50=7.55
+Cc1ccc(O)cc1Nc2ccnc(Nc3cccc(c3)C(=O)N)n2	CHEMBL249097	pKd=8.0
+Cc1ccc(NC(=O)c2cccc(c2)C(F)(F)F)cc1C(=O)Nc3cnc(Nc4cccc(NC(=O)C=C)c4)nc3	CHEMBL3290142	pIC50=8.72
+Cc1ccc(NC(=O)c2cccc(c2)C(F)(F)F)cc1C(=O)Nc3cnc(Nc4cccc(NC(=O)CNC(=O)C=C)c4)nc3	CHEMBL3290148	pIC50=8.85
+Cc1ccc(O)cc1Nc2ccnc(Nc3cccc(c3)S(=O)(=O)N)n2	CHEMBL249317	pIC50=9.4

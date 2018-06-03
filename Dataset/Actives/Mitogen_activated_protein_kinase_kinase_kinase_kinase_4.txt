@@ -1,0 +1,22 @@
+COc1cc(Nc2c(cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)C#N)c(Cl)cc1Cl	bosutinib	pKd=8.09	pKd=8.09	pKd=8.09	pKd=8.09
+CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n3c4ccccc4c5c6CNC(=O)c6c7c8ccccc8n2c7c35	CHEMBL388978	pKd=7.62
+C[C@]12O[C@H](C[C@]1(O)CO)n3c4ccccc4c5c6C(=O)NCc6c7c8ccccc8n2c7c35	CHEMBL603469	pKd=7.64
+CS(=O)(=O)c1ccc(cc1)c2cc(cnc2N)c3ccc(O)cc3	CHEMBL3754283	pIC50=7.68
+Nc1ncc(cc1c2ccc(Cl)cc2)C3=CC(=O)NC=C3	CHEMBL3754730	pIC50=7.7
+CN(C)C1CCC(CC1)Nc2nc(Nc3cc(Cl)cc(Cl)c3)ncc2c4onc(C)c4	CHEMBL2312654	pIC50=7.75
+NC(=O)c1cnc(N)c2cc(ccc12)c3cccc(F)c3	CHEMBL3623128	pIC50=7.75
+Nc1ncnc2ccc(nc12)c3cccc(F)c3	CHEMBL3262587	pIC50=7.77
+Nc1ncc(C(=O)NC2CC2)c3ccc(cc13)c4cccc(F)c4	CHEMBL3623130	pIC50=7.8
+CCN1CCN(Cc2ccc(NC(=O)Nc3ccc(Oc4cc(NC)ncn4)cc3)cc2C(F)(F)F)CC1	CHEMBL574738	pKd=7.82
+CNC(=O)N1CC(C1)NC(=O)c2cnc(N)c3cc(ccc23)c4cccc(F)c4	CHEMBL3623134	pIC50=7.82
+Nc1ncc(cn1)c2cnc(N)c(c2)c3ccc(Cl)cc3	CHEMBL3754123	pIC50=7.83
+NC(=O)c1ccc(cc1)c2cnc(N)c(c2)c3ccc(Cl)cc3	CHEMBL3753424	pIC50=7.89
+O=C(c1cn[nH]c1)c2cc3c(Nc4ccncc4)ncnn3c2	CHEMBL3326751	pIC50=8.0
+O=C(c1cocc1)c2cc3c(Nc4ccncc4)ncnn3c2	CHEMBL3326749	pIC50=8.0
+N(c1ccncc1)c2ncnn3cc(cc23)c4ccccc4	CHEMBL3326742	pIC50=8.1
+Nc1ccc(cn1)c2cnc(N)c(c2)c3ccc(Cl)cc3	CHEMBL3754515	pIC50=8.43
+Nc1ncc(C(=O)NC2CN(C2)C(=O)C3CC3)c4ccc(nc14)c5cccc(F)c5	CHEMBL3623138	pIC50=8.43
+Nc1ncc(C(=O)N[C@@H]2C[C@H](O)C2)c3ccc(nc13)c4cccc(F)c4	CHEMBL3623136	pIC50=8.43
+CCC(=O)N1CC(C1)NC(=O)c2cnc(N)c3nc(ccc23)c4cccc(F)c4	CHEMBL3623137	pIC50=8.46
+CNC(=O)N1CC(C1)NC(=O)c2cnc(N)c3nc(ccc23)c4cccc(F)c4	CHEMBL3623139	pIC50=8.8
+Nc1ncc(C(=O)NC2CC2)c3ccc(nc13)c4cccc(F)c4	CHEMBL3623135	pIC50=8.85

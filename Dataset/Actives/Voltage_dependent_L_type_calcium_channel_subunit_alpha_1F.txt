@@ -1,0 +1,5 @@
+COC(=O)C1=C(C)NC(C)=C(C1C1=C(C=CC=C1)[N+]([O-])=O)C(=O)OC	nifedipine	pIC50=6.0	pIC50=6.0	pIC50=6.0
+CCOC(=O)C1=C(C)NC(C)=C([C@@H]1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC	(S)-nitrendipine	pIC50=6.0
+COCCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC(C)C	nimodipine	pIC50=6.0
+CCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC	nitrendipine	pIC50=6.0
+NC1=CC(=O)c2ccc(nc2C1=O)c3ccccn3	CHEMBL57818	pIC50=6.02

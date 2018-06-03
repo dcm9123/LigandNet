@@ -1,0 +1,2 @@
+Fc1ccc(cc1)c2oc3C(=O)c4ccccc4C(=O)c3n2	CHEMBL3407501	pIC50=6.05
+O=C1c2oc(nc2C(=O)c3ccccc13)c4ccccc4	CHEMBL3407552	pIC50=6.26

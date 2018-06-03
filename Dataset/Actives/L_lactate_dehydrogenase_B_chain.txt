@@ -1,0 +1,16 @@
+CCCc1c(O)c(O)c(C(=O)O)c2cc(Cc3ccccc3)c(C)cc12	CHEMBL126519	pKi=6.0
+CCCc1c(O)c(O)c(C(=O)O)c2ccc(C)cc12	CHEMBL127327	pKi=6.0
+OC1=C(Sc2ccccc2C#N)C(=O)CC(C1)c3c(Br)cccc3Br	CHEMBL3318485	pIC50=6.07
+CC(C)c1c(O)c(O)c(C(=O)O)c2cc(ccc12)c3cc4c(C(=O)O)c(O)c(O)c(C(C)C)c4cc3C	CHEMBL3765374	pKi=6.16
+Cc1cc2c(C)c(O)c(O)c(C(=O)O)c2cc1Cc3ccccc3	CHEMBL435995	pKi=6.3
+COc1ccc(Cl)c(SC2=C(O)CC(CC2=O)c3c(Cl)ccc(NC4CCOCC4)c3Cl)c1	CHEMBL3581205	pIC50=6.31
+COc1ccc(Cl)c(SC2=C(O)CC(CC2=O)c3c(Cl)ccc(OC(C)C)c3Cl)c1	CHEMBL3581200	pIC50=6.39
+CC(C)c1c(O)c(O)c2C(=O)Oc3c(c(C)cc1c23)c4c(C)cc5c(C(C)C)c(O)c(O)c6C(=O)Oc4c56	CHEMBL110030	pKi=6.4
+COc1ccc(Cl)c(SC2=C(O)CC(CC2=O)c3c(Cl)ccc(c3Cl)c4ccncc4)c1	CHEMBL3581203	pIC50=6.64
+COc1ncc(c(OC)n1)c2ccc3c(Nc4cc(cc(c4)C(=O)O)C5CCCC5)c(cnc3c2)S(=O)(=O)NC6CC6	CHEMBL3765327	pIC50=6.66
+CC(C)c1c(O)c(O)c(C(=O)O)c2cc(Cc3ccccc3)c(C)cc12	CHEMBL341463	pKi=6.7
+CC(C)Oc1ccc(Cl)c(C2CC(=C(Sc3cc(O)ccc3Cl)C(=O)C2)O)c1Cl	CHEMBL3581199	pIC50=6.75
+CC(C)Oc1ccc(Cl)c(C2CC(=C(Sc3cc(O)ccc3C#N)C(=O)C2)O)c1Cl	CHEMBL3581201	pIC50=6.85
+CCOC(=O)Cc1ccc(Cl)c(SC2=C(O)CC(CC2=O)c3c(Cl)ccc(c3Cl)c4ccccc4)c1	CHEMBL3581204	pIC50=6.92
+CCCc1c(O)c(O)c(C(=O)O)c2cc(C)c(C)cc12	CHEMBL338325	pKi=7.0
+COc1ncc(c(OC)n1)c2ccc3c(Nc4cc(Oc5cc(F)cc(F)c5)cc(c4)C(=O)O)c(cnc3c2)S(=O)(=O)NC6CC6	CHEMBL3335794	pIC50=7.37

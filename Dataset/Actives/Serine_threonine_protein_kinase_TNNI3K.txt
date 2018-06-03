@@ -1,0 +1,25 @@
+CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1	dasatinib	pKd=7.96	pKd=7.96	pKd=7.96	pKd=7.96
+CNS(=O)(=O)c1ccc(N(C)C)c(Nc2ncnc3cc(OC)c(OC)cc23)c1	CHEMBL3815093	pIC50=7.6
+CNS(=O)(=O)c1ccc(N(C)C)c(Nc2ncnc3cc(OCCCN4CCOCC4)ccc23)c1	CHEMBL3814923	pIC50=7.6
+CNS(=O)(=O)c1ccc(N(C)C)c(Nc2ncnc3cc(OCCCOC)ccc23)c1	CHEMBL3814871	pIC50=7.6
+CNS(=O)(=O)c1ccc(N(C)C)c(Nc2ncnc3cc[nH]c23)c1	CHEMBL3815116	pIC50=7.6
+CNS(=O)(=O)c1ccc(OCC(F)(F)F)c(Nc2ncnc3cc(OC)c(OC)cc23)c1	CHEMBL3814635	pIC50=7.6
+CNS(=O)(=O)c1ccc(OCC(F)(F)F)c(Nc2ncnc3cc(OCCCOC)ccc23)c1	CHEMBL3814442	pIC50=7.6
+CNS(=O)(=O)c1cccc(Nc2ncnc3[nH]c(cc23)c4ccccc4)c1	CHEMBL3613184	pIC50=7.6
+CNS(=O)(=O)c1ccc(Cl)c(Nc2ncnc3[nH]ccc23)c1	CHEMBL3613193	pIC50=7.7
+CNS(=O)(=O)c1cccc(Nc2ncnc3[nH]c(cc23)c4ccncc4)c1	CHEMBL3613190	pIC50=7.7
+CNS(=O)(=O)c1ccc(N(C)C)c(Nc2ncnc3[nH]c(cc23)c4cccc(c4)C(F)(F)F)c1	CHEMBL3613307	pIC50=7.8
+CNS(=O)(=O)c1ccc(N(C)C)c(Nc2ncnc3ccn(C)c23)c1	CHEMBL3814010	pIC50=7.8
+CNS(=O)(=O)c1ccc(N2CCOCC2)c(Nc3ncnc4[nH]c(cc34)c5cccc(c5)C(F)(F)F)c1	CHEMBL3613309	pIC50=7.8
+CCOc1cc2ncnc(Nc3cc(ccc3OCC(F)(F)F)S(=O)(=O)NC)c2cc1OC	CHEMBL3814998	pIC50=7.89
+CNS(=O)(=O)c1ccc(N2CCOCC2)c(Nc3ncnc4[nH]cc(C)c34)c1	CHEMBL3613199	pIC50=7.89
+CNS(=O)(=O)c1ccc(OCC(F)(F)F)c(Nc2ncnc3cc(OC)cc(OC)c23)c1	CHEMBL3813948	pIC50=7.89
+CNS(=O)(=O)c1ccc(OCC(F)(F)F)c(Nc2ncnc3cc(OCCCN4CCOCC4)ccc23)c1	CHEMBL3813957	pIC50=7.89
+CNS(=O)(=O)c1cccc(Nc2ncnc3[nH]c(cc23)c4ccc(C)cc4)c1	CHEMBL3613187	pIC50=7.89
+CNS(=O)(=O)c1cccc(Nc2ncnc3[nH]c(cc23)c4ccc(O)cc4)c1	CHEMBL3613189	pIC50=7.89
+CNS(=O)(=O)c1cccc(Nc2ncnc3[nH]c(cc23)c4cccc(C)c4)c1	CHEMBL3613186	pIC50=7.89
+CNS(=O)(=O)c1cccc(Nc2ncnc3[nH]c(cc23)c4ccccc4C)c1	CHEMBL3613185	pIC50=7.89
+CNS(=O)(=O)c1ccc(N(C)C)c(Nc2ncnc3cc(OC)cc(OC)c23)c1	CHEMBL3814834	pIC50=8.0
+CNS(=O)(=O)c1ccc(N2CCOCC2)c(Nc3ncnc4[nH]cc(Br)c34)c1	CHEMBL3613305	pIC50=8.2
+CNS(=O)(=O)c1ccc(N(C)C)c(Nc2ncnc3[nH]cc(C)c23)c1	CHEMBL3613197	pIC50=8.8
+CNS(=O)(=O)c1ccc(N(C)C)c(Nc2ncnc3[nH]cc(Br)c23)c1	CHEMBL3613198	pIC50=9.16

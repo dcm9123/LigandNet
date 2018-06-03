@@ -1,0 +1,47 @@
+CCOC(=O)C1=C(C)NC(C)=C(C1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC	nitrendipine	pKd=6.05000019	pKd=6.05000019	pKd=6.05000019
+NC1=NC2=C(S1)C=C(OC(F)(F)F)C=C2	riluzole	pIC50=5.67000008	pIC50=5.67000008	pIC50=5.67000008
+Clc1ccccc1C(c2ccccc2)(c3ccccc3)n4ccnc4	clotrimazole	pIC50=7.15	pIC50=7.15	pIC50=7.15	pIC50=6.44
+CCOC(=O)C1=C(C)NC(C)=C([C@@H]1C1=CC(=CC=C1)[N+]([O-])=O)C(=O)OC	(S)-nitrendipine	pIC50=7.59999991
+O=C1Oc2cc3occc3c(OCCCCOc4ccccc4)c2C=C1	CHEMBL444449	pIC50=5.0
+O=P(N(Cc1ccccn1)c2cccnc2)(c3ccccc3)c4ccccc4	CHEMBL2313226	pIC50=5.0
+Fc1ccc(c(NP(=O)(c2ccccc2)c3ccccc3)c1)n4cccn4	CHEMBL2312923	pIC50=5.11
+O=P(NCc1cccnc1c2cccc(c2)C#N)(c3ccccc3)c4ccccc4	CHEMBL2312930	pIC50=5.11
+Clc1cccc(c1)c2ncccc2CNP(=O)(c3ccccc3)c4ccccc4	CHEMBL2312929	pIC50=5.31
+C1CN=C(O1)C(c2ccccc2)(c3ccccc3)c4ccccc4	CHEMBL271167	pIC50=5.37
+CN(C)C(c1ccccc1)(c2ccccc2)c3ccccc3	CHEMBL259899	pIC50=5.5
+CCCN(c1cccc(c1)C#N)P(=O)(c2ccccc2)c3ccccc3	CHEMBL2312920	pIC50=5.57
+O=C1CN(c2ccccc2c3ccccc13)S(=O)(=O)c4cccs4	CHEMBL497249	pIC50=5.62
+Cc1ccc(cc1)S(=O)(=O)N2CC(=O)c3ccccc3c4ccccc24	CHEMBL498086	pIC50=5.68
+O=P(C(N1CCCCC1)c2cccnc2)(c3ccccc3)c4ccccc4	CHEMBL2312927	pIC50=5.75
+CCNC(c1ccccc1)(c2ccccc2)c3ccccc3	CHEMBL260107	pIC50=5.76
+Clc1ccc(cc1)S(=O)(=O)N2CC(=O)c3ccccc3c4ccccc24	CHEMBL522750	pIC50=5.85
+Clc1cccc(c1)C(=O)N2CC(=O)c3ccccc3c4ccccc24	CHEMBL497250	pIC50=5.89
+O=P(C(c1cccnc1)c2cccnc2)(c3ccccc3)c4ccccc4	CHEMBL2312925	pIC50=6.0
+CNC(c1ccccc1)(c2ccccc2)c3ccccc3	CHEMBL270288	pIC50=6.26
+O=P(C(c1ccccc1)c2cccnc2)(c3ccccc3)c4ccccc4	CHEMBL2312926	pIC50=6.3
+COC(=O)C(c1ccccc1)(c2ccccc2)c3ccccc3	CHEMBL270495	pIC50=6.48
+CC(C)c1nc2N(Cc3ccc(F)c(OC(F)(F)F)c3)C(=O)CS(=O)(=O)c2s1	CHEMBL3287206	pIC50=7.02
+NC(c1ccccc1)(c2ccccc2)c3ccccc3	CHEMBL272255	pIC50=7.16
+OCc1ccc2SCC(=O)N(Cc3ccc(Cl)c(c3)C(F)(F)F)c2n1	CHEMBL3287211	pIC50=7.18
+CC(N1C(=O)CSc2ncsc12)c3ccc(F)c(OC(F)(F)F)c3	CHEMBL3287212	pIC50=7.22
+FC(F)(F)Oc1cccc(CN2C(=O)CSc3cccnc23)c1	CHEMBL3287209	pIC50=7.28
+Fc1ccc(CN2C(=O)CS(=O)(=O)c3cccnc23)cc1OC(F)(F)F	CHEMBL3287205	pIC50=7.31
+Fc1ccc(CN2C(=O)CS(=O)(=O)c3sccc23)cc1OC(F)(F)F	CHEMBL3287208	pIC50=7.32
+CC(N1C(=O)CSc2cccnc12)c3cccc(c3)C(F)(F)F	CHEMBL3287210	pIC50=7.39
+NC(=O)C(c1ccccc1)(c2ccccc2)c3ccc(F)cc3	CHEMBL258604	pIC50=7.4
+CC(N1C(=O)CS(=O)(=O)c2ccsc12)c3ccc(F)c(OC(F)(F)F)c3	CHEMBL3287207	pIC50=7.41
+NC(=O)C(c1ccccc1)(c2ccccc2)c3ccc(F)cc3F	CHEMBL270913	pIC50=7.47
+NC(=O)C(c1ccccc1)(c2cccc(F)c2)c3cccc(F)c3	CHEMBL261828	pIC50=7.52
+NC(=O)C(c1ccccc1)(c2ccccc2F)c3ccccc3F	CHEMBL261606	pIC50=7.52
+Clc1ccccc1C(c2ccccc2)(c3ccccc3)n4cccn4	CHEMBL498270	pIC50=7.7
+NC(c1ccccc1)(c2ccccc2)c3ccccc3Cl	CHEMBL406683	pIC50=7.7
+NC(=O)C(c1ccc(F)cc1)(c2ccc(F)cc2)c3cccc(F)c3	CHEMBL260953	pIC50=7.77
+NC(=O)C(c1ccc(F)cc1)(c2cccc(F)c2)c3cccc(F)c3	CHEMBL408700	pIC50=7.82
+NC(=O)C(c1ccc(F)cc1)(c2ccccc2F)c3ccccc3F	CHEMBL273092	pIC50=7.82
+NC(=O)C(c1ccccc1)(c2ccccc2)c3ccccc3F	CHEMBL270071	pIC50=7.82
+NC(=O)C(c1ccc(F)cc1)(c2ccc(F)cc2)c3ccc(F)cc3	CHEMBL270704	pIC50=7.85
+NC(=O)C(c1ccccc1)(c2ccccc2)c3ccc(F)c(F)c3	CHEMBL272040	pIC50=7.85
+NC(=O)C(c1cccc(F)c1)(c2cccc(F)c2)c3cccc(F)c3	CHEMBL260736	pIC50=7.89
+NC(=O)C(c1ccccc1)(c2ccc(F)cc2)c3ccc(F)cc3	CHEMBL405821	pIC50=7.92
+NC(=O)C(c1ccc(F)cc1)(c2ccc(F)cc2)c3ccccc3F	CHEMBL272039	pIC50=8.0
+NC(=O)C(c1ccccc1)(c2ccc(F)cc2)c3ccccc3F	CHEMBL42205	pIC50=8.05

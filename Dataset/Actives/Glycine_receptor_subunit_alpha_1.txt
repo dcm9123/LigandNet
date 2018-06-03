@@ -1,0 +1,31 @@
+FC(F)OC(F)C(F)(F)F	desflurane
+FCOC(C(F)(F)F)C(F)(F)F	sevoflurane
+COC(F)(F)C(Cl)Cl	methoxyflurane
+FC(F)OC(Cl)C(F)(F)F	isoflurane
+FC(F)(F)C(Cl)Br	halothane
+FC(F)OC(F)(F)C(F)Cl	enflurane
+CO[C@H]1C(=O)O[C@H]2O[C@@]34OC(=O)[C@@H]5[C@H](O)[C@@H](C(C)(C)C)[C@]12[C@]35[C@@H](O)[C@@H]6OC(=O)[C@@H](C)[C@]46O	CHEMBL221823	pIC50=5.0
+C[C@@H]1C(=O)OC2[C@@H]3OCO[C@H]4C(=O)OC5OC6(C(=O)OC7C[C@@H](C(C)(C)C)C45[C@]367)[C@@]12O	CHEMBL388075	pIC50=5.05
+CN1C(=O)NC(=O)/C/1=C\c2c[nH]c3ccccc23	CHEMBL2398352	pIC50=5.06
+C[C@@H]1C(=O)O[C@H]2C[C@@]34O[C@@H]5OC(=O)[C@H](O)[C@@]56[C@@H]([C@H](O)C(OC3=O)[C@@]46[C@@]12O)C(C)(C)C	CHEMBL374004	pIC50=5.1
+C[C@@H]1C(=O)O[C@H]2[C@H](O)[C@@]34[C@H]5[C@@H](Cl)[C@@H](C(C)(C)C)[C@]36[C@@H](OC(=O)[C@@H]6O)O[C@]4(OC5=O)[C@@]12O	CHEMBL221715	pIC50=5.1
+C[C@@H]1C(=O)O[C@H]2[C@H](O)[C@@]34[C@H]5[C@@H](F)[C@@H](C(C)(C)C)[C@]36[C@@H](OC(=O)[C@@H]6O)O[C@]4(OC5=O)[C@@]12O	CHEMBL426556	pIC50=5.1
+C[C@@H]1C(=O)O[C@H]2[C@H](O)[C@@]34[C@H]5[C@@H](N=[N+]=[N-])[C@@H](C(C)(C)C)[C@]36[C@@H](OC(=O)[C@@H]6O)O[C@]4(OC5=O)[C@@]12O	CHEMBL376289	pIC50=5.1
+CC1=C2[C@H](C[C@]34[C@H]5C[C@@H](C(C)(C)C)[C@]36[C@@H](OC(=O)[C@@H]6O)O[C@]24OC5=O)OC1=O	CHEMBL373969	pIC50=5.2
+C[C@@H]1C(=O)O[C@H]2[C@H](O)[C@@]34O[C@@H]5OC(=O)[C@H](O)[C@@]56[C@@H]([C@H](O)C(OC3=O)[C@@]46[C@@]12O)C(C)(C)C	CHEMBL221821	pIC50=5.23
+COc1ccc(CCN2CCC(CC2)Nc3nc4ccccc4n3Cc5ccc(F)cc5)cc1	astemizole	pEC50=5.38
+C[C@@H]1C(=O)O[C@H]2C[C@@]34[C@H]5C[C@@H](C(C)(C)C)[C@]36[C@@H](OC(=O)[C@@H]6O)O[C@@]4(C(=O)O5)[C@@]12O	CHEMBL465161	pIC50=5.42
+CCCC1=NC2=C(C=C(C=C2C)C2=NC3=C(C=CC=C3)N2C)N1CC1=CC=C(C=C1)C1=C(C=CC=C1)C(O)=O	telmisartan	pEC50=5.5
+C[C@@H]1C(=O)O[C@H]2[C@H](O)[C@@]34[C@H]5C[C@@H](C(C)(C)C)[C@]36[C@@H](OC(=O)[C@@H]6O)O[C@@]4(C(=O)O5)[C@@]12O	CHEMBL514432	pIC50=5.5
+OC(C1CCCCN1)c2cc(nc3c(cccc23)C(F)(F)F)C(F)(F)F	CHEMBL416956	pEC50=5.6
+CNC(=O)C1=CC(OC2=CC(F)=C(NC(=O)NC3=CC(=C(Cl)C=C3)C(F)(F)F)C=C2)=CC=N1	regorafenib	pEC50=5.75
+Fc1ccc(cc1)C(CCCN2CCC(CC2)N3C(=O)Nc4ccccc34)c5ccc(F)cc5	pimozide	pEC50=5.77
+[H][C@@]12C=C(C)CC[C@@]1([H])C(C)(C)OC1=CC(CCCCC)=CC(O)=C21	dronabinol	pEC50=5.89
+COC1=CC=C(C=C1C12CC3CC(CC(C3)C1)C2)C1=CC=C2C=C(C=CC2=C1)C(O)=O	adapalene	pEC50=5.89
+Fc1ccc(cc1)C(CCCN2CCC3(CC2)N(CNC3=O)c4ccccc4)c5ccc(F)cc5	CHEMBL46516	pEC50=5.92
+C[C@H]1[C@H]2[C@@H](OC1=O)[C@H](O)[C@]34C5OC(=O)[C@]23OC6OC(=O)[C@H](O)C46[C@@H]([C@H]5O)C(C)(C)C	CHEMBL2113267	pIC50=6.1
+CC(C)CCC[C@@H](C)[C@H]1CC[C@H]2\C(=C\C=C/3\C[C@@H](O)CCC3=C)\CCC[C@]12C	CHEMBL1042	pEC50=6.4
+C[S+]([O-])c1ccc(\C=C/2\C(=C(CC(=O)O)c3cc(F)ccc23)C)cc1	sulindac	pEC50=6.42
+C[C@]12CC[C@H]3[C@@H](CC[C@H]4NC(=O)C=C[C@]34C)[C@@H]1CC[C@@H]2C(=O)Nc5cc(ccc5C(F)(F)F)C(F)(F)F	CHEMBL1200969	pEC50=6.48
+CC1=C(CCN2CCC(CC2)c3noc4cc(F)ccc34)C(=O)N5CCCCC5=N1	risperidone	pEC50=6.5
+C[C@@H](NCCCc1cccc(c1)C(F)(F)F)c2cccc3ccccc23	CHEMBL1201284	pEC50=6.5

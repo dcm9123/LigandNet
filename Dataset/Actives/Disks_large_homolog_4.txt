@@ -1,0 +1,2 @@
+CC(C)[C@H](NC(=S)[C@H](C)NC(=O)[C@@H](NC(=O)[C@H](CCC(=O)O)NCCc1ccc(Cl)c(Cl)c1)[C@@H](C)O)C(=O)O	CHEMBL1688633	pKi=6.0
+CC(C)[C@H](NC(=S)[C@H](C)NC(=O)[C@@H](NC(=O)[C@H](CCC(=O)O)NCCC1CCCCC1)[C@@H](C)O)C(=O)O	CHEMBL1688631	pKi=6.2

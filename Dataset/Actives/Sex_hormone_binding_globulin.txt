@@ -1,0 +1,89 @@
+[H][C@@]12CCC(=O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3	estrone	pKd=8.18	pKd=8.18	pKd=8.18	pKd=8.18
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3	estradiol	pKd=8.83	pKd=8.83	pKd=8.83	pIC50=7.3
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]	nandrolone	pKd=6.3	pKd=6.3	pKd=6.3	pKd=6.3
+[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	androstenedione	pKd=7.46	pKd=7.46	pKd=7.46
+[H][C@@]12C[C@@H](O)[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3	estriol	pKd=6.63	pKd=6.63	pKd=6.63	pKd=6.63
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	testosterone	pKd=9.2	pKd=9.2	pKd=9.2	pIC50=7.85
+[H][C@@]12CCC(=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C	prasterone	pKd=7.84	pKd=7.84	pKd=7.84
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)CC[C@]12C	androstanolone	pKd=9.74	pKd=9.74	pKd=9.74
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@@H](O)CC[C@]12C	androstenediol	pKd=9.17	pKd=9.17	pKd=9.17
+[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3	ethinylestradiol	pKd=6.81	pKd=6.81	pKd=6.81	pKd=6.81
+[H][C@@]12CC[C@@](O)(C#C)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]	norethisterone	pKd=7.97	pKd=7.97	pKd=7.97	pKd=7.97
+[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	methyltestosterone	pKd=8.43	pKd=8.43	pKd=8.43	pKd=8.43
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)C[C@H](C)[C@]12C	mesterolone	pKd=9.6	pKd=9.6	pKd=9.6
+[H][C@@]12CC[C@](C)(O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC[C@@]2([H])CC(=O)CC[C@]12C	mestanolone	pKd=8.81	pKd=8.81	pKd=8.81	pKd=8.81
+[H][C@@]12CC[C@@](O)(C#C)[C@@]1(CC)C=CC1=C3CCC(=O)C=C3CC[C@@]21[H]	gestrinone	pKd=8.11	pKd=8.11	pKd=8.11
+[H][C@@]12CC[C@@](O)(C#C)[C@@]1(CC)CC(=C)[C@]1([H])[C@@]3([H])CCCC=C3CC[C@@]21[H]	desogestrel	pKd=6.6	pKd=6.6	pKd=6.6	pKd=6.6
+[H][C@@]12CC[C@@](O)(C#C)[C@@]1(CC)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]	levonorgestrel	pKd=8.91	pKd=8.91	pKd=8.91
+C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@@]4(C)[C@H]3CC[C@@]4(O)C#C	ethisterone	pKd=8.78	pKd=8.78	pKd=8.78	pKd=8.78
+[H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	progesterone	pKd=6.94	pKd=6.94	pKd=6.94	pKd=6.94
+[H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CC=C2C[C@H](CC[C@]12C)OC(=O)CCC(O)=O	pregnenolone succinate	pKd=7.15	pKd=7.15	pKd=7.15
+[H][C@@]12CC[C@@](O)(C#C)[C@@]1(CC)CC(=C)[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]	etonogestrel	pKd=8.23	pKd=8.23	pKd=8.23	pKd=8.23
+[H][C@@]12CC[C@H](C(=O)CO)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	desoxycortone	pKd=7.38	pKd=7.38	pKd=7.38	pKd=7.38
+C[C@]12Cc3cnoc3C=C1CC[C@@H]4[C@@H]2CC[C@@]5(C)[C@H]4CC[C@@]5(O)C#C	danazol	pKd=8.2	pKd=8.2	pKd=8.2	pKd=8.2
+C[C@H]1C[C@@H]2[C@H](CC[C@@]3(C)[C@H]2CC[C@]3(OC(=O)C)C(=O)C)[C@@]4(C)CCC(=O)C=C14	medroxyprogesterone	pKd=6.2	pKd=6.2	pKd=6.2	pKd=6.2
+[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	cortisone acetate	pKd=6.43	pKd=6.43	pKd=6.43	pKd=6.43
+C[C@]12CCC(=O)C=C1CC[C@H]3[C@@H]4CC[C@](O)(C(=O)CO)[C@@]4(C)C[C@H](O)[C@H]23	hydrocortisone	pKd=6.2	pKd=6.2	pKd=6.2	pKd=6.2
+[H][C@@]12CC[C@](OC(=O)CCCCC)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	hydroxyprogesterone caproate	pKd=7.0	pKd=7.0	pKd=7.0	pKd=7.0
+[H][C@@]12C[C@@H](OC(=O)CCC(O)=O)[C@H](OC(=O)CCC(O)=O)[C@@]1(C)CC[C@]1([H])C3=CC=C(O)C=C3CC[C@@]21[H]	estriol succinate	pKd=6.63000011	pKd=6.63000011
+CC12CCC3C(CCC4=CC(=O)NCCC34C)C1CCC2O	CHEMBL386857	pIC50=6.02
+Oc1ccc(cc1)[C@@H]2CC(=O)c3c(O)cc(O)cc3O2	CHEMBL9352	pKd=6.02
+Oc1ccc(cc1)c2oc3cc(O)ccc3c2	CHEMBL265940	pKd=6.08
+C[C@]12CC[C@@H](O)C[C@H]1CC[C@@H]3[C@@H]2CC[C@@]4(C)[C@H]3CCC4=O	CHEMBL85799	pKd=6.15
+COc1cc(\C=N\CCc2ccccc2)ccc1O	CHEMBL259383	pKd=6.23
+C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2C(=O)CO	CHEMBL110739	pKd=6.34
+CC(=O)[C@@]1(O)CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C	CHEMBL408706	pKd=6.36
+COc1cc(ccc1O)C(=O)OC2CC3CCC2(C)C3(C)I	CHEMBL406776	pKd=6.39
+C[C@@H]1C=C2CC(O)CC[C@]2(C)[C@H]3CC[C@@]4(C)[C@@H](CC[C@@]4(O)C#C)[C@H]13	CHEMBL410336	pKd=6.44
+C[C@@H]1C=C2CC(O)CC[C@]2(C)[C@H]3CC[C@@]4(C)[C@@H](CC[C@]4(C)O)[C@H]13	CHEMBL260658	pKd=6.44
+COc1cc(CC2COCC2Cc3ccc(O)c(OC)c3)ccc1O	CHEMBL405043	pKd=6.51
+COc1cc(C[C@H]2COC(=O)[C@@H]2Cc3ccc(O)c(OC)c3)ccc1O	CHEMBL425148	pKd=6.51
+CC1(C)CC2=C3C=C[C@@]4(C)[C@@H](CC[C@]4(C)O)[C@@H]3CCC2=CC1=O	CHEMBL259313	pKd=6.86
+CCc1cc(C(=O)Cc2ccccc2C)c(O)cc1O	CHEMBL259384	pKd=6.97
+CC(=O)[C@H]1CC[C@H]2[C@@H]3CC=C4C[C@@H](O)CC[C@]4(C)[C@H]3CC[C@]12C	CHEMBL253363	pKd=7.15
+C[C@]12CC[C@@H](O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@@]4(C)[C@H]3CCC4=O	CHEMBL87285	pKd=7.15
+C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@@]4(C)[C@H]3CC[C@]4(O)C(=O)CO	CHEMBL253144	pKd=7.44
+C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CCC2=O	CHEMBL274826	pKd=7.46
+C[C@]12CC[C@H]3[C@@H](CC[C@H]4CC(=O)C[C@H](CCCCCCN)[C@]34C)[C@@H]1CC[C@@H]2O	CHEMBL260341	pKd=7.53
+CC[C@]12CC(=C)C3[C@@H](CCC4=C[C@H](O)CC[C@]34C)[C@@H]1CC[C@@]2(O)C#C	CHEMBL259635	pKd=7.67
+C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@]34C)[C@@H]1CCC2=O	CHEMBL90593	pKd=7.84
+CC[C@]12CC(=C)C3[C@@H](CCC4=C[C@@H](O)CC[C@]34C)[C@@H]1CC[C@@]2(O)C#C	CHEMBL409084	pKd=7.88
+C[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1C[C@@H](O)[C@@H]2O	CHEMBL411316	pKd=7.92
+CC[C@]12C=CC3=C4CCC(=O)C=C4CC[C@H]3[C@@H]1CC[C@@]2(O)C#C	CHEMBL1868702	pKd=8.11
+C[C@]1(O)CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@@]3(F)C(=O)C[C@]12C	CHEMBL406406	pKd=8.23
+CC[C@]12CC(=C)[C@@H]3[C@H]4CC[C@@H](O)C[C@@H]4C[C@@H](C)[C@H]3[C@@H]1CC[C@@]2(O)C#C	CHEMBL261407	pKd=8.27
+C[C@@]12CCC[C@H]1[C@@H]3CCc4cc(O)ccc4[C@H]3CC2	CHEMBL261406	pKd=8.3
+CC1(O)CC[C@H]2[C@@H]3CC=C4CC(O)CC[C@]4(C)[C@H]3CC[C@]12C	CHEMBL409895	pKd=8.36
+C[C@@H]1CC2=CC(=O)C=C[C@]2(C)[C@H]3CC[C@]4(C)[C@@H](O)CC[C@H]4[C@H]13	CHEMBL260639	pKd=8.36
+C[C@H]1C[C@H]2[C@@H]3CC[C@H](O)[C@@]3(C)CC[C@@H]2[C@@]4(C)CCC(=O)C=C14	CHEMBL260640	pKd=8.36
+C[C@]12CCC(F)(F)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@@]4(C)[C@H]3CC[C@@]4(O)C#C	CHEMBL411730	pKd=8.36
+C[C@]12CC[C@@H]3[C@H]4CCC(=O)CC4CC[C@H]3[C@@H]1CC[C@@H]2O	CHEMBL260641	pKd=8.36
+C[C@@H]1CC2CC(=O)CC[C@@H]2[C@H]3CC[C@]4(C)[C@@H](O)CC[C@H]4[C@H]13	CHEMBL411731	pKd=8.46
+C[C@@H]1C[C@H]2C[C@@H](O)CC[C@]2(C)[C@H]3CC[C@@]4(C)[C@@H](CC[C@]4(C)O)[C@H]13	CHEMBL430043	pKd=8.46
+C[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@@]3(F)CC[C@]4(C)[C@@H](O)CC[C@H]4[C@H]13	CHEMBL259599	pKd=8.51
+C[C@]12CC[C@H]3C(=CCc4cc(O)ccc34)[C@@H]1CCC2=O	CHEMBL323533	pKd=8.51
+C[C@@H]1CC2=CC(=O)C=C[C@]2(C)[C@H]3CC[C@@]4(C)[C@@H](CC[C@]4(C)O)[C@H]13	CHEMBL265942	pKd=8.57
+C[C@]12CC[C@H]3C(=CCc4cc(O)ccc34)[C@@H]1CC[C@@H]2O	CHEMBL121458	pKd=8.62
+C[C@]12CCc3c(ccc4cc(O)ccc34)[C@@H]1CCC2=O	CHEMBL225546	pKd=8.62
+C[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]3CC[C@]4(C)[C@@H](O)CC[C@H]4[C@H]13	CHEMBL359619	pKd=8.71
+C[C@@H]1CC2=CC(=O)CC[C@]2(C)[C@H]3CC[C@@]4(C)[C@@H](CC[C@]4(C)O)[C@H]13	CHEMBL259548	pKd=8.76
+C[C@]12CC[C@H]3[C@@H](C=Cc4cc(O)ccc34)[C@@H]1CC[C@@H]2O	CHEMBL223967	pKd=8.76
+CC[C@]12CC(=C)[C@@H]3[C@H]4CCC(=O)C[C@@H]4CC[C@H]3[C@@H]1CC[C@@]2(O)C#C	CHEMBL408973	pKd=8.8
+CC[C@]12CC[C@H]3[C@@H](CCC4=CC(=O)CC[C@H]34)[C@@H]1CCC2(O)C#C	CHEMBL2107797	pKd=8.91
+C[C@]12CC[C@H](O)CC1=CC[C@@H]3[C@@H]2CC[C@@]4(C)[C@H]3CC[C@@]4(O)C#C	CHEMBL410519	pKd=8.91
+C[C@@H]1C[C@H]2C[C@@H](O)CC[C@]2(C)[C@H]3CC[C@]4(C)[C@@H](O)CC[C@H]4[C@H]13	CHEMBL261643	pKd=9.0
+C[C@]12CC[C@H]3[C@@H](CCC4=C[C@@H](O)CC[C@]34C)[C@@H]1CC[C@@H]2O	CHEMBL195836	pKd=9.0
+C[C@@H]1C[C@H]2CC(=O)CC[C@]2(C)[C@H]3CC[C@@]4(C)[C@@H](CC[C@]4(C)O)[C@H]13	CHEMBL261866	pKd=9.05
+C[C@]12CC[C@H]3[C@@H](C[C@H](F)[C@H]4CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O	CHEMBL408707	pKd=9.05
+C[C@@H]1CC2=CC(=O)CC[C@@H]2[C@H]3CC[C@]4(C)[C@@H](O)CC=C4[C@H]13	CHEMBL260659	pKd=9.07
+COc1cc2[C@H]3CC[C@]4(C)[C@@H](O)CC[C@H]4[C@@H]3CCc2cc1O	CHEMBL299613	pKd=9.08
+C[C@]12CC[C@H]3[C@@H](CC[C@H]4C[C@H](O)CC[C@]34C)[C@@H]1CC[C@@H]2O	CHEMBL335062	pKd=9.11
+C[C@]12CCc3c(ccc4ccc(O)cc34)[C@@H]1CC[C@@H]2O	CHEMBL260660	pKd=9.12
+C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@]34C)[C@@H]1CC[C@@H]2O	CHEMBL440283	pKd=9.17
+CC1=C2CC[C@H]3[C@@H]4CC[C@H](O)[C@@]4(C)CC[C@@H]3[C@@]2(C)CCC1=O	CHEMBL265925	pKd=9.31
+C[C@]12CC[C@H]3[C@@H](CCc4cc(O)c(I)cc34)[C@@H]1CC[C@@H]2O	CHEMBL265926	pKd=9.32
+C[C@@H]1C[C@H]2CC(=O)CC[C@]2(C)[C@H]3CC[C@]4(C)[C@@H](O)CC[C@H]4[C@H]13	CHEMBL411053	pKd=9.38
+C[C@]12CC[C@H]3[C@@H](CC=C4C[C@@H](O)CC[C@H]34)[C@@H]1CC[C@@H]2O	CHEMBL259126	pKd=9.54
+C[C@H]1CC(=O)C[C@@H]2CC[C@H]3[C@@H]4CC[C@H](O)[C@@]4(C)CC[C@@H]3[C@@]12C	CHEMBL258918	pKd=9.6
+C[C@]12CCC(=O)C[C@@H]1CC[C@@H]3[C@@H]2CC[C@@]4(C)[C@H]3CC[C@@]4(O)C#C	CHEMBL260202	pKd=9.74
+C[C@]12CC[C@H]3[C@@H](CC[C@H]4CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2O	CHEMBL27769	pKd=9.74

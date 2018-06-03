@@ -1,0 +1,12 @@
+[H][C@@]12CC(=O)C(=CC)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	guggulsterone	pIC50=8.62	pIC50=8.62	pIC50=8.62
+CCOP(=O)(OCC)C(=Cc1cc(c(O)c(c1)C(C)(C)C)C(C)(C)C)P(=O)(OCC)OCC	CHEMBL458767	pEC50=7.1
+OC(c1ccccc1)(c2ccc(cc2)N(CC(F)(F)F)S(=O)(=O)c3ccccc3)C(F)(F)F	CHEMBL242293	pIC50=7.2
+OC(c1ccc(cc1)N(CC(F)(F)F)S(=O)(=O)c2ccccc2)(C(F)(F)F)C(F)(F)F	CHEMBL62136	pIC50=7.4
+CCN(c1ccc(cc1)C(O)(C(F)(F)F)C(F)(F)F)S(=O)(=O)c2ccccc2	CHEMBL2326845	pEC50=7.41
+CC(C)C(=O)[C@@]12C(=O)C(=C(O)[C@@](CC=C(C)C)(C[C@H](CC=C(C)C)[C@@]1(C)CCC=C(C)C)C2=O)CC=C(C)C	CHEMBL501711	pKi=7.57
+OC(C1CCCCC1)(c2ccc(cc2)N(CC(F)(F)F)S(=O)(=O)c3ccccc3)C(F)(F)F	CHEMBL396952	pIC50=7.6
+OC(c1ccc(cc1)N(CC(F)(F)F)S(=O)(=O)c2ccccc2)(C(F)(F)F)C(F)(F)C(F)(F)C(F)(F)F	CHEMBL430006	pIC50=7.7
+Cc1cc(C)c(c(C)c1)S(=O)(=O)Nc2ccc3c(c2)ncn3Cc4ccccc4	CHEMBL464497	pEC50=8.09
+Cc1c(C)c(C)c(c(C)c1C)S(=O)(=O)Nc2ccc3c(c2)ncn3Cc4ccccc4	CHEMBL463678	pEC50=8.1
+C\C=C/1\C(=O)C[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C	CHEMBL402063	pIC50=8.62
+C\C=C\1/C(=O)C[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C	CHEMBL410683	pIC50=8.62

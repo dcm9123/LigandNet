@@ -1,0 +1,2 @@
+[H][C@@]12CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@@]3([H])[C@]1([H])OC(C)(C)O2	topiramate
+NCCc1c[nH]c2ccc(O)cc12	CHEMBL39	pKi=7.0

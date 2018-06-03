@@ -1,0 +1,3 @@
+CN1[C@@H](Cc2ccc(Oc3cc4cc(c3O)c5ccc6c(C[C@@H](NC(=O)C(=O)c7cc(Cl)c(O)c(Cl)c7)C(=O)N[C@@H](C(=O)N[C@H]4C(=O)N[C@@H](C1=O)c8cc(Cl)c(O)c(Cl)c8)c9cc(Cl)c(O)c(Cl)c9)c[nH]c6c5)cc2)C(=O)N[C@@H](C(=O)O)c%10ccc(O)cc%10	CHEMBL506605	pIC50=6.89
+CN1[C@@H](Cc2ccc(Oc3cc4cc(c3O)c5ccc6c(C[C@@H](NC(=O)C(O)(CC(=O)C)c7cc(Cl)c(O)c(Cl)c7)C(=O)N[C@@H](C(=O)N[C@H]4C(=O)N[C@@H](C1=O)c8cc(Cl)c(O)c(Cl)c8)c9cc(Cl)c(O)c(Cl)c9)c[nH]c6c5)cc2)C(=O)N[C@@H](C(=O)O)c%10ccc(O)cc%10	CHEMBL3143464	pIC50=6.89
+CN1[C@@H](Cc2ccc(Oc3cc4cc(c3O)c5cccc6c(C[C@@H](NC(=O)C(=O)c7cc(Cl)c(O)c(Cl)c7)C(=O)N[C@@H](C(=O)N[C@H]4C(=O)N[C@@H](C1=O)c8cc(Cl)c(O)c(Cl)c8)c9cc(Cl)c(O)c(Cl)c9)c[nH]c56)cc2)C(=O)N[C@@H](C(=O)O)c%10ccc(O)cc%10	CHEMBL525803	pIC50=6.89

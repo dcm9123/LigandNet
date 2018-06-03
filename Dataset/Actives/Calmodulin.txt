@@ -1,0 +1,6 @@
+CCN(CC)CCCN(C1CC2=C(C1)C=CC=C2)C1=CC=CC=C1	aprindine
+CN1CCN(CCCN2c3ccccc3Sc4ccc(cc24)C(F)(F)F)CC1	trifluoperazine	pKd=6.0
+COc1cccc(CN(CCN(CCN(C)C)Cc2ccccc2)Cc3ccccc3)c1	CHEMBL3798296	pKd=6.07
+COC(=O)c1c(O)ccc(O)c1C(=O)c2c(O)cc3C[C@@]45C=C[C@H](C(=O)C4=C(O)c6c(O)cc(C)cc6[C@@H]5OC(=O)C)c3c2O	CHEMBL2408939	pKd=7.71
+COC(=O)[C@@]12Oc3c4[C@@H]5C=C[C@@]6(Cc4cc(O)c3C(=O)C1=C(O)C=C[C@H]2O)[C@@H](OC(=O)C)c7cc(C)cc(O)c7C(=C6C5=O)O	CHEMBL2408940	pKd=7.74
+CCCCOc1ccc(cc1OCCCC)[C@@H](C)NCCCNCCC(c2ccccc2)c3ccccc3	CHEMBL495235	pKd=7.75

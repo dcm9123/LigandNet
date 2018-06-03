@@ -1,0 +1,2 @@
+Cc1ccc(O)cc1Nc2ccnc(Nc3cccc(c3)C(=O)N)n2	CHEMBL249097	pKd=7.7
+COc1cc2c(Oc3ccc(NC(=O)C4(CC4)C(=O)Nc5ccc(F)cc5)cc3F)ccnc2cc1OCCCN6CCOCC6	CHEMBL1230609	pKd=8.96

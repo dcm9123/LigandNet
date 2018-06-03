@@ -1,0 +1,4 @@
+Nc1ncnc2c1nc(NCc3ccc(cc3)c4cccnc4)n2[C@@H]5O[C@H](CO)[C@@H](O)[C@H]5O	CHEMBL3809974	pIC50=6.0
+Nc1ncnc2c1nc(NCc3ccc(c(OCCCCO)c3)c4ccccc4)n2[C@@H]5O[C@H](CO)[C@@H](O)[C@H]5O	CHEMBL3809613	pIC50=6.03
+Nc1ncnc2c1nc(NCc3ccc(cc3)c4ccccc4)n2[C@@H]5O[C@H](CO)[C@@H](O)[C@H]5O	CHEMBL3427690	pIC50=6.19
+OCCCCOc1cc(CNc2nc3ccccc3n2[C@@H]4O[C@H](CO)[C@@H](O)[C@H]4O)ccc1c5ccccc5	CHEMBL3808747	pIC50=7.21

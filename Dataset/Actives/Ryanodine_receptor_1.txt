@@ -1,0 +1,7 @@
+[O-][N+](=O)C1=CC=C(C=C1)C1=CC=C(O1)\C=N\N1CC(=O)NC1=O	dantrolene	pKi=6.757	pKi=6.757	pKi=6.757
+O\N=C\1/Cc2ccc(Oc3cc(C\C(=N/O)\C(=O)N\C=C\c4ccc(Oc5cc(CCNC1=O)cc(Br)c5O)c(Br)c4)cc(Br)c3O)c(Br)c2	CHEMBL360190	pEC50=5.2
+Oc1c(Br)cc2CCNC(=O)CCNC(=O)CCc3ccc(Oc1c2)c(Br)c3	CHEMBL213853	pIC50=5.22
+O\N=C/1\Cc2ccc(Oc3cc(C\C(=N/O)\C(=O)NC[C@@H](O)c4ccc(Oc5cc(CCNC1=O)cc(Br)c5O)c(Br)c4)cc(Br)c3O)c(Br)c2	CHEMBL504851	pEC50=5.24
+O\N=C/1\Cc2cc(Br)c(Oc3cc(C\C(=N\O)\C(=O)NCCc4cc(Br)c(Oc5cc(CCNC1=O)cc(Br)c5O)c(Br)c4)cc(Br)c3O)c(Br)c2	CHEMBL505907	pEC50=5.59
+O\N=C/1\Cc2cc(Br)c(Oc3cc(C\C(=N\O)\C(=O)NCCc4ccc(Oc5cc(CCNC1=O)cc(Br)c5O)c(Br)c4)cc(Br)c3O)c(Br)c2	CHEMBL439151	pEC50=5.66
+CC(C)C1(O)C(OC(=O)c2ccc[nH]2)C3(O)C4(C)CC5(O)OC6(C(O)C(C)CCC46O)C3(O)C15C	CHEMBL308183	pIC50=8.46

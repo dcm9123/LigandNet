@@ -1,0 +1,2 @@
+N#C\C(=C/c1cccnc1)\c2c[nH]c3ccccc23	CHEMBL3753955	pIC50=6.08
+COc1ccc2[nH]cc(\C(=C\c3cccnc3)\C#N)c2c1	CHEMBL3754608	pIC50=6.64

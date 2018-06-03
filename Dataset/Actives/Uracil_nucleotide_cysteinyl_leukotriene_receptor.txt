@@ -1,0 +1,2 @@
+NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]1O	adenosine triphosphate	pEC50=7.43	pEC50=7.43	pEC50=7.43
+CSCCNC1=NC(SCCC(F)(F)F)=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)C(Cl)(Cl)P(O)(O)=O)[C@@H](O)[C@H]1O	cangrelor	pIC50=8.92000008	pIC50=8.92000008	pIC50=8.92000008

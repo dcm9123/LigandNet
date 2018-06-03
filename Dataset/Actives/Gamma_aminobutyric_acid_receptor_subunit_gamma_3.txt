@@ -1,0 +1,18 @@
+COC(F)(F)C(Cl)Cl	methoxyflurane
+FC(F)OC(F)C(F)(F)F	desflurane
+FC(F)OC(Cl)C(F)(F)F	isoflurane
+FC(F)(F)C(Cl)Br	halothane
+CCC1(CC)C(=O)NC(=O)N(C)C1=O	metharbital
+FCOC(C(F)(F)F)C(F)(F)F	sevoflurane
+CCC(C)C1(CC=C)C(=O)NC(=O)NC1=O	talbutal
+OP(O)(=O)OCC(Cl)(Cl)Cl	triclofos
+CCCC(C)C1(CC=C)C(=O)NC(=S)NC1=O	thiamylal
+CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1	diazepam	pKi=6.6655	pKi=6.7055	pKi=7.2034	pKi=7.2034	pKi=6.6655	pKi=6.7055	pKi=7.2034	pKi=7.2034	pKi=6.6655	pKi=6.7055	pKi=7.2034	pKi=7.2034
+CN1CCN(CC1)C(=O)OC1N(C(=O)C2=C1N=CC=N2)C1=CC=C(Cl)C=N1	zopiclone	pKi=6.4881	pKi=7.1549	pKi=6.7496	pKi=6.7496	pKi=6.4881	pKi=7.1549	pKi=6.7496	pKi=6.7496	pKi=6.4881	pKi=7.1549	pKi=6.7496	pKi=6.7496
+CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1	triazolam	pKi=8.1079	pKi=8.6383	pKi=8.699	pKi=9.10000038	pKi=8.699	pKi=8.1079	pKi=8.6383	pKi=8.699	pKi=9.10000038	pKi=8.699	pKi=8.1079	pKi=8.6383	pKi=8.699	pKi=9.10000038	pKi=8.699
+CC1=NC=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(F)C=CC=C1	midazolam	pKi=7.6126	pKi=7.7496	pKi=8.2596	pKi=8.2596	pKi=7.6126	pKi=7.7496	pKi=8.2596	pKi=8.2596	pKi=7.6126	pKi=7.7496	pKi=8.2596	pKi=8.2596
+CN1CCN(CC1)C(=O)O[C@@H]1N(C(=O)C2=NC=CN=C12)C1=CC=C(Cl)C=N1	eszopiclone
+FC(F)(F)CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1	halazepam
+CC(C)C1=CC=CC(C(C)C)=C1OCOP(O)(O)=O	fospropofol
+CN(C)CC1=NN=C2CN=C(C3=CC=CC=C3)C3=CC(Cl)=CC=C3N12	adinazolam
+CN1\C(=C\C=C\2/CCCC(=C2)\C=C\C3=[N+](CCCCCC(=O)NCCCC[C@H](NC(=O)CCCCCCC(=O)NCCCCC(NC(=O)N[C@@H](CCC(=O)O)C(=O)O)C(=O)O)C(=O)NCc4ccc(cc4)c5ccc(O)c(c5)c6cc7cc(ccc7[nH]6)C(=N)N)c8ccc(cc8C3(C)C)S(=O)(O)O)\C(C)(C)c9cc(ccc19)S(=O)(O)O	CHEMBL3828668	pIC50=7.55

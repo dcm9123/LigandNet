@@ -1,0 +1,3 @@
+CCC[C@H](NCc1ccc(cc1)C(=N)N)C(=O)[C@@H](CCCNC(=N)N)NS(=O)(=O)Cc2ccccc2	CHEMBL1809251	pKi=7.17
+CCC(NCc1ccc(cc1)C(=N)N)C(=O)[C@@H](CCCNC(=N)N)NS(=O)(=O)Cc2ccccc2	CHEMBL1809250	pKi=7.28
+NC(=N)NCCC[C@@H](NS(=O)(=O)Cc1ccccc1)C(=O)N2CCC[C@H]2C(=O)NCc3ccc(cc3)C(=N)N	CHEMBL1229259	pKi=7.7

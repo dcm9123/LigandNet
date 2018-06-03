@@ -1,0 +1,12 @@
+C1=CN(C=N1)C(C1=CC=CC=C1)C1=CC=C(C=C1)C1=CC=CC=C1	bifonazole	pIC50=6.47	pIC50=6.47	pIC50=6.47
+Clc1ccccc1C(c2ccccc2)(c3ccccc3)n4ccnc4	clotrimazole	pIC50=6.89	pIC50=6.89	pIC50=6.89	pIC50=6.89
+Clc1ccc(COC(Cn2ccnc2)c3ccc(Cl)cc3Cl)cc1	econazole	pIC50=7.3	pIC50=7.3	pIC50=7.3	pIC50=7.3
+Clc1ccc(COC(Cn2ccnc2)c3ccc(Cl)cc3Cl)c(Cl)c1	miconazole	pIC50=6.7	pIC50=6.7	pIC50=6.7	pIC50=6.7
+OC1CCN(CC1)C(=O)[C@H](Cc2ccccc2)NC(=O)c3cc4ccccc4[nH]3	CHEMBL409630	pIC50=6.04
+OC1CCN(CC1)C(=O)[C@H](Cc2ccccc2F)NC(=O)c3cc4cc(Cl)ccc4[nH]3	CHEMBL259552	pIC50=6.1
+Br.CCCN(CCc1ccc(Cl)c(Cl)c1)CC(O)c2cccnc2	CHEMBL537002	pKd=6.4
+Br.CCCN(CCc1ccc2ccccc2c1)CC(O)c3cccnc3	CHEMBL535872	pKd=6.47
+c1ccc(cc1)C(c2ccc(cc2)c3ccccc3)n4ccnc4	CHEMBL277535	pIC50=6.47
+OC1CCN(CC1)C(=O)[C@H](Cc2ccccc2Cl)NC(=O)c3cc4cc(Cl)ccc4[nH]3	CHEMBL410852	pIC50=6.52
+CC(=O)N1CCN(CC1)c2ccc(OC[C@@H]3CO[C@](Cn4ccnc4)(O3)c5ccc(Cl)cc5Cl)cc2	ketoconazole	pIC50=6.72
+Nc1ccc(SC[C@H]2CO[C@@](CCc3ccc(Cl)cc3)(Cn4ccnc4)O2)cc1	CHEMBL305220	pKi=7.39

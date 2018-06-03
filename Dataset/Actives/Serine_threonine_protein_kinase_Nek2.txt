@@ -1,0 +1,4 @@
+C[C@@H](Oc1cc(sc1C(=O)N)n2cnc3ccc(OC4CCN(C)CC4)cc23)c5ccccc5C(F)(F)F	CHEMBL1615278	pIC50=7.6
+C[C@@H](Oc1cc(ccc1C(=O)N)c2cc(cnc2N)c3cc(CN(C)C)cs3)\C=C/C(F)(F)F	CHEMBL2042135	pIC50=7.66
+C[C@@H](Oc1cc(sc1C(=O)N)n2cnc3ccc(OC4CCN(C)CC4)cc23)c5ccccc5Cl	CHEMBL1794070	pIC50=7.68
+Cc1nc[nH]c1\C=C\2/C(=O)Nc3ccc(cc23)C(=O)CCl	CHEMBL1802383	pIC50=7.7

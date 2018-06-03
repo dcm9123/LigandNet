@@ -1,0 +1,10 @@
+CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1	dasatinib	pKd=8.48	pKd=8.48	pKd=8.48	pKd=8.48
+COc1cc(Nc2c(cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)C#N)c(Cl)cc1Cl	bosutinib	pKd=8.09	pKd=8.09	pKd=8.09	pKd=8.09
+COC(=O)c1ccc2\C(=C(\Nc3ccc(cc3)N(C)C(=O)CN4CCN(C)CC4)/c5ccccc5)\C(=O)Nc2c1	nintedanib	pKd=8.74	pKd=8.74	pKd=8.74	pKd=8.75
+COc1cc(Oc2ccnc3cc(OC)c(OC)cc23)ccc1NC(=O)NC(C)c4nccs4	CHEMBL1908396	pKd=8.13
+CC(C)n1nc(c2cc3cc(O)ccc3[nH]2)c4c(N)ncnc14	CHEMBL1241674	pKd=8.14
+C[C@]12O[C@H](C[C@]1(O)CO)n3c4ccccc4c5c6C(=O)NCc6c7c8ccccc8n2c7c35	CHEMBL603469	pKd=8.16
+CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n3c4ccccc4c5c6CNC(=O)c6c7c8ccccc8n2c7c35	CHEMBL388978	pKd=8.54
+CCN(CCO)CCCOc1ccc2c(Nc3cc(CC(=O)Nc4cccc(F)c4)[nH]n3)ncnc2c1	CHEMBL215152	pKd=8.55
+COc1cc2c(Oc3ccc(NC(=O)C4(CC4)C(=O)Nc5ccc(F)cc5)cc3F)ccnc2cc1OCCCN6CCOCC6	CHEMBL1230609	pKd=8.6
+CCCS(=O)(=O)Nc1ccc(F)c(C(=O)c2c[nH]c3ncc(Cl)cc23)c1F	CHEMBL1230020	pKd=9.8

@@ -1,0 +1,8 @@
+[H][C@]1(NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C(=O)[C@H](CC)NC(=O)[C@]([H])([C@H](O)[C@H](C)C\C=C\C)N(C)C(=O)[C@]([H])(C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C1=O)C(C)C	ciclosporin	pKd=8.01	pKd=8.01	pKd=8.01
+Nc1ccc(CNC(=O)NCC(=O)N2CCCC2c3ccccc3Br)cc1	CHEMBL3647432	pIC50=6.12
+CSc1ccccc1C2CCCN2C(=O)CNC(=O)NCc3ccc(N)cc3	CHEMBL3647433	pIC50=6.19
+CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](CCCNC(=O)C(C)(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C	CHEMBL1269581	pIC50=7.52
+CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](CCNC(=O)C(C)(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C	CHEMBL1269580	pIC50=7.58
+CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](CCCCNC(=O)C(C)(C)C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H](CC(C)C)N(C)C(=O)CN(C)C1=O)C(C)C	CHEMBL1269582	pIC50=7.69
+COc1cc(cc(OC)c1OC)C(N(C(=O)Cc2c[nH]c3ccccc23)c4ccc(cc4)C(C)C)C(=O)NC5CCCCC5	CHEMBL3752642	pKd=8.68
+CC[C@@H]1NC(=O)[C@H]([C@H](O)[C@H](C)C\C=C\C)N(C)C(=O)[C@H](C(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](C)NC(=O)[C@H](C)NC(=O)[C@H](CC(C)C)N(C)C(=O)[C@@H](NC(=O)[C@H]([C@@H](C)CN2CCN(CCOC)CC2)N(C)C(=O)[C@@H](C)N(C)C1=O)C(C)C	CHEMBL3344501	pKd=8.92

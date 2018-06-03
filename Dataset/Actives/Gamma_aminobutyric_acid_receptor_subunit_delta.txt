@@ -1,0 +1,14 @@
+COC(F)(F)C(Cl)Cl	methoxyflurane
+FC(F)OC(F)C(F)(F)F	desflurane
+FC(F)OC(Cl)C(F)(F)F	isoflurane
+FC(F)(F)C(Cl)Br	halothane
+CCC1(CC)C(=O)NC(=O)N(C)C1=O	metharbital
+FCOC(C(F)(F)F)C(F)(F)F	sevoflurane
+CCC(C)C1(CC=C)C(=O)NC(=O)NC1=O	talbutal
+OP(O)(=O)OCC(Cl)(Cl)Cl	triclofos
+CCCC(C)C1(CC=C)C(=O)NC(=S)NC1=O	thiamylal
+FC(F)(F)CN1C2=CC=C(Cl)C=C2C(=NCC1=O)C1=CC=CC=C1	halazepam
+CC(C)C1=CC=CC(C(C)C)=C1OCOP(O)(O)=O	fospropofol
+CC1=NN=C2CN=C(C3=CC(Cl)=CC=C3N12)C1=C(Cl)C=CC=C1	triazolam	pKi=9.10000038	pKi=9.10000038	pKi=9.10000038
+CN(C)CC1=NN=C2CN=C(C3=CC=CC=C3)C3=CC(Cl)=CC=C3N12	adinazolam
+OC(=O)CSc1ncnc2c(C3CC3)c(sc12)C(F)(F)F	CHEMBL3774864	pEC50=7.92

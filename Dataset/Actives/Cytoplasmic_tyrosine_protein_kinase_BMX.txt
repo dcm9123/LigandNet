@@ -1,0 +1,8 @@
+CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1	dasatinib	pKd=8.85	pKd=8.85	pKd=8.85	pKd=8.85
+NC1=C2C(=NC=N1)N(N=C2C1=CC=C(OC2=CC=CC=C2)C=C1)[C@@H]1CCCN(C1)C(=O)C=C	ibrutinib	pIC50=9.1	pIC50=9.1	pIC50=9.1	pIC50=9.1
+CN1CCn2nc(NC3=CC(=NNC3=O)c4ccc(F)c(NC(=O)c5cc6ccccc6s5)c4C)cc2C1	CHEMBL3746293	pIC50=7.85
+COc1cc(Nc2c(cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)C#N)c(Cl)cc1Cl	bosutinib	pIC50=8.1
+Cc1ccc(NC(=O)c2cccc(c2)C(F)(F)F)cc1C(=O)Nc3cnc(Nc4cccc(NC(=O)C=C)c4)nc3	CHEMBL3290142	pIC50=8.72
+CN(C)C\C=C\C(=O)N(C)c1cc2c(cc1F)nc(Nc3ccccc3C)c4cncn24	CHEMBL1916891	pIC50=8.82
+CN1C(=O)N(Cc2cnc(N)nc12)c3cc(NC(=O)c4cccc(c4)C(F)(F)F)ccc3C	CHEMBL459850	pIC50=8.85
+Cc1ccc(NC(=O)c2cccc(c2)C(F)(F)F)cc1C(=O)Nc3cnc(Nc4cccc(NC(=O)CNC(=O)C=C)c4)nc3	CHEMBL3290148	pIC50=9.15

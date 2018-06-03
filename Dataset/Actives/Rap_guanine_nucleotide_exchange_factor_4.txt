@@ -1,0 +1,14 @@
+Cc1cc(C)c(Nc2ccc(Cl)c(c2)C(F)(F)F)c(C)c1	CHEMBL3808606	pIC50=6.0
+Cc1cc(C)c(Nc2cccc(C)c2C)c(C)c1	CHEMBL3808989	pIC50=6.0
+Cc1cc(C)c(Nc2cc(Cl)cc(Cl)c2)c(C)c1	CHEMBL2313636	pIC50=6.05
+Cc1cc(C)c(Nc2c(C)cc(Cl)cc2Cl)c(C)c1	CHEMBL3808792	pIC50=6.16
+Cc1cc(C)c(c(C)c1)S(=O)(=O)c2cc(C)c(C)cc2C	CHEMBL2313654	pIC50=6.16
+Cc1cc(C)c(Nc2cc(cc(c2)C(F)(F)F)C(F)(F)F)c(C)c1	CHEMBL3809121	pIC50=6.22
+[I-].COCCC[n+]1c(C)csc1Nc2c(C)cc(C)cc2C	CHEMBL3260989	pIC50=6.22
+CCc1cccn1S(=O)(=O)c2c(C)cc(C)cc2C	CHEMBL2313639	pIC50=6.3
+Cc1cc(C)c(Nc2cc(Cl)cc(c2)C(F)(F)F)c(C)c1	CHEMBL3808997	pIC50=6.3
+Cc1cc(C)c(Nc2cccc(Cl)c2C)c(C)c1	CHEMBL3808936	pIC50=6.3
+Cc1ccc(cc1)S(=O)(=O)c2c(C)cc(C)cc2C	CHEMBL2313653	pIC50=6.3
+Cc1cc(C)c(Nc2c(C)cc(C)cc2C)c(C)c1	CHEMBL3809313	pIC50=6.4
+Cc1cc(C)c(Nc2cc(Cl)ccc2Cl)c(C)c1	CHEMBL2313637	pIC50=6.4
+Cc1cc(C)c(c(C)c1)S(=O)(=O)n2cc(C)cc2C	CHEMBL2313646	pIC50=6.52

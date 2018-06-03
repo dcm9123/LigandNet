@@ -1,0 +1,2 @@
+CC(C)C[C@H](NC(=O)[C@H](CC1=CC=CC=C1)NC(=O)C1=CN=CC=N1)B(O)O	bortezomib	pKi=9.2076	pKi=9.2076	pKi=9.2076
+CCCNC(=O)Nc1ccc(cc1)n2cnc(c2)C(Cc3ccc(N)nc3)C(=O)O	CHEMBL3694282	pIC50=7.31

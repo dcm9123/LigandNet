@@ -1,0 +1,5 @@
+CN1C2=C(N=CN2)C(=O)N(C)C1=O	theophylline	pKi=9.22	pKi=9.22	pKi=9.22	pKi=9.22
+CN1C(=O)N(C)c2ncn(C)c2C1=O	caffeine	pKi=5.61	pKi=5.61	pKi=5.61
+CNC(=O)C1=CN(N=C1)C1=NC(N)=C2N=CN([C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)C2=N1	regadenoson	pEC50=5.8861	pEC50=5.8861	pEC50=5.8861
+Nc1ncnc2c1ncn2[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O	adenosine	pEC50=6.1549	pEC50=6.1549	pEC50=6.1549	pKi=7.7
+C[N+](C)(C)CCO.CN1C2=C(N=C[N-]2)C(=O)N(C)C1=O	choline theophyllinate	pKi=9.22	pKi=4.85	pKi=9.22	pKi=4.85	pKi=9.22	pKi=4.85

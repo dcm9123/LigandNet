@@ -1,0 +1,258 @@
+186	Tclin	Neuronal_acetylcholine_receptor_subunit_beta_4	1146	1146
+3488	Tclin	Neutrophil_elastase	13440	
+12467	Tclin	Niemann_Pick_C1_like_protein_1	3250	
+12206	Tclin	Nischarin	17478	
+18343	Tclin	Non_receptor_tyrosine_protein_kinase_TYK2	2561	
+12241	Tclin	Nucleotide_binding_oligomerization_domain_containing_protein_2	3791	
+8950	Tclin	Orexin_receptor_type_1	4529	
+8951	Tclin	Orexin_receptor_type_2	4528	
+5426	Tclin	Ornithine_decarboxylase	13002	
+9397	Tclin	Oxytocin_receptor	18023	
+9256	Tclin	P2Y_purinoceptor_12	11720	
+9400	Tclin	P2Y_purinoceptor_2	2577	
+851	Tclin	Pancreatic_alpha_amylase	4862	
+10417	Tclin	Pancreatic_triacylglycerol_lipase	17930	17930
+13573	Tclin	Parathyroid_hormone_parathyroid_hormone_related_peptide_receptor	15003	
+12794	Tclin	Pepsin_A_5	7151	
+13327	Tclin	Peptidyl_prolyl_cis_trans_isomerase_A	8796	
+6936	Tclin	Peptidyl_prolyl_cis_trans_isomerase_FKBP1A	8830	
+13324	Tclin	Peroxisome_proliferator_activated_receptor_alpha	10898	
+13266	Tclin	Peroxisome_proliferator_activated_receptor_gamma	7111	
+12932	Tclin	Phenylalanine_4_hydroxylase	9852	
+13126	Tclin	Phosphatidylinositol_4_5_bisphosphate_3_kinase_catalytic_subunit_delta_isoform	11991	
+12910	Tclin	Placenta_growth_factor	9684	
+10001	Tclin	Plasma_kallikrein	7754	
+13098	Tclin	Plasminogen	11387	
+12970	Tclin	Platelet_derived_growth_factor_receptor_alpha	17929	
+12972	Tclin	Platelet_derived_growth_factor_receptor_beta	13027	
+9140	Tclin	Poly_[ADP_ribose]_polymerase_1	12862	
+9225	Tclin	Poly_[ADP_ribose]_polymerase_2	16966	
+12581	Tclin	Poly_[ADP_ribose]_polymerase_3	892	
+9764	Tclin	Potassium_channel_subfamily_K_member_10	16694	16694
+9791	Tclin	Potassium_channel_subfamily_K_member_18	10680	
+9519	Tclin	Potassium_channel_subfamily_K_member_2	16470	
+9606	Tclin	Potassium_channel_subfamily_K_member_3	10701	
+9788	Tclin	Potassium_channel_subfamily_K_member_9	14257	
+9598	Tclin	Potassium_voltage_gated_channel_subfamily_A_member_1	7057	
+9779	Tclin	Potassium_voltage_gated_channel_subfamily_A_member_10	12777	12777
+9720	Tclin	Potassium_voltage_gated_channel_subfamily_A_member_2	1928	
+9760	Tclin	Potassium_voltage_gated_channel_subfamily_A_member_3	8899	
+9850	Tclin	Potassium_voltage_gated_channel_subfamily_A_member_4	10798	
+9851	Tclin	Potassium_voltage_gated_channel_subfamily_A_member_5	10795	
+9599	Tclin	Potassium_voltage_gated_channel_subfamily_A_member_6	1902	
+9761	Tclin	Potassium_voltage_gated_channel_subfamily_A_member_7	617	
+9876	Tclin	Potassium_voltage_gated_channel_subfamily_B_member_1	3519	
+9781	Tclin	Potassium_voltage_gated_channel_subfamily_B_member_2	11811	
+9782	Tclin	Potassium_voltage_gated_channel_subfamily_C_member_1	8118	
+9905	Tclin	Potassium_voltage_gated_channel_subfamily_C_member_2	1357	
+9762	Tclin	Potassium_voltage_gated_channel_subfamily_C_member_3	15866	
+9906	Tclin	Potassium_voltage_gated_channel_subfamily_C_member_4	19229	
+9600	Tclin	Potassium_voltage_gated_channel_subfamily_D_member_1	18452	
+9877	Tclin	Potassium_voltage_gated_channel_subfamily_D_member_2	5074	
+9601	Tclin	Potassium_voltage_gated_channel_subfamily_D_member_3	1061	
+9879	Tclin	Potassium_voltage_gated_channel_subfamily_F_member_1	10696	
+9852	Tclin	Potassium_voltage_gated_channel_subfamily_G_member_1	2771	
+9784	Tclin	Potassium_voltage_gated_channel_subfamily_G_member_2	2766	
+9880	Tclin	Potassium_voltage_gated_channel_subfamily_G_member_3	12839	12839
+9603	Tclin	Potassium_voltage_gated_channel_subfamily_G_member_4	16215	
+9604	Tclin	Potassium_voltage_gated_channel_subfamily_H_member_1	14762	
+9881	Tclin	Potassium_voltage_gated_channel_subfamily_H_member_2	4001	
+9853	Tclin	Potassium_voltage_gated_channel_subfamily_H_member_3	644	
+9854	Tclin	Potassium_voltage_gated_channel_subfamily_H_member_4	4044	4044
+9785	Tclin	Potassium_voltage_gated_channel_subfamily_H_member_5	6677	6677
+9909	Tclin	Potassium_voltage_gated_channel_subfamily_H_member_6	11596	
+9910	Tclin	Potassium_voltage_gated_channel_subfamily_H_member_7	18002	
+9516	Tclin	Potassium_voltage_gated_channel_subfamily_H_member_8	18831	
+9766	Tclin	Potassium_voltage_gated_channel_subfamily_KQT_member_1	5977	
+9643	Tclin	Potassium_voltage_gated_channel_subfamily_KQT_member_2	4094	
+9859	Tclin	Potassium_voltage_gated_channel_subfamily_KQT_member_3	4095	
+9644	Tclin	Potassium_voltage_gated_channel_subfamily_KQT_member_4	15170	
+9860	Tclin	Potassium_voltage_gated_channel_subfamily_KQT_member_5	18728	
+9667	Tclin	Potassium_voltage_gated_channel_subfamily_S_member_1	19010	
+9767	Tclin	Potassium_voltage_gated_channel_subfamily_S_member_2	5249	
+9792	Tclin	Potassium_voltage_gated_channel_subfamily_S_member_3	17306	
+9794	Tclin	Potassium_voltage_gated_channel_subfamily_V_member_1	18075	
+9884	Tclin	Potassium_voltage_gated_channel_subfamily_V_member_2	16218	
+1280	Tclin	Potassium_transporting_ATPase_alpha_chain_1	14075	
+1281	Tclin	Potassium_transporting_ATPase_subunit_beta	5885	
+7533	Tclin	Potassium_sodium_hyperpolarization_activated_cyclic_nucleotide_gated_channel_1	19632	
+4121	Tclin	Potassium_sodium_hyperpolarization_activated_cyclic_nucleotide_gated_channel_2	198	
+4122	Tclin	Potassium_sodium_hyperpolarization_activated_cyclic_nucleotide_gated_channel_3	16053	
+7362	Tclin	Potassium_sodium_hyperpolarization_activated_cyclic_nucleotide_gated_channel_4	2017	
+13168	Tclin	Progesterone_receptor	14686	
+12774	Tclin	Programmed_cell_death_1_ligand_1	5109	
+12730	Tclin	Programmed_cell_death_protein_1	12257	
+12525	Tclin	Proprotein_convertase_subtilisin_kexin_type_9	6935	
+13109	Tclin	Prostacyclin_receptor	16824	
+12494	Tclin	Prostaglandin_D2_receptor	18313	
+12792	Tclin	Prostaglandin_E2_receptor_EP1_subtype	16142	
+12560	Tclin	Prostaglandin_E2_receptor_EP2_subtype	16830	
+12561	Tclin	Prostaglandin_E2_receptor_EP3_subtype	16829	
+12562	Tclin	Prostaglandin_E2_receptor_EP4_subtype	11186	
+12687	Tclin	Prostaglandin_F2_alpha_receptor	156669	
+12973	Tclin	Prostaglandin_G_H_synthase_1	8359	
+13071	Tclin	Prostaglandin_G_H_synthase_2	8600	
+13554	Tclin	Proteasome_subunit_alpha_type_1	9709	
+13555	Tclin	Proteasome_subunit_beta_type_1	14087	
+13665	Tclin	Proteasome_subunit_beta_type_2	9897	
+13441	Tclin	Proteasome_subunit_beta_type_5	17856	
+13531	Tclin	Proteasome_subunit_beta_type_8	17826	
+5136	Tclin	Protein_cereblon	4790	4790
+10246	Tclin	Protein_kinase_C_delta_type	12874	
+9316	Tclin	Proteinase_activated_receptor_1	4433	
+17181	Tclin	Prothrombin	11403	
+14801	Tclin	Proto_oncogene_tyrosine_protein_kinase_receptor_Ret	19744	
+16444	Tclin	Proto_oncogene_tyrosine_protein_kinase_Src	10465	
+13827	Tclin	RAF_proto_oncogene_serine_threonine_protein_kinase	19583	
+13831	Tclin	Receptor_activity_modifying_protein_1	17101	
+14512	Tclin	Receptor_activity_modifying_protein_3	17097	
+3362	Tclin	Receptor_tyrosine_protein_kinase_erbB_2	1230	
+6174	Tclin	Receptor_tyrosine_protein_kinase_erbB_4	15769	
+6865	Tclin	Receptor_type_tyrosine_protein_kinase_FLT3	11650	
+14690	Tclin	Renin	11247	
+4343	Tclin	Retinal_cone_rhodopsin_sensitive_cGMP_3'_5'_cyclic_phosphodiesterase_subunit_gamma	4706	4706
+12555	Tclin	Retinal_rod_rhodopsin_sensitive_cGMP_3'_5'_cyclic_phosphodiesterase_subunit_delta	6346	
+4894	Tclin	Retinal_rod_rhodopsin_sensitive_cGMP_3'_5'_cyclic_phosphodiesterase_subunit_gamma	18882	18882
+13833	Tclin	Retinoic_acid_receptor_alpha	11612	
+14461	Tclin	Retinoic_acid_receptor_beta	11905	
+14424	Tclin	Retinoic_acid_receptor_gamma	9253	
+15490	Tclin	Retinoic_acid_receptor_RXR_alpha	19311	
+15527	Tclin	Retinoic_acid_receptor_RXR_beta	4878	
+15339	Tclin	Retinoic_acid_receptor_RXR_gamma	9663	
+15102	Tclin	Rho_associated_protein_kinase_1	3771	
+15127	Tclin	Rho_associated_protein_kinase_2	8291	
+14759	Tclin	Ribonucleoside_diphosphate_reductase_large_subunit	13919	13919
+14783	Tclin	Ribonucleoside_diphosphate_reductase_subunit_M2	15441	
+12553	Tclin	Rod_cGMP_specific_3'_5'_cyclic_phosphodiesterase_subunit_alpha	3020	
+12498	Tclin	Rod_cGMP_specific_3'_5'_cyclic_phosphodiesterase_subunit_beta	13897	
+15530	Tclin	Ryanodine_receptor_1	16269	
+15531	Tclin	Ryanodine_receptor_2	12933	12933
+15585	Tclin	Ryanodine_receptor_3	14993	
+15795	Tclin	Secretin_receptor	13228	13228
+1976	Tclin	Serine_threonine_protein_kinase_B_raf	1929	
+11442	Tclin	Serine_threonine_protein_kinase_mTOR	17657	
+15929	Tclin	Sigma_non_opioid_intracellular_receptor_1	3421	
+14204	Tclin	SLAM_family_member_7	19626	
+14281	Tclin	Smoothened_homolog	2421	
+15370	Tclin	Sodium_channel_protein_type_1_subunit_alpha	11102	
+15633	Tclin	Sodium_channel_protein_type_10_subunit_alpha	107	
+15634	Tclin	Sodium_channel_protein_type_11_subunit_alpha	2901	2901
+15371	Tclin	Sodium_channel_protein_type_2_subunit_alpha	19458	
+15723	Tclin	Sodium_channel_protein_type_3_subunit_alpha	478	
+15902	Tclin	Sodium_channel_protein_type_4_subunit_alpha	11101	
+15725	Tclin	Sodium_channel_protein_type_5_subunit_alpha	18570	
+14329	Tclin	Sodium_channel_protein_type_7_subunit_alpha	19102	
+14330	Tclin	Sodium_channel_protein_type_8_subunit_alpha	7946	
+15903	Tclin	Sodium_channel_protein_type_9_subunit_alpha	18576	
+15694	Tclin	Sodium__and_chloride_dependent_GABA_transporter_1	18080	
+14319	Tclin	Sodium_dependent_dopamine_transporter	4914	
+14318	Tclin	Sodium_dependent_noradrenaline_transporter	13978	
+14320	Tclin	Sodium_dependent_serotonin_transporter	19581	
+15843	Tclin	Sodium_glucose_cotransporter_2	19618	
+1368	Tclin	Sodium_potassium_transporting_ATPase_subunit_alpha_1	14077	
+1428	Tclin	Sodium_potassium_transporting_ATPase_subunit_alpha_2	8722	
+1369	Tclin	Sodium_potassium_transporting_ATPase_subunit_alpha_3	9251	
+1429	Tclin	Sodium_potassium_transporting_ATPase_subunit_alpha_4	167	167
+1370	Tclin	Sodium_potassium_transporting_ATPase_subunit_beta_1	14079	14079
+1371	Tclin	Sodium_potassium_transporting_ATPase_subunit_beta_2	4359	4359
+1330	Tclin	Sodium_potassium_transporting_ATPase_subunit_beta_3	2961	
+1361	Tclin	Sodium_potassium_transporting_ATPase_subunit_gamma	2970	2970
+15425	Tclin	Solute_carrier_family_12_member_1	1086	1086
+15342	Tclin	Solute_carrier_family_12_member_2	15974	15974
+15752	Tclin	Solute_carrier_family_12_member_3	15965	15965
+15443	Tclin	Solute_carrier_family_22_member_11	18448	18448
+15401	Tclin	Solute_carrier_family_22_member_12	5433	
+15588	Tclin	Solute_carrier_family_22_member_6	8539	8539
+15399	Tclin	Solute_carrier_family_22_member_8	16425	16425
+16482	Tclin	Somatostatin_receptor_type_1	45	
+16545	Tclin	Somatostatin_receptor_type_2	35	
+16483	Tclin	Somatostatin_receptor_type_3	14720	
+16484	Tclin	Somatostatin_receptor_type_4	15113	
+16364	Tclin	Somatostatin_receptor_type_5	8633	
+15438	Tclin	Sphingosine_1_phosphate_receptor_1	12374	
+15439	Tclin	Sphingosine_1_phosphate_receptor_3	17260	
+15495	Tclin	Sphingosine_1_phosphate_receptor_4	756	
+15544	Tclin	Sphingosine_1_phosphate_receptor_5	11741	
+5011	Tclin	Steroid_17_alpha_hydroxylase_17_20_lyase	15390	
+12056	Tclin	Substance_P_receptor	4419	
+16400	Tclin	Succinate_semialdehyde_dehydrogenase__mitochondrial	7605	
+16823	Tclin	Synaptic_vesicle_glycoprotein_2A	16551	
+19063	Tclin	Synaptic_vesicular_amine_transporter	15848	
+2362	Tclin	T_cell_surface_antigen_CD2	17380	
+2363	Tclin	T_cell_surface_glycoprotein_CD3_delta_chain	17997	17997
+2755	Tclin	T_cell_surface_glycoprotein_CD3_epsilon_chain	14761	14761
+2445	Tclin	T_cell_surface_glycoprotein_CD3_gamma_chain	13939	
+2693	Tclin	T_lymphocyte_activation_antigen_CD80	16115	16115
+2532	Tclin	T_lymphocyte_activation_antigen_CD86	15193	
+17580	Tclin	Thioredoxin_reductase_1__cytoplasmic	14296	14296
+17634	Tclin	Thrombopoietin_receptor	158	
+16898	Tclin	Thromboxane_A2_receptor	15592	
+18344	Tclin	Thymidine_phosphorylase	19461	
+18498	Tclin	Thymidylate_synthase	5688	
+16998	Tclin	Thyroid_hormone_receptor_alpha	11906	
+17298	Tclin	Thyroid_hormone_receptor_beta	11908	
+12685	Tclin	Thyroid_peroxidase	11866	11866
+18058	Tclin	Thyrotropin_receptor	2821	
+17531	Tclin	Thyrotropin_releasing_hormone_receptor	16167	
+17520	Tclin	Tissue_type_plasminogen_activator	11434	
+17502	Tclin	Toll_like_receptor_7	5896	
+17612	Tclin	Toll_like_receptor_9	18771	
+16733	Tclin	Trace_amine_associated_receptor_1	575	
+18114	Tclin	Transient_receptor_potential_cation_channel_subfamily_A_member_1	13387	
+17544	Tclin	Transient_receptor_potential_cation_channel_subfamily_M_member_8	11405	
+18308	Tclin	Transient_receptor_potential_cation_channel_subfamily_V_member_1	9800	
+18150	Tclin	Transthyretin	6199	
+17879	Tclin	Troponin_C__slow_skeletal_and_cardiac_muscles	3929	3929
+18069	Tclin	Trypsin_1	16745	
+18051	Tclin	Tryptase_alpha_beta_1	19826	
+17768	Tclin	Tryptophan_5_hydroxylase_1	3205	
+17121	Tclin	Tubulin_beta_chain	15578	15578
+17120	Tclin	Tubulin_beta_1_chain	10262	
+17055	Tclin	Tubulin_beta_2A_chain	5762	
+16671	Tclin	Tubulin_beta_2B_chain	5181	
+17012	Tclin	Tubulin_beta_3_chain	1995	
+17263	Tclin	Tubulin_beta_4A_chain	1906	1906
+17013	Tclin	Tubulin_beta_4B_chain	15850	
+16672	Tclin	Tubulin_beta_6_chain	733	
+16909	Tclin	Tubulin_beta_8_chain	7177	
+17675	Tclin	Tumor_necrosis_factor	7617	
+17674	Tclin	Tumor_necrosis_factor_ligand_superfamily_member_11	12953	
+17386	Tclin	Tumor_necrosis_factor_ligand_superfamily_member_13B	16918	
+17682	Tclin	Tumor_necrosis_factor_receptor_superfamily_member_8	4133	
+7941	Tclin	Type_I_iodothyronine_deiodinase	8068	
+492	Tclin	Type_1_angiotensin_II_receptor	18021	
+18452	Tclin	Tyrosinase	7566	
+18334	Tclin	Tyrosine_3_monooxygenase	12342	
+120	Tclin	Tyrosine_protein_kinase_ABL1	8442	
+2181	Tclin	Tyrosine_protein_kinase_BTK	8173	
+7032	Tclin	Tyrosine_protein_kinase_Fyn	14463	
+4155	Tclin	Tyrosine_protein_kinase_HCK	12580	
+8216	Tclin	Tyrosine_protein_kinase_ITK_TSK	11466	
+9620	Tclin	Tyrosine_protein_kinase_JAK1	11322	
+9621	Tclin	Tyrosine_protein_kinase_JAK2	18787	
+9864	Tclin	Tyrosine_protein_kinase_JAK3	947	
+10373	Tclin	Tyrosine_protein_kinase_Lck	14446	
+10608	Tclin	Tyrosine_protein_kinase_Lyn	19745	
+19338	Tclin	Tyrosine_protein_kinase_Yes	19743	
+18595	Tclin	Uridine_5'_monophosphate_synthase	9651	
+18646	Tclin	Vascular_endothelial_growth_factor_A	3974	
+18690	Tclin	Vascular_endothelial_growth_factor_B	9678	
+18942	Tclin	Vascular_endothelial_growth_factor_receptor_1	1142	
+19036	Tclin	Vascular_endothelial_growth_factor_receptor_2	13940	
+19155	Tclin	Vascular_endothelial_growth_factor_receptor_3	13903	
+18997	Tclin	Vasopressin_V1a_receptor	6906	
+18998	Tclin	Vasopressin_V1b_receptor	13893	
+18999	Tclin	Vasopressin_V2_receptor	17917	
+19077	Tclin	Vitamin_D3_receptor	11316	
+18629	Tclin	Vitamin_K_epoxide_reductase_complex_subunit_1	17803	17803
+19005	Tclin	Vitamin_K_dependent_gamma_carboxylase	4403	4403
+1761	Tclin	Voltage_dependent_calcium_channel_subunit_alpha_2_delta_1	19952	
+1713	Tclin	Voltage_dependent_calcium_channel_subunit_alpha_2_delta_2	479	
+1764	Tclin	Voltage_dependent_L_type_calcium_channel_subunit_alpha_1C	4671	
+1857	Tclin	Voltage_dependent_L_type_calcium_channel_subunit_alpha_1D	1561	
+1670	Tclin	Voltage_dependent_L_type_calcium_channel_subunit_alpha_1S	1790	
+1719	Tclin	Voltage_dependent_N_type_calcium_channel_subunit_alpha_1B	7704	
+1766	Tclin	Voltage_dependent_T_type_calcium_channel_subunit_alpha_1G	3944	
+2129	Tclin	Voltage_dependent_T_type_calcium_channel_subunit_alpha_1H	14148	
+2130	Tclin	Voltage_dependent_T_type_calcium_channel_subunit_alpha_1I	16776	
+19178	Tclin	Xanthine_dehydrogenase_oxidase	13754	

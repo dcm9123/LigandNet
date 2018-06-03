@@ -1,0 +1,3 @@
+[H]C1(CCN(CCCOC2=CC=C(F)C=C2)CC1([H])OC)NC(=O)C1=C(OC)C=C(N)C(Cl)=C1	cisapride	pKi=6.82	pKi=6.82	pKi=6.82
+CCN(CC)CCNC(=O)C1=C(OC)C=C(N)C(Cl)=C1	metoclopramide	pKd=7.30000019	pKd=7.30000019	pKd=7.30000019
+NC1=CC(=O)c2ccc(nc2C1=O)c3ccccn3	CHEMBL57818	pIC50=6.02

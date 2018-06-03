@@ -1,0 +1,18 @@
+[H][C@@]12CC[C@H](C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	progesterone	pKi=7.38	pKi=7.38
+[H][C@@]12CC[C@](OC(=O)CCCCC)(C(C)=O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	hydroxyprogesterone caproate	pKi=7.74	pKi=7.74
+[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	hydrocortisone acetate	pKi=7.55	pKi=7.55
+[H][C@@]12CC[C@](O)(C(=O)COC(C)=O)[C@@]1(C)CC(=O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	cortisone acetate	pKi=6.89	pKi=6.89
+[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C	prednisolone	pKi=7.51	pKi=7.51
+[H][C@@]12CC[C@H](C(=O)CO)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	desoxycortone	pKi=7.65	pKi=7.65
+[H][C@@]12CC[C@H](C(=O)CO)[C@]1(C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C)C=O	aldosterone	pKi=6.28
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@@]1([H])[C@@]2([H])CCC2=CC(=O)CC[C@]12C	testosterone	pKi=6.72	pKi=6.72
+[H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])[C@@]3([H])CCC(=O)C=C3CC[C@@]21[H]	nandrolone	pKi=6.14	pKi=6.14
+CC(=O)[C@@]1(O)[C@H](O)C[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3CC[C@]12C	CHEMBL2311120	pKi=6.25
+C[C@]12CCC(=O)C=C1CC[C@H]3[C@@H]4CC[C@H](C(=O)CO)[C@]4(C[C@H](O)[C@H]23)C=O	CHEMBL273453	pKi=6.28
+CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@]4(C)[C@H]3C(=O)C[C@]12C	CHEMBL284253	pKi=6.78
+CC(=O)[C@H]1CC[C@H]2[C@@H]3CCC4=CC(=O)CC[C@@H]4[C@H]3CC[C@]12C	CHEMBL284109	pKi=6.82
+C[C@H]1CC2C3CCC(C(=O)C)C3(C)CCC2C4(C)CCC(=O)C=C14	CHEMBL433198	pKi=7.12
+C[C@]12C[C@H](O)[C@H]3[C@@H](CCC4=CC(=O)CC[C@]34C)[C@@H]1CC[C@@H]2C(=O)CO	CHEMBL110739	pKi=7.2
+CC1C[C@]2(C)[C@@H]3[C@@H](CCC2=CC1=O)[C@@H]4CC[C@](O)(C(=O)CO)[C@@]4(C)CC3=O	CHEMBL432825	pKi=7.69
+C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2CC[C@@]4(C)[C@H]3CC[C@]4(O)C(=O)CO	CHEMBL253144	pKi=7.88
+C[C@]12CCC(=O)C=C1CC[C@H]3[C@@H]4CC[C@](O)(C(=O)CO)[C@@]4(C)C[C@H](O)[C@H]23	CHEMBL389621	pKi=7.88

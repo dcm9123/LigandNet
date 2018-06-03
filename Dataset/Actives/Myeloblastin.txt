@@ -1,0 +1,9 @@
+CC(C)(C)C(=O)OC1=CC=C(C=C1)S(=O)(=O)NC1=C(C=CC=C1)C(=O)NCC(O)=O	sivelestat	pIC50=6.46999979	pIC50=6.46999979	pIC50=6.46999979	pIC50=6.47
+CC(C)(C)C(=O)Oc1ccc(cc1)S(=O)(=O)Nc2ccccc2C(=O)OCCO	CHEMBL3398165	pIC50=6.22
+CO\N=C(/C)\c1ccccc1NS(=O)(=O)c2ccc(OC(=O)C(C)(C)C)cc2	CHEMBL3398151	pIC50=6.22
+CC(C)(C)C(=O)Oc1ccc(cc1)S(=O)(=O)Nc2ccccc2\C=N/O	CHEMBL3398153	pIC50=6.28
+CCC[C@H](NC(=O)[C@H](CC(=O)O)NC(=O)[C@H](C)NC(=O)[C@@H](NC(=O)c1ccccc1N)C(C)C)C(=O)C[C@@H](C)C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](Cc2ccc(O)cc2)C(=O)N[C@@H](CCC(=O)N)C(=O)NCCNc3ccc(cc3[N+](=O)[O-])[N+](=O)[O-]	CHEMBL3359765	pIC50=6.28
+CC(=O)c1ccccc1NS(=O)(=O)c2ccc(OC(=O)C(C)(C)C)cc2	CHEMBL3398143	pIC50=6.33
+CCCC(=O)c1ccccc1NS(=O)(=O)c2ccc(OC(=O)C(C)(C)C)cc2	CHEMBL3398145	pIC50=6.44
+CC(C)(C)C(=O)Oc1ccc(cc1)S(=O)(=O)Nc2ccccc2C(=O)NCCO	CHEMBL3398164	pIC50=6.51
+C\C(=N\O)\c1ccccc1NS(=O)(=O)c2ccc(OC(=O)C(C)(C)C)cc2	CHEMBL3398148	pIC50=6.66

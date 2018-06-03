@@ -1,0 +1,2 @@
+CN1CC[C@@H]([C@H](O)C1)c2c(O)cc(O)c3C(=O)C=C(Oc23)c4ccccc4Cl	CHEMBL428690	pKd=7.55
+COc1ccc(F)c(F)c1C(=O)c2cnc(NC3CCN(CC3)S(=O)(=O)C)nc2N	CHEMBL384304	pKd=7.96

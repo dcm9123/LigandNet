@@ -1,0 +1,5 @@
+COc1cccc(\C=N\N(Cc2ccccc2)Cc3ccccc3)c1	CHEMBL65842	pIC50=6.16
+CCc1oc(\C=N\N(Cc2ccccc2)Cc3ccccc3)cc1	CHEMBL302504	pIC50=6.48
+Clc1ccc(\C=N\N(Cc2ccccc2)Cc3ccccc3)cc1	CHEMBL69665	pIC50=6.62
+COc1ccc(\C=N\N(Cc2ccccc2)Cc3ccccc3)cc1	CHEMBL69115	pIC50=6.66
+Clc1ccc(\C=N\N(Cc2ccccc2)Cc3ccccc3)s1	CHEMBL66059	pIC50=6.77

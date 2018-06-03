@@ -1,0 +1,12 @@
+[H][C@@]12CC(=O)[C@@H](CC(C)C)CN1CCC1=C2C=C(OC)C(OC)=C1	tetrabenazine	pKi=7.0	pKi=7.0	pKi=7.0
+[H][C@]12C[C@@H](OC(=O)C3=CC(OC)=C(OC)C(OC)=C3)[C@H](OC)[C@@H](C(=O)OC)[C@@]1([H])C[C@@]1([H])N(CCC3=C1NC1=C3C=CC(OC)=C1)C2	reserpine	pKi=7.9000001	pKi=7.9000001	pKi=7.9000001
+C[C@H](N)CC1=CC=CC=C1	dexamfetamine
+C[C@@H](CC1=CC=CC=C1)N(C)CC1=CC=CC=C1	benzphetamine
+[H][C@]12C[C@@H](OC(=O)C3=CC(OC)=C(OC)C(OC)=C3)[C@H](OC)[C@@H](C(=O)OC)[C@@]1([H])C[C@@]1([H])N(CCC3=C1NC1=CC=CC=C31)C2	deserpidine
+[H][C@]12C[C@@H](OC(=O)\C=C\C3=CC(OC)=C(OC)C(OC)=C3)[C@H](OC)[C@@H](C(=O)OC)[C@@]1([H])C[C@@]1([H])N(CCC3=C1NC1=C3C=CC(OC)=C1)C2	rescinnamine
+C[C@@H](CC1=CC=CC=C1)NC(=O)[C@@H](N)CCCCN	lisdexamfetamine
+[H]C12CC(=O)C(CC(C)C)CN1CCC1=C2C=C(OC([2H])([2H])[2H])C(OC([2H])([2H])[2H])=C1	deutetrabenazine
+[H][C@]12C[C@@H](OC(=O)[C@@H](N)C(C)C)[C@H](CC(C)C)CN1CCC1=C2C=C(OC)C(OC)=C1	valbenazine	pKi=8.52287865
+CN1[C@H](CCc2ccccc2)CCC[C@@H]1CCc3ccccc3	CHEMBL333465	pKi=6.01
+CN1[C@H](CCc2cccc3ccccc23)CCC[C@@H]1CCc4cccc5ccccc45	CHEMBL190691	pKi=6.2
+COc1cc2[C@H]3C[C@@H](O)[C@H](CC(C)C)CN3CCc2cc1OCCCF	CHEMBL579217	pKi=10.0

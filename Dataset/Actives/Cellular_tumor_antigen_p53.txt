@@ -1,0 +1,5 @@
+CC[C@H](N1[C@@H]([C@H](C[C@](C)(CC(=O)O)C1=O)c2cccc(Cl)c2)c3ccc(Cl)cc3)C(=O)OC(C)(C)C	CHEMBL2059300	pIC50=6.0
+CN1C2=C(C(Oc3ccc(C)cc23)c4ccc(Br)cc4)C(c5ccc(Br)cc5)n6ncnc16	CHEMBL583413	pIC50=6.0
+COc1ccc(C2=N[C@H]([C@H](N2C(=O)N3CCNC(=O)C3)c4ccc(Cl)cc4)c5ccc(Cl)cc5)c(OC(C)C)c1	CHEMBL191334	pIC50=6.0
+CC[C@@H]([C@H](C)O)N1[C@@H]([C@H](C[C@](C)(CC(=O)O)C1=O)c2cccc(Cl)c2)c3ccc(Cl)cc3	CHEMBL2059435	pIC50=6.12
+CN1CCC[C@@H]1CCn2c3ccc(cc3c4c5CCC(=O)c5ccc24)C(=O)C	CHEMBL2436173	pEC50=7.1

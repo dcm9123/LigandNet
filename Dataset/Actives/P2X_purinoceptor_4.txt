@@ -1,0 +1,7 @@
+Fc1ccc(cc1)[C@@H]2CCNC[C@H]2COc3ccc4OCOc4c3	paroxetine	pIC50=5.33	pIC50=5.33	pIC50=5.33	pIC50=5.33
+NC1=NC=NC2=C1N=CN2[C@@H]1O[C@H](COP(O)(=O)OP(O)(=O)OP(O)(O)=O)[C@@H](O)[C@H]1O	adenosine triphosphate	pEC50=6.30000019
+CCCN(CCC)C(=O)N1c2ccccc2C=Cc3ccccc13	CHEMBL3103375	pIC50=5.11
+O=C(OCc1ccccc1)N2c3ccccc3C=Cc4ccccc24	CHEMBL3103401	pIC50=5.22
+CC(C)N(C(C)C)C(=O)N1c2ccccc2C=Cc3ccccc13	CHEMBL3103385	pIC50=5.46
+O=C(OCc1ccccc1)N2c3ccccc3Oc4ccccc24	CHEMBL2180137	pIC50=6.72
+Nc1ncnc2c1ncn2[C@@H]3O[C@H](COP(=O)(O)OP(=O)(O)OP(=O)(O)O)[C@H]4OC5(O[C@@H]34)C(=CC(=[N+]([O-])[O-])C=C5[N+](=O)[O-])[N+](=O)[O-]	CHEMBL1163419	pKi=7.31

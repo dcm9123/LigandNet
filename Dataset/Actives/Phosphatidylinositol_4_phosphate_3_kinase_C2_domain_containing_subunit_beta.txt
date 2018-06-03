@@ -1,0 +1,5 @@
+COc1ccc(Nc2ncc(CN3CCN(CC3)S(=O)(=O)C)cc2c4nc(C)nc(N)n4)cn1	CHEMBL2165017	pIC50=7.54
+Oc1cccc(c1)c2nc(N3CCOCC3)c4oc5ncccc5c4n2	CHEMBL573339	pIC50=7.59
+Nc1ccc(cn1)c2ccc3ncc4C=CC(=O)N(c5cccc(c5)C(F)(F)F)c4c3c2	CHEMBL1765602	pIC50=7.61
+Cl.Oc1cccc(c1)c2nc(N3CCOCC3)c4oc5ncccc5c4n2	CHEMBL538346	pIC50=8.0
+Nc1nc(N)c2nc(c3cccc(O)c3)c(nc2n1)c4cccc(O)c4	CHEMBL230011	pKd=8.14

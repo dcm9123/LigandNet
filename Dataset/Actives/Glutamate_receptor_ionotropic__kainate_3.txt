@@ -1,0 +1,16 @@
+[H][C@@]12CO[C@@]3(COS(N)(=O)=O)OC(C)(C)O[C@@]3([H])[C@]1([H])OC(C)(C)O2	topiramate
+N[C@@H](CC(=C1CCCC1)C(=O)O)C(=O)O	CHEMBL51660	pKi=5.24
+OC(=O)CN1C(=O)C(=O)Nc2cc(c(cc12)n3ccc(CN4CCCCC4)c3)[N+](=O)[O-]	CHEMBL303415	pKi=5.24
+OC(=O)CN1C(=O)C(=O)Nc2cc(c(cc12)n3ccc(c3)C(=O)O)[N+](=O)[O-]	CHEMBL293613	pKi=5.39
+OC(=O)CCN1C(=O)C(=O)Nc2cc(c(cc12)n3cccc3)[N+](=O)[O-]	CHEMBL305534	pKi=5.6
+OC(=O)CN1C(=O)C(=O)Nc2cc(c(cc12)n3ccc(CN4CCN(CCc5ccccc5)CC4)c3)[N+](=O)[O-]	CHEMBL67828	pKi=5.85
+OC(=O)CN1C(=O)C(=O)Nc2cc(c(cc12)n3ccc(CNCCCc4ccccc4)c3)[N+](=O)[O-]	CHEMBL429540	pKi=5.85
+N[C@@H](CCC(=O)O)C(=O)O	CHEMBL575060	pKi=6.1
+OC(=O)CN1C(=O)C(=O)Nc2cc(c(cc12)n3ccc(CN4CCN(Cc5ccccc5)CC4)c3)[N+](=O)[O-]	CHEMBL63861	pKi=6.17
+N[C@@H](C[C@@H](C\C=C\c1ccc2ccccc2c1)C(=O)O)C(=O)O	CHEMBL301536	pKi=6.21
+OC(=O)CN1C(=O)C(=O)Nc2cc(c(cc12)n3ccc(CN4CCC(CC4)c5ccccc5)c3)[N+](=O)[O-]	CHEMBL416685	pKi=6.28
+CC(C)\C=C(/C[C@H](N)C(=O)O)\C(=O)O	CHEMBL299180	pKi=6.29
+N[C@@H](C[C@@H](C\C=C\c1ccc(Cl)cc1)C(=O)O)C(=O)O	CHEMBL58590	pKi=6.37
+OC(=O)CN1C(=O)C(=O)Nc2cc(c(cc12)n3ccc(CNC(=O)Nc4ccc(cc4)[N+](=O)[O-])c3)C(F)(F)F	CHEMBL13076	pKi=7.34
+COc1ccccc1\C=C\C[C@H](C[C@H](N)C(=O)O)C(=O)O	CHEMBL59284	pKi=7.38
+CC(=C)[C@H]1CN[C@@H]([C@H]1CC(=O)O)C(=O)O	CHEMBL275040	pKi=8.0

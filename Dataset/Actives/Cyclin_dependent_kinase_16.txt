@@ -1,0 +1,8 @@
+COC(=O)c1ccc2\C(=C(\Nc3ccc(cc3)N(C)C(=O)CN4CCN(C)CC4)/c5ccccc5)\C(=O)Nc2c1	nintedanib	pKd=7.68	pKd=7.68	pKd=7.68	pKd=7.68
+C[C@]12O[C@H](C[C@]1(O)CO)n3c4ccccc4c5c6C(=O)NCc6c7c8ccccc8n2c7c35	CHEMBL603469	pKd=7.57
+CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n3c4ccccc4c5c6CNC(=O)c6c7c8ccccc8n2c7c35	CHEMBL388978	pKd=7.6
+Nc1nc(Nc2ccc(cc2)S(=O)(=O)N)nn1C(=O)c3c(F)cccc3F	CHEMBL191003	pKd=7.64
+Cn1cc(C2=C(C(=O)NC2=O)c3cccc(NCC(O)CO)c3)c4cc(F)ccc14	CHEMBL1082152	pKd=7.92
+CC(C)(C)c1oc(CSc2cnc(NC(=O)C3CCNCC3)s2)nc1	CHEMBL296468	pKd=8.15
+Clc1cccc(Cl)c1C(=O)Nc2c[nH]nc2C(=O)NC3CCNCC3	CHEMBL445813	pKd=8.96
+COc1ccc(F)c(F)c1C(=O)c2cnc(NC3CCN(CC3)S(=O)(=O)C)nc2N	CHEMBL384304	pKd=9.27

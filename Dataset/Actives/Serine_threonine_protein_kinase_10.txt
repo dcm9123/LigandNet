@@ -1,0 +1,13 @@
+COCCOC1=CC2=C(C=C1OCCOC)C(NC1=CC=CC(=C1)C#C)=NC=N2	erlotinib	pKd=7.72	pKd=7.72	pKd=7.72	pKd=7.72
+CCN(CC)CCNC(=O)c1c(C)[nH]c(\C=C\2/C(=O)Nc3ccc(F)cc23)c1C	sunitinib	pKd=7.72	pKd=7.72	pKd=7.72	pKd=7.72
+COc1cc(Nc2c(cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)C#N)c(Cl)cc1Cl	bosutinib	pKd=8.15	pKd=8.15	pKd=8.15	pKd=8.16
+COc1cc2c(Oc3ccc4[nH]c(C)cc4c3F)ncnc2cc1OCCCN5CCCC5	CHEMBL491473	pKd=7.64
+COc1cc(Oc2ccnc3cc(OC)c(OC)cc23)ccc1NC(=O)NC(C)c4nccs4	CHEMBL1908396	pKd=7.66
+CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)\C=C\CN(C)C	CHEMBL180022	pKd=7.89
+O=C(N1CCNCC1)c2ccc(\C=C\c3n[nH]c4ccccc34)cc2	CHEMBL1908397	pKd=7.89
+Cc1ccc(cc1)n2nc(cc2NC(=O)Nc3ccc(OCCN4CCOCC4)c5ccccc35)C(C)(C)C	CHEMBL103667	pKd=7.92
+Cc1nc(Nc2nc3ccc(nc3s2)c4cccc(c4)C(=O)Nc5cccc(c5)C(F)(F)F)cc(n1)N6CCNCC6	CHEMBL2148120	pKd=8.02
+C[C@]12O[C@H](C[C@]1(O)CO)n3c4ccccc4c5c6C(=O)NCc6c7c8ccccc8n2c7c35	CHEMBL603469	pKd=8.24
+CCN1CCN(Cc2ccc(NC(=O)Nc3ccc(Oc4cc(NC)ncn4)cc3)cc2C(F)(F)F)CC1	CHEMBL574738	pKd=9.04
+COc1cc2c(Oc3ccc(NC(=O)C4(CC4)C(=O)Nc5ccc(F)cc5)cc3F)ccnc2cc1OCCCN6CCOCC6	CHEMBL1230609	pKd=9.28
+CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n3c4ccccc4c5c6CNC(=O)c6c7c8ccccc8n2c7c35	CHEMBL388978	pKd=10.43

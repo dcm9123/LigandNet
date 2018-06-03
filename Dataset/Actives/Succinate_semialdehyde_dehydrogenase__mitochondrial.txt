@@ -1,0 +1,2 @@
+CCCC(CCC)C(O)=O	valproic acid
+Oc1ccc(cc1)C(=O)C=C	CHEMBL378577	pIC50=6.46

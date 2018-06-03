@@ -1,0 +1,2 @@
+C[C@@](CC1=CC(O)=C(O)C=C1)(NN)C(O)=O	carbidopa
+CN1CC[C@@H]([C@H](O)C1)c2c(O)cc(O)c3C(=O)C=C(Oc23)c4ccccc4Cl	CHEMBL428690	pIC50=7.0

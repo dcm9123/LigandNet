@@ -1,0 +1,6 @@
+Nc1c2C(=O)c3ccccc3C(=O)c2c(Nc4ccc(Nc5nc(Cl)nc(Nc6ccc(cc6)S(=O)(=O)O)n5)c(c4)S(=O)(=O)O)cc1S(=O)(=O)O	CHEMBL1160025	pKi=6.1
+Nc1c2C(=O)c3ccccc3C(=O)c2c(Nc4ccc(Nc5nc(Cl)nc(Nc6cccc(c6)S(=O)(=O)O)n5)c(c4)S(=O)(=O)O)cc1S(=O)(=O)O	CHEMBL1160031	pKi=6.1
+C[n+]1ccc(\C=C\c2cccc3ccccc23)cc1	CHEMBL106212	pIC50=6.4
+Cc1c[n+](C)ccc1\C=C\c2cccc3ccccc23	CHEMBL323262	pIC50=6.4
+[Cl-].C[n+]1ccc(\C=C\c2cccc3ccccc23)cc1	CHEMBL167967	pIC50=6.52
+[Na+].[Na+].Nc1c(cc(c2ccccc12)S(=O)(=O)[O-])N=Nc3ccc(cc3)c4ccc(cc4)N=Nc5cc(c6ccccc6c5N)S(=O)(=O)[O-]	CHEMBL429694	pKi=7.0

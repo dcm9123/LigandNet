@@ -1,0 +1,14 @@
+CC(C)c1cccc(C(C)C)c1NC(=O)NC(C)(Cc2c[nH]c3ccccc23)C(=O)N[C@H]4COC(C)(C)OC4c5ccccc5	CHEMBL89075	pKi=7.02
+Cc1ccc2NC3=C(C(Nc2c1)c4ccccc4C(F)(F)F)C(=O)CC5(CCCC5)C3	CHEMBL563374	pIC50=7.02
+CC(C)c1cccc(C(C)C)c1NC(=O)N[C@@](C)(Cc2c[nH]c3ccccc23)C(=O)NC4CCCCC4c5ccccc5	CHEMBL1907682	pKi=7.12
+CC(C)c1cccc(C(C)C)c1NC(=O)NC(C)(Cc2c[nH]c3ccccc23)C(=O)NC4CCCc5ccccc45	CHEMBL315859	pKi=7.14
+CC(C)CNC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)OCc3cn(cn3)C(c4ccccc4)(c5ccccc5)c6ccccc6	CHEMBL292119	pKi=7.43
+COc1cccc2[nH]c3CCC(Cc3c12)(NC(=O)Nc4c(cccc4C(C)C)C(C)C)C(=O)NCC5(CCCCC5)c6ccccn6	CHEMBL103756	pIC50=7.54
+CC(C)c1cccc(C(C)C)c1NC(=O)N[C@](C)(Cc2c[nH]c3ccccc23)C(=O)NC4CCCc5ccccc45	CHEMBL1907865	pKi=7.85
+CCCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)CNC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC(=O)N)NC(=O)CNC(=O)[C@H](Cc4ccc(O)cc4)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]5CCCN5C(=O)C(CNCCN)CNCCN)C(C)C)C(=O)N	CHEMBL2371724	pIC50=7.95
+CC(C)c1cccc(C(C)C)c1NC(=O)NC(C)(Cc2c[nH]c3ccccc23)C(=O)NCC4(CCCCC4)c5ccccc5	CHEMBL329561	pKi=8.11
+CC(C)c1cccc(C(C)C)c1NC(=O)N[C@@](C)(Cc2c[nH]c3ccccc23)C(=O)NCC4(CCCCC4)c5ccccn5	CHEMBL86828	pKi=8.2
+CCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)CNC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](CCC(=O)N)NC(=O)COCC(=O)Nc4ccc(CC(CNCCN)CNCCN)cc4)C(C)C)C(=O)N	CHEMBL266079	pIC50=8.7
+CSCCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)CNC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CC(=O)N)NC(=O)CNC(=O)[C@H](Cc4ccc(O)cc4)NC(=O)[C@H](CCCN=C(N)N)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@@H]5CCCN5C(=O)C(CNCCN)CNCCN)C(C)C)C(=O)N	CHEMBL2371725	pIC50=8.8
+CSCC[C@H](NC(=O)[C@H](CC(C)C)NC(=O)[C@H](Cc1c[nH]cn1)NC(=O)CNC(=O)[C@@H](NC(=O)[C@H](C)NC(=O)[C@H](Cc2c[nH]c3ccccc23)NC(=O)[C@H](CCC(=O)N)NC(=O)COCC(=O)Nc4ccc(CC(CNCCN)CNCCN)cc4)C(C)C)C(=O)N	CHEMBL414307	pIC50=9.05
+COc1ccc(nc1)C2(CNC(=O)[C@](C)(Cc3c[nH]c4ccccc34)NC(=O)Nc5ccc(cc5)[N+](=O)[O-])CCCCC2	CHEMBL405908	pIC50=9.18

@@ -1,0 +1,15 @@
+[H][C@]12O[C@](O)([C@H](C)C[C@@H]1OC)C(=O)C(=O)N1CCCC[C@@]1([H])C(=O)O[C@@H]([C@@H](C)[C@@H](O)CC(=O)[C@H](CC=C)\C=C(C)\C[C@H](C)C[C@@H]2OC)C(\C)=C\[C@@H]1CC[C@@H](O)[C@@H](C1)OC	tacrolimus	pKi=7.1	pKi=7.1	pKi=7.1	pKi=7.1
+[H][C@@](C)(C[C@]1([H])CC[C@@]([H])(O)[C@@]([H])(C1)OC)[C@]1([H])CC(=O)[C@]([H])(C)\C=C(C)\[C@@]([H])(O)[C@@]([H])(OC)C(=O)[C@]([H])(C)C[C@]([H])(C)\C=C\C=C\C=C(C)\[C@]([H])(C[C@]2([H])CC[C@@]([H])(C)[C@@](O)(O2)C(=O)C(=O)N2CCCC[C@@]2([H])C(=O)O1)OC	sirolimus	pKi=8.52	pKi=8.52	pKi=8.52	pKi=8.52
+COc1ccc(OCCN2CCC3CCCC(N3S(=O)(=O)c4cc(Cl)c(O)c(Cl)c4)C2=O)cc1OC	CHEMBL2348599	pKi=6.0
+COc1cc(cc(OC)c1OC)[C@H](C2CCCCC2)C(=O)N3CCCC[C@H]3C(=O)NC4(CCCC4)C(=O)NCC(=O)N	CHEMBL3794209	pKi=6.1
+COc1ccc(CC[C@@H](OC(=O)[C@@H]2CCCCN2C(=O)[C@H]([C@@H](C)O)C3CCCCC3)c4cccc(OCCN5CCOCC5)c4)cc1OC	CHEMBL3623623	pKi=6.16
+COc1ccc(CC[C@@H](OC(=O)[C@@H]2CCCCN2C(=O)[C@@H](C3CCCCC3)c4ccccc4)c5cccc(OCC(=O)O)c5)cc1OC	CHEMBL3623615	pKi=6.22
+COc1ccc(CC[C@@H](OC(=O)[C@@H]2CCCCN2S(=O)(=O)c3cc(Cl)c(O)c(Cl)c3)c4cccc(OCCN5CCOCC5)c4)cc1OC	CHEMBL2058794	pIC50=6.34
+COc1ccc(OCCN2CCC3CCCC(N3S(=O)(=O)c4ccc5NC(=O)Sc5c4)C2=O)cc1OC	CHEMBL2348594	pKd=6.44
+COc1ccc(CC[C@@H](OC(=O)C2CCCCN2S(=O)(=O)c3cc(Cl)c(O)c(Cl)c3)c4cccc(OCCN5CCOCC5)c4)cc1OC	CHEMBL2348603	pKi=6.7
+COc1cccc(c1)[C@H](C2CCCCC2)C(=O)N3CCCC[C@H]3C(=O)O[C@H](CCc4ccc(OC)c(OC)c4)c5cccc(OCC(=O)O)c5	CHEMBL3623614	pKi=6.8
+COc1cc(cc(OC)c1OC)[C@H](C2CCCCC2)C(=O)N3CCCC[C@H]3C(=O)NC4(CCCC4)C(=O)N	CHEMBL3793603	pKi=6.85
+COc1cc(OC)cc(c1)[C@H](C2CCCCC2)C(=O)N3CCCC[C@H]3C(=O)O[C@H](CCc4ccc(OC)c(OC)c4)c5cccc(OCC(=O)O)c5	CHEMBL3623613	pKi=6.96
+COc1ccc(CC[C@@H](NC(=O)[C@@H]2CCCCN2C(=O)[C@@H](C3CCCCC3)c4cc(OC)c(OC)c(OC)c4)c5cccc(OCC(=O)O)c5)cc1OC	CHEMBL3792975	pKi=7.37
+COc1ccc(CC[C@@H](OC(=O)[C@@H]2CCCCN2C(=O)[C@@H](C3CCCCC3)c4cc(OC)c(OC)c(OC)c4)c5cccc(OCCN6CCOCC6)c5)cc1OC	CHEMBL3623630	pKi=8.22
+COc1ccc(CC[C@@H](OC(=O)[C@@H]2CCCCN2C(=O)[C@@H](C3CCCCC3)c4cc(OC)c(OC)c(OC)c4)c5cccc(OCC(=O)O)c5)cc1OC	CHEMBL3623612	pKi=8.4

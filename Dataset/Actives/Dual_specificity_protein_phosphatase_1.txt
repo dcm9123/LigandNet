@@ -1,0 +1,4 @@
+OS(=O)(=O)CCN1C(=S)S\C(=C/c2cn(nc2c3ccc(OCc4ccccc4)cc3)c5ccccc5)\C1=O	CHEMBL565810	pIC50=6.11
+OS(=O)(=O)CCN1C(=S)S\C(=C/c2cn(nc2c3ccc(OCc4ccccc4F)cc3)c5ccccc5)\C1=O	CHEMBL584481	pIC50=6.28
+OS(=O)(=O)CCN1C(=S)S\C(=C/c2cn(nc2c3ccc(OCc4ccccc4Cl)cc3)c5ccccc5)\C1=O	CHEMBL567069	pIC50=6.33
+OS(=O)(=O)CCN1C(=S)S\C(=C/c2cn(nc2c3ccc(OCc4ccc(Cl)cc4)cc3)c5ccccc5)\C1=O	CHEMBL565795	pIC50=6.34

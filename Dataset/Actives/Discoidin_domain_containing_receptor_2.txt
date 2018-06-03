@@ -1,0 +1,32 @@
+CNC(=O)C1=CC(OC2=CC=C(NC(=O)NC3=CC=C(Cl)C(=C3)C(F)(F)F)C=C2)=CC=N1	sorafenib	pKd=8.18	pKd=8.18	pKd=8.18	pIC50=8.16
+CC1=NC(NC2=NC=C(S2)C(=O)NC2=C(C)C=CC=C2Cl)=CC(=N1)N1CCN(CCO)CC1	dasatinib	pKd=8.52	pKd=8.52	pKd=8.52	pKd=7.75
+CN1CCN(CC2=CC=C(C=C2)C(=O)NC2=CC=C(C)C(NC3=NC=CC(=N3)C3=CN=CC=C3)=C2)CC1	imatinib	pKd=7.82	pKd=7.82	pKd=7.82	pKd=7.82
+CC1=CN(C=N1)C1=CC(=CC(NC(=O)C2=CC(NC3=NC=CC(=N3)C3=CN=CC=C3)=C(C)C=C2)=C1)C(F)(F)F	nilotinib	pKd=8.22	pKd=8.22	pKd=8.22	pKd=8.21
+CCC(=O)Nc1cccc(c1)n2nc(cc2NC(=O)Nc3ccc(OCCN4CCOCC4)c5ccccc35)C(C)(C)C	CHEMBL3261118	pIC50=7.54
+CN1CCN(Cc2ccc(cc2)C(=O)Nc3ccc(C)c(Nc4nc(cs4)c5cccnc5)c3)CC1	CHEMBL1908391	pKd=7.59
+NC(=O)c1c(NC(=O)NCCCCN2CCCC2)snc1OCc3c(F)cc(Br)cc3F	CHEMBL253969	pIC50=7.62
+Cc1ccc(cc1)n2nc(cc2NC(=O)Nc3ccc(OCCN4CCOCC4)c5ccccc35)C(C)(C)C	CHEMBL103667	pKd=7.68
+CC(C)(C)c1cc(NC(=O)Nc2ccc(OCCN3CCOCC3)c4ccccc24)n(n1)c5cccc(N)c5	CHEMBL344800	pKd=7.7
+CNC(=O)c1cc(Oc2ccc(CNC(=O)Nc3cc(ccc3OC4CCNCC4)C(F)(F)F)cc2)ccn1	CHEMBL3422261	pIC50=7.7
+Cc1ccc(cc1)n2nc(cc2NC(=O)Nc3nc(CCOCc4ccncc4)cs3)C(C)(C)C	CHEMBL1738943	pIC50=7.72
+CC(C)(C)c1cc(NC(=O)Nc2ccc(Nc3ncnc4ccccc34)cc2)n(n1)c5cccc(N)c5	CHEMBL2403816	pIC50=7.75
+Cc1cc(NC(=O)c2ccc(C)c(Nc3nccc(n3)c4cccnc4)c2)cc(c1)n5cnc(C)c5	CHEMBL2311806	pIC50=7.76
+CC(C)(C)c1cc(NC(=O)Nc2ccc(Cl)cc2)n(n1)c3cccc(N)c3	CHEMBL498947	pKd=7.82
+CN1C=C(C=C(NC(=O)NCc2ccc(Oc3ccnc4NC(=O)NCc34)cc2)C1=O)C(F)(F)F	CHEMBL3422260	pIC50=7.82
+Cc1cccc(c1)n2nc(cc2NC(=O)Nc3ccc(Cl)cc3)C(C)(C)C	CHEMBL568875	pKd=7.82
+Cc1cn(cn1)c2cc(F)cc(NC(=O)c3ccc(C)c(Nc4nccc(n4)c5cccnc5)c3)c2	CHEMBL2311807	pKd=7.85
+CSc1cccc(Nc2ncc3C=C(C(=O)N(C)c3n2)c4c(Cl)cccc4Cl)c1	CHEMBL386051	pKd=7.92
+CCN1CCN(Cc2ccc(NC(=O)Nc3ccc(Oc4cc(NC)ncn4)cc3)cc2C(F)(F)F)CC1	CHEMBL574738	pKd=7.96
+Cc1ccc(CNC(=O)Nc2cccc(F)c2)cc1NC(=O)c3cnc4ccccn34	CHEMBL3608786	pEC50=8.06
+C[C@H](NC(=O)Nc1ccccc1)c2ccc(C)c(NC(=O)c3cnc4ccccn34)c2	CHEMBL3608787	pIC50=8.09
+Cc1ccc(CNC(=O)Nc2ccccc2)cc1NC(=O)c3cnc4ccccn34	CHEMBL3608785	pIC50=8.09
+CC(C)(N)c1cc(cc(c1)C(F)(F)F)C(=O)N[C@@H]2CCc3ccc(Oc4ccnc5NC(=O)CCc45)cc3C2	CHEMBL1688861	pIC50=8.16
+CN(C)CCOc1cc(Cl)c(C)cc1NC(=O)NCc2ccc(Oc3ccnc(NC(=O)C)c3)c(C)c2	CHEMBL3422262	pIC50=8.22
+C[C@H](Nc1oc2ccc(F)cc2n1)c3ccc(C)c(NC(=O)c4cnc5ccccn45)c3	CHEMBL3608791	pIC50=8.22
+Oc1cccc(Nc2ccnc3cc(sc23)c4cccc(CN5CCOCC5)c4)c1	CHEMBL2336005	pIC50=8.22
+C[C@H](NC(=O)c1cccc(c1)C(F)(F)F)c2ccc(C)c(NC(=O)c3cnc4ccccn34)c2	CHEMBL3608790	pIC50=8.24
+C[C@H](NC(=O)Nc1cccc(F)c1)c2ccc(C)c(NC(=O)c3cnc4ccccn34)c2	CHEMBL3608789	pIC50=8.35
+COc1cc2c(Oc3ccc(NC(=O)C4(CC4)C(=O)Nc5ccc(F)cc5)cc3F)ccnc2cc1OCCCN6CCOCC6	CHEMBL1230609	pKd=8.44
+CN(C)Cc1cc(cc(c1)C(F)(F)F)C(=O)N[C@@H]2CCc3ccc(Oc4ccnc5NC(=O)CCc45)cc3C2	CHEMBL1688860	pIC50=8.59
+CC(C)(C)c1cc(NC(=O)Nc2cccc(Nc3ncnc4ccccc34)c2)n(n1)c5cccc(N)c5	CHEMBL2403875	pIC50=8.7
+CCc1ccc(cc1C#Cc2cnc3ccnn3c2)C(=O)Nc4cc(CN5CCN(C)CC5)cc(c4)C(F)(F)F	CHEMBL2336015	pKd=9.22

@@ -1,0 +1,3 @@
+CC1=C(C=C(C#N)C(=O)N1)C1=CN2C=CN=C2C=C1	olprinone
+OCCN(CCO)c1nc(N2CCCCC2)c3nc(nc(N4CCCCC4)c3n1)N(CCO)CCO	dipyridamole	pIC50=4.37	pIC50=4.37	pIC50=4.37
+C[N+](C)(C)CCO.CN1C2=C(N=C[N-]2)C(=O)N(C)C1=O	choline theophyllinate

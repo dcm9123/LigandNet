@@ -1,0 +1,20 @@
+O=C1NC(=O)C(N1)(C1=CC=CC=C1)C1=CC=CC=C1	phenytoin
+CCOC(=O)C1=CC=C(N)C=C1	benzocaine
+CCCN1CCCC[C@H]1C(=O)NC1=C(C)C=CC=C1C	ropivacaine
+[H]C1(CCCCN1C)C(=O)NC1=C(C)C=CC=C1C	mepivacaine
+NC1=NN=C(C(N)=N1)C1=C(Cl)C(Cl)=CC=C1	lamotrigine
+CCN1C(=O)NC(C1=O)C1=CC=CC=C1	ethotoin
+NC1=NC(N)=C(C=C1)\N=N\C1=CC=CC=C1	phenazopyridine
+CCC1(NC(=O)N(C)C1=O)C1=CC=CC=C1	mephenytoin
+NC(=O)C1=CN(CC2=C(F)C=CC=C2F)N=N1	rufinamide
+CC(=O)O[C@H]1CC2=C(C=CC=C2)N(C(N)=O)C2=CC=CC=C12	eslicarbazepine acetate
+CCN(CC)CCNC(=O)C1=CC=C(N)C=C1	procainamide
+CC(N)C(=O)NC1=C(C)C=CC=C1C	tocainide
+F[C@H]1CCN(C1)C(=O)CN2CCN(C2=O)c3cccc4c3cnn4c5ccccc5F	CHEMBL3798228	pIC50=5.07
+Fc1ccc2c(c1)c(OCCN3CCNC3=O)nn2c4ccccc4F	CHEMBL3798363	pIC50=5.3
+FC(F)(F)Oc1cccc(c1)C(=O)NCc2noc(n2)c3c4ccccc4nn3CCn5ccnc5	CHEMBL3236329	pIC50=5.48
+NCc1noc(n1)c2c3ccccc3nn2Cc4ccccc4	CHEMBL466715	pIC50=5.99
+NCc1noc(n1)c2nn(Cc3ccccc3)c4ccccc24	CHEMBL512079	pIC50=6.18
+CCCCNC1=CC=C(C=C1)C(=O)OCCN(C)C	tetracaine	pIC50=6.28
+Nc1noc2ccc(cc12)c3cc(Cl)ccc3Oc4cc(F)c(cc4F)S(=O)(=O)Nc5ncns5	CHEMBL3341983	pIC50=7.96
+Nc1nc2cc(ccc2[nH]1)c3cc(Cl)ccc3Oc4cc(F)c(cc4F)S(=O)(=O)Nc5ncns5	CHEMBL3617063	pIC50=9.1

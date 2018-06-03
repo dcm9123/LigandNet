@@ -1,0 +1,1 @@
+CCN(CC)CCNC(=O)c1c(C)[nH]c(\C=C\2/C(=O)Nc3ccc(F)cc23)c1C	sunitinib	pKd=10.12	pKd=10.12	pKd=10.12	pIC50=7.77

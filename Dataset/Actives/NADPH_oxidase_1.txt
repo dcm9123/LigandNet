@@ -1,0 +1,2 @@
+CN(C)c1ccc(\C=C\2/N(C)C(=S)N(C2=O)c3cccc(Cl)c3)cc1	CHEMBL3827985	pKi=6.46
+CC1=C2C(=CC(=O)N1Cc3ccccn3)NN(C2=O)c4ccccc4Cl	CHEMBL1276946	pKi=6.78

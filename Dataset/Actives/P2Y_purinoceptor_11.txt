@@ -1,0 +1,2 @@
+[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].COc1ccc(cc1NC(=O)c2cccc(NC(=O)Nc3cccc(c3)C(=O)Nc4cc(ccc4OC)C(=O)Nc5ccc(c6cc(cc(c56)S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-])c2)C(=O)Nc7ccc(c8cc(cc(c78)S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-]	CHEMBL413910	pKi=7.12
+[Na+].[Na+].[Na+].[Na+].[Na+].[Na+].[O-]S(=O)(=O)c1cc(c2c(NC(=O)c3ccc(F)c(NC(=O)c4cccc(NC(=O)Nc5cccc(c5)C(=O)Nc6cc(ccc6F)C(=O)Nc7ccc(c8cc(cc(c78)S(=O)(=O)[O-])S(=O)(=O)[O-])S(=O)(=O)[O-])c4)c3)ccc(c2c1)S(=O)(=O)[O-])S(=O)(=O)[O-]	CHEMBL413145	pKi=7.35

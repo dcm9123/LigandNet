@@ -1,0 +1,5 @@
+CC(NC(=O)\C(=C/c1occc1)\NC(=O)c2occc2)C(=O)O	CHEMBL365261	pIC50=7.37
+CC(C)C(NC(=O)\C(=C/c1ccccc1F)\NC(=O)c2ccccc2)C(=O)O	CHEMBL188414	pIC50=7.39
+CC(NC(=O)\C(=C/c1ccc(Br)cc1)\NC(=O)c2oc(Br)cc2)C(=O)O	CHEMBL361087	pIC50=7.61
+OC(=O)CNC(=O)\C(=C/c1cccc(Br)c1)\NC(=O)c2occc2	CHEMBL366034	pIC50=7.78
+CNC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CC(C)C)CC(=O)NO	CHEMBL19611	pIC50=8.23

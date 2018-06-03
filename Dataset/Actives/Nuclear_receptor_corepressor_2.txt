@@ -1,0 +1,3 @@
+ONC(=O)CCCCCCC(=O)Nc1ccccc1	vorinostat	pKi=8.7	pKi=8.7	pKi=8.7
+[H][C@]12CC(=O)N[C@]([H])(C(C)C)C(=O)N[C@]([H])(CSSCC\C=C\1)C(=O)N\C(=C/C)C(=O)N[C@@]([H])(C(C)C)C(=O)O2	romidepsin	pIC50=7.73999977	pIC50=7.73999977	pIC50=7.73999977
+N[C@@H]1CC[C@@H](CC1)NC2=C(C(=O)NC=C2)c3nc4ccccc4[nH]3	CHEMBL3780091	pIC50=8.4

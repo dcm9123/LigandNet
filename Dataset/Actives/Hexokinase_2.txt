@@ -1,0 +1,5 @@
+COc1cc(cc(c1)c2ccc(cc2)C#N)C(=O)N[C@H]3C(O)O[C@H](CNS(=O)(=O)c4cccc(Cl)c4Cl)[C@@H](O)[C@@H]3O	CHEMBL3804841	pIC50=7.6
+OC1O[C@H](CNS(=O)(=O)c2cccc(Cl)c2Cl)[C@@H](O)[C@H](O)[C@H]1NC(=O)c3cccc(c3)c4ccccc4	CHEMBL3805905	pIC50=7.6
+OC1O[C@H](CNS(=O)(=O)c2cccc(Cl)c2Cl)[C@@H](O)[C@H](O)[C@H]1NS(=O)(=O)c3cccc(c3)c4ccccc4	CHEMBL3805653	pIC50=7.6
+Cc1oc(cc1C(=O)O)S(=O)(=O)NC[C@H]2OC(O)[C@H](NC(=O)c3cccc(Br)c3)[C@@H](O)[C@@H]2O	CHEMBL3805205	pIC50=8.0
+OC1O[C@H](CNS(=O)(=O)c2cccc(Cl)c2Cl)[C@@H](O)[C@H](O)[C@H]1NS(=O)(=O)c3cccc(c3)c4ccc(Cl)cc4	CHEMBL3806103	pIC50=8.1

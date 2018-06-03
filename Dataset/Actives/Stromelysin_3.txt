@@ -1,0 +1,4 @@
+NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@@H](CP(=O)(O)[C@H](Cc3ccccc3)NC(=O)OCc4ccccc4)Sc5ccccc5OC(F)(F)F	CHEMBL2153738	pKi=6.39
+NC(=O)C(Cc1c[nH]c2ccccc12)NC(=O)C(CCCc3ccccc3)CP(=O)(O)C(Cc4ccccc4)NC(=O)OCc5ccccc5	CHEMBL115774	pKi=8.3
+NC(=O)[C@H](Cc1c[nH]c2ccccc12)NC(=O)[C@H](CCc3ccccc3)CP(=O)(O)[C@H](Cc4ccccc4)NC(=O)OCc5ccccc5	CHEMBL2153737	pKi=8.3
+COc1ccccc1SC[C@H](CP(=O)(O)[C@H](Cc2ccccc2)NC(=O)OCc3ccccc3)C(=O)N[C@@H](Cc4c[nH]c5ccccc45)C(=O)N	CHEMBL447457	pKi=9.64

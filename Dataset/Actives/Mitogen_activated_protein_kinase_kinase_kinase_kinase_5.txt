@@ -1,0 +1,6 @@
+COc1cc(Nc2c(cnc3cc(OCCCN4CCN(C)CC4)c(OC)cc23)C#N)c(Cl)cc1Cl	bosutinib	pKd=9.3	pKd=9.3	pKd=9.3	pKd=9.3
+CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n3c4ccccc4c5c6CNC(=O)c6c7c8ccccc8n2c7c35	CHEMBL388978	pKd=7.59
+CCOc1cc2ncc(C#N)c(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)\C=C\CN(C)C	CHEMBL607707	pKd=8.0
+CNc1ncc2C=C(C(=O)N(C[C@@H]3OC[C@@H](N)CO3)c2n1)c4ccc(cc4Cl)c5cccc(C)n5	CHEMBL3770443	pIC50=8.0
+COc1cc2c(Oc3ccc(NC(=O)C4(CC4)C(=O)Nc5ccc(F)cc5)cc3F)ccnc2cc1OCCCN6CCOCC6	CHEMBL1230609	pKd=8.4
+CCOc1cc2ncc(C#N)c(Nc3ccc(OCc4ccccn4)c(Cl)c3)c2cc1NC(=O)\C=C\CN(C)C	CHEMBL180022	pKd=9.19

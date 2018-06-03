@@ -1,0 +1,8 @@
+FC(F)(F)c1nc(Cl)ncc1C(=O)Nc2cc(Cl)c(Cl)c(Cl)c2	CHEMBL134603	pIC50=6.05
+CCCCCCOC(=O)c1cc(NC(=O)c2cnc(Cl)nc2C(F)(F)F)cc(c1)C(F)(F)F	CHEMBL423153	pIC50=6.18
+FC(F)(F)c1nc(Cl)ncc1C(=O)Nc2cc(Cl)cc(Cl)c2	CHEMBL334485	pIC50=6.3
+FC(F)(F)c1nc(Cl)ncc1C(=O)Nc2cc(Cl)nc(Cl)n2	CHEMBL336099	pIC50=6.3
+FC(F)(F)c1ccc(NC(=O)c2cnc(Cl)nc2C(F)(F)F)cc1	CHEMBL135133	pIC50=6.31
+CCOC(=O)c1cc(NC(=O)c2cnc(Cl)nc2C(F)(F)F)cc(c1)C(F)(F)F	CHEMBL134490	pIC50=6.82
+CCCCOC(=O)c1cc(NC(=O)c2cnc(Cl)nc2C(F)(F)F)cc(c1)C(F)(F)F	CHEMBL131636	pIC50=6.92
+FC(F)(F)c1cc(NC(=O)c2cnc(Cl)nc2C(F)(F)F)cc(c1)C(F)(F)F	CHEMBL336546	pIC50=7.3

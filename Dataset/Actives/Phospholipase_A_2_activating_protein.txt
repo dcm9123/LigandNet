@@ -1,0 +1,2 @@
+CCc1nccn1CC(=O)c2ccc(O)c(O)c2	CHEMBL607856	pIC50=6.1
+Oc1ccc(cc1O)C(=O)Cn2cnc3ccccc23	CHEMBL608723	pIC50=6.1

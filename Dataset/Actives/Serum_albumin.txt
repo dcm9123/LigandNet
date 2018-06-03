@@ -1,0 +1,9 @@
+Cc1cc(C)c(c(C)c1)S(=O)(=O)N[C@@H](Cc2ccc(cc2)c3cccc(NC(=O)NC4CC4)c3)C(=O)O	CHEMBL10811	pKd=6.13
+COCCOCCCSc1ccc(cn1)C(=O)Nc2ccc(cc2C(=O)O)C#N	CHEMBL233625	pKd=6.16
+CC(C)c1c(O)c(O)c(C=O)c2ccc(C)cc12	CHEMBL77613	pKd=6.18
+Cc1cc(C)c(c(C)c1)S(=O)(=O)N[C@@H](Cc2ccc(cc2)c3cccc(NC4=C(NC5CC5)C(=O)C4=O)c3)C(=O)O	CHEMBL249990	pKd=6.38
+OC(=O)c1[nH]c2ccccc2c1CCCOc3cccc4ccccc34	CHEMBL2314198	pKi=6.4
+Cn1c(\C=C\c2ccc(cc2C(=O)O)C#N)cc3ccccc13	CHEMBL249022	pKd=6.41
+Cc1ccccc1c2cccc3c(CCCOc4cccc5ccccc45)c(C(=O)O)n(CCN6CCOCC6)c23	CHEMBL3417694	pKi=6.44
+CC(C)c1csc(\C=C\c2cccc(NC(=O)Cc3ccccc3C(=O)O)c2)n1	CHEMBL337637	pKd=6.55
+CC(C)c1c(O)c(O)c(C(=O)O)c2c(O)c(c(C)cc12)c3c(C)cc4c(C(C)C)c(O)c(O)c(C(=O)O)c4c3O	CHEMBL81444	pKd=7.05

@@ -1,0 +1,14 @@
+NCCCC(NC(=O)c1ccc(CNc2ccc3nc(N)nc(O)c3c2F)cc1)C(=O)O	CHEMBL340993	pKi=6.05
+NCCCC(NC(=O)c1ccc(CNc2ccc3nc(N)nc(O)c3c2Cl)cc1)C(=O)O	CHEMBL335629	pKi=6.3
+NCCCC(NC(=O)c1ccc(SCc2ccc3ncnc(O)c3c2)cc1)C(=O)O	CHEMBL43288	pKi=6.38
+NCCC[C@H](NC(=O)c1ccc(NCc2cnc3nc(N)nc(N)c3n2)cc1)C(=O)O	CHEMBL281656	pKi=6.52
+NCCCC(NC(=O)c1ccc(NCC2CNc3nc(N)nc(O)c3C2)cc1)C(=O)O	CHEMBL289923	pIC50=6.68
+NCCCC(NC(=O)c1ccc(NCC2CNc3nc(N)nc(O)c3N2)cc1)C(=O)O	CHEMBL83868	pKi=6.7
+NCCC[C@H](N1Cc2cc(NCC3CNc4nc(N)nc(O)c4C3)ccc2C1=O)C(=O)O	CHEMBL331279	pKi=6.7
+Cc1nc(O)c2c(F)c(NCc3ccc(cc3)C(=O)NC(CCCN)C(=O)O)ccc2n1	CHEMBL339240	pKi=6.82
+CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)N[C@@H](CCP(=O)(O)O[C@@H](CCC(=O)O)C(=O)O)C(=O)O	CHEMBL431954	pIC50=6.92
+CN(Cc1cnc2nc(N)nc(N)c2n1)c3ccc(cc3)C(=O)NC(CCP(=O)(O)OC(CCC(=O)O)C(=O)O)C(=O)O	CHEMBL306014	pIC50=7.7
+NCCCC(NC(=O)c1ccc(CNc2ccc3nc(N)nc(O)c3c2C(F)(F)F)cc1)C(=O)O	CHEMBL133637	pKi=7.96
+NCCCC(NC(=O)c1ccc(NCc2ccc3nc(N)nc(O)c3c2C(F)(F)F)cc1)C(=O)O	CHEMBL130518	pKi=8.06
+NCCCC(NC(=O)c1ccc(NCc2ccc3nc(N)nc(O)c3c2Cl)cc1)C(=O)O	CHEMBL288142	pKi=8.08
+NCCCC(NC(=O)c1ccc(NCc2ccc3nc(N)nc(N)c3c2Cl)cc1)C(=O)O	CHEMBL38937	pKi=8.77

@@ -1,0 +1,7 @@
+O=C(NC1CCOCC1)c2ccc(cc2)c3cc(ccn3)c4c[nH]nc4c5ccccn5	CHEMBL202887	pIC50=6.35
+c1ccc(nc1)c2n[nH]cc2c3ccnc(c3)n4ccnc4	CHEMBL1829505	pIC50=7.06
+c1ccc(nc1)c2n[nH]cc2c3ccnc(c3)n4cccn4	CHEMBL1829504	pIC50=7.11
+Cn1cc(cn1)c2cc(ccn2)c3c[nH]nc3c4ccccn4	CHEMBL1828640	pIC50=7.17
+CN1CCN(CC1)c2ccc(cn2)c3cc(ccn3)c4c[nH]nc4c5ccccn5	CHEMBL1829512	pIC50=7.5
+CN(C)CCOc1ccc(cc1)c2cc(ccn2)c3c[nH]nc3c4ccccn4	CHEMBL424676	pIC50=7.72
+CN(C)CCCOc1ccc(cn1)c2cc(ccn2)c3c[nH]nc3c4ccccn4	CHEMBL1829511	pIC50=7.96

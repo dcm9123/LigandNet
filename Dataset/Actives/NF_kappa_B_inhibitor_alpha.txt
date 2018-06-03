@@ -1,0 +1,3 @@
+Cc1ccc(cc1S(=O)(=O)Nc2cccc3cccnc23)[N+](=O)[O-]	CHEMBL429586	pEC50=6.0
+FC(F)(F)c1ccc2c(c1)c3ccc4cccnc4c3NS2(=O)=O	CHEMBL272552	pEC50=6.0
+Cc1ccc2c(c1)c3ccc4cccnc4c3NS2(=O)=O	CHEMBL271669	pEC50=6.1

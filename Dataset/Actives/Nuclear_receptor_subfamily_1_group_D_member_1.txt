@@ -1,0 +1,3 @@
+[O-][N+](=O)c1ccc(CN(Cc2ccccc2)Cc3ccc(Cl)cc3)s1	CHEMBL2381197	pEC50=7.0
+[O-][N+](=O)c1ccc(CN(Cc2ccc(Cl)cc2)Cc3ccccc3F)s1	CHEMBL2381198	pEC50=7.2
+Cc1cc(Cl)ccc1CN(Cc2ccc(Cl)cc2)Cc3ccc(s3)[N+](=O)[O-]	CHEMBL2381196	pEC50=7.3

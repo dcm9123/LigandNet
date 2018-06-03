@@ -1,0 +1,2 @@
+CCCC1=CC(=O)NC(=S)N1	propylthiouracil
+COc1cccc(c1)c2nc(SC)nc3sc(C(=O)NC(C)(C)C)c(N)c23	CHEMBL211405	pEC50=6.66

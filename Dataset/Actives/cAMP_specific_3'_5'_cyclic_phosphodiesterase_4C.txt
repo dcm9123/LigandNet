@@ -1,0 +1,5 @@
+OB1OCc2cc(Oc3ccc(cc3)C#N)ccc12	crisaborole	pIC50=6.30980396	pIC50=6.30980396	pIC50=6.30980396
+CC(C)C1=CC=C2OC3=C(C=C(C(O)=O)C(N)=N3)C(=O)C2=C1	amlexanox
+CC1=C(OC2=C(C=CC=C2C1=O)C(=O)OCCN1CCCCC1)C1=CC=CC=C1	flavoxate
+FC(F)OC1=C(OCC2CC2)C=C(C=C1)C(=O)NC1=C(Cl)C=NC=C1Cl	roflumilast	pIC50=9.1	pIC50=9.1	pIC50=9.1
+C[N+](C)(C)CCO.CN1C2=C(N=C[N-]2)C(=O)N(C)C1=O	choline theophyllinate	pKi=4.25	pKi=4.25	pKi=4.25

@@ -1,0 +1,3 @@
+O=C1N(CC2=CC=CC=C2)C2C[S+]3CCCC3C2N1CC1=CC=CC=C1	trimetaphan
+[H]C12CCC([H])(C1)C(C)(NC)C2(C)C	mecamylamine	pKi=6.2218	pKi=6.2218	pKi=6.2218
+C[N+]1(CCCCC[N+]2(C)CCCC2)CCCC1	pentolonium

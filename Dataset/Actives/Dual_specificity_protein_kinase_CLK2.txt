@@ -1,0 +1,8 @@
+CCN(CC)CCNC(=O)c1c(C)[nH]c(\C=C\2/C(=O)Nc3ccc(F)cc23)c1C	sunitinib	pKd=7.7	pKd=7.7	pKd=7.7	pKd=7.7
+Clc1cc(Cl)cc(CNc2nccc(n2)c3ccc4OCOc4c3)c1	CHEMBL2392364	pIC50=7.64
+Clc1ccc(CNc2nccc(n2)c3ccc4OCOc4c3)cc1Cl	CHEMBL1898197	pIC50=7.7
+CNC(=O)c1c(F)cccc1Nc2nc(Nc3cc4N(CCc4cc3OC)C(=O)CN(C)C)nc5[nH]ccc25	CHEMBL464552	pKd=7.8
+CN[C@@H]1C[C@H]2O[C@@](C)([C@@H]1OC)n3c4ccccc4c5c6CNC(=O)c6c7c8ccccc8n2c7c35	CHEMBL388978	pKd=7.92
+CC(=O)c1c(C)c([nH]c1c2ccncc2)c3ccncc3	CHEMBL526901	pKd=8.0
+Cn1cc(C2=C(C(=O)NC2=O)c3cccc(NCC(O)CO)c3)c4cc(F)ccc14	CHEMBL1082152	pKd=8.0
+Cc1n[nH]c2ccc(cc12)c3cncc(OC[C@@H](N)Cc4ccccc4)c3	CHEMBL379218	pKd=9.29

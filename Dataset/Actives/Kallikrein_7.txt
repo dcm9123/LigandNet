@@ -1,0 +1,5 @@
+CSc1nc(nn1C(=O)c2ccccc2)c3ccc(Cl)cc3	CHEMBL1580091	pIC50=6.18
+COc1ccc(cc1)C(=O)n2cnnc2N	CHEMBL1580446	pIC50=6.22
+COc1ccc(cc1OC)C(=O)n2nc(nc2N)c3ccccc3	CHEMBL1471674	pIC50=6.64
+Nc1nc(nn1C(=O)c2ccc(Cl)cc2)c3cccnc3	CHEMBL1464269	pIC50=6.66
+Cc1ccc(cc1)C(=O)n2nc(nc2N)c3cccnc3	CHEMBL1413622	pIC50=7.4

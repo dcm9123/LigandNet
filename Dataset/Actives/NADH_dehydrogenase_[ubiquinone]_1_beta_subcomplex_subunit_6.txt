@@ -1,0 +1,2 @@
+CN(C)C(=N)NC(N)=N	metformin
+Cc1c2cc(ccc2nn1C3CC3)N4C=CC(=CC4=O)OCc5csc(c5)C(F)(F)F	CHEMBL3578244	pIC50=7.1
